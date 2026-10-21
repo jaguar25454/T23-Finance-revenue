@@ -1,0 +1,7909 @@
+{
+  "source": {
+    "filename": "Capricci_Daily_Sales_Report_20260901-for Codex.xlsx",
+    "sha256": "1f06b14420c4f754f02bddbc63e6bd151385fb737bde7d5e16e9abb3be56ce95",
+    "mappingReferenceSha256": "503da87cff13c22d61f2469f72b4c9dab863d752dbcecad22da22bbda8b2d08d",
+    "verifiedCodeMenuRows": 877,
+    "sheet": "Category",
+    "codeColumn": "F",
+    "menuColumn": "G",
+    "priceColumn": "I",
+    "headerCell": "I3",
+    "currency": "THB"
+  },
+  "rows": [
+    {
+      "itemCode": "FOD-CIC0001",
+      "sourceRow": 4,
+      "menu": "Gambero Rosso Bun",
+      "cell": "I4",
+      "price": 270.0,
+      "rawPrice": "270",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0002",
+      "sourceRow": 5,
+      "menu": "Akami Tuna & Saffron Rice",
+      "cell": "I5",
+      "price": 200.0,
+      "rawPrice": "200",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0003",
+      "sourceRow": 6,
+      "menu": "Baby Octopus Tart",
+      "cell": "I6",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0004",
+      "sourceRow": 7,
+      "menu": "Herring Roe & San Daniele",
+      "cell": "I7",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0005",
+      "sourceRow": 8,
+      "menu": "Truffle Melting Toast",
+      "cell": "I8",
+      "price": 270.0,
+      "rawPrice": "270",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0006",
+      "sourceRow": 9,
+      "menu": "Black Ink Garum Arancini",
+      "cell": "I9",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0007",
+      "sourceRow": 10,
+      "menu": "Ossobuco Crocchetta",
+      "cell": "I10",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0008",
+      "sourceRow": 11,
+      "menu": "Crab Gnocco Fritto",
+      "cell": "I11",
+      "price": 190.0,
+      "rawPrice": "190",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0001",
+      "sourceRow": 12,
+      "menu": "Ricciola Sashimi / Clementine / Fennel",
+      "cell": "I12",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0002",
+      "sourceRow": 13,
+      "menu": "Hokkaido Scallop / Shio-Koji / Truffle",
+      "cell": "I13",
+      "price": 420.0,
+      "rawPrice": "420",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0003",
+      "sourceRow": 14,
+      "menu": "Mackerel / Colatura Mayo / Spring Onion",
+      "cell": "I14",
+      "price": 210.0,
+      "rawPrice": "210",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0004",
+      "sourceRow": 15,
+      "menu": "Cuttlefish Lardon / Romesco / Bottarga",
+      "cell": "I15",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0005",
+      "sourceRow": 16,
+      "menu": "Burrata / Tomatoes / Pesto / Almond",
+      "cell": "I16",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0006",
+      "sourceRow": 17,
+      "menu": "Beef Carpaccio / Celeriac / Parmesan",
+      "cell": "I17",
+      "price": 420.0,
+      "rawPrice": "420",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0007",
+      "sourceRow": 18,
+      "menu": "Cuoppo / Deep Fried Seafood / Smoked Paprika Alioli",
+      "cell": "I18",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0008",
+      "sourceRow": 19,
+      "menu": "Veal / Tonnato Sauce / Capers / Coffee",
+      "cell": "I19",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0009",
+      "sourceRow": 20,
+      "menu": "Focaccia / Mortadella / Ricotta / Pistachio",
+      "cell": "I20",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0001",
+      "sourceRow": 21,
+      "menu": "Margherita Sbagliata / Fior di Latte / Basil",
+      "cell": "I21",
+      "price": 190.0,
+      "rawPrice": "190",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0002",
+      "sourceRow": 22,
+      "menu": "Pulled Pork / Nduja / Friarielli",
+      "cell": "I22",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0003",
+      "sourceRow": 23,
+      "menu": "Contadina / Gorgonzola / Fig Jam / Red Onion",
+      "cell": "I23",
+      "price": 290.0,
+      "rawPrice": "290",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0004",
+      "sourceRow": 24,
+      "menu": "Deep Fried Pizza / Octopus / Chili",
+      "cell": "I24",
+      "price": 310.0,
+      "rawPrice": "310",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0005",
+      "sourceRow": 25,
+      "menu": "Deep Fried Pizza / Stracciatella / San Daniele Ham",
+      "cell": "I25",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0001",
+      "sourceRow": 26,
+      "menu": "Lasagnette di Mare / Prawn / Basil / Mozzarella",
+      "cell": "I26",
+      "price": 420.0,
+      "rawPrice": "420",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0002",
+      "sourceRow": 27,
+      "menu": "Culurgiones / Baby Pork / Smoked Eggplant",
+      "cell": "I27",
+      "price": 370.0,
+      "rawPrice": "370",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0003",
+      "sourceRow": 28,
+      "menu": "Raviolo del Plin / Hazelnut / Castel Magno / Black Truffle",
+      "cell": "I28",
+      "price": 790.0,
+      "rawPrice": "790",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0004",
+      "sourceRow": 29,
+      "menu": "Tonnarelli BBQ / Pecorino / Black Pepper",
+      "cell": "I29",
+      "price": 380.0,
+      "rawPrice": "380",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0005",
+      "sourceRow": 30,
+      "menu": "Orecchiette / Broccoli / Cetara Anchovy / Katsuobushi",
+      "cell": "I30",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0006",
+      "sourceRow": 31,
+      "menu": "Risotto / Clams / Tomato / Zucchini",
+      "cell": "I31",
+      "price": 390.0,
+      "rawPrice": "390",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0001",
+      "sourceRow": 32,
+      "menu": "Fiorentina T-Bone Steak - Simmental",
+      "cell": "I32",
+      "price": 4450.0,
+      "rawPrice": "4450",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0002",
+      "sourceRow": 33,
+      "menu": "Fiorentina T-Bone Steak - Wagyu Opal",
+      "cell": "I33",
+      "price": 4900.0,
+      "rawPrice": "4900",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0003",
+      "sourceRow": 34,
+      "menu": "Wagyu Hanger Steak 300 g",
+      "cell": "I34",
+      "price": 990.0,
+      "rawPrice": "990",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0004",
+      "sourceRow": 35,
+      "menu": "Lamb Rack 300 g",
+      "cell": "I35",
+      "price": 1200.0,
+      "rawPrice": "1200",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0005",
+      "sourceRow": 36,
+      "menu": "Veal Chop Milanese 2 Racks",
+      "cell": "I36",
+      "price": 1900.0,
+      "rawPrice": "1900",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0006",
+      "sourceRow": 37,
+      "menu": "Pork Chop",
+      "cell": "I37",
+      "price": 780.0,
+      "rawPrice": "780",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0007",
+      "sourceRow": 38,
+      "menu": "Rib Eye Wagyu Opal 300 g",
+      "cell": "I38",
+      "price": 2690.0,
+      "rawPrice": "2690",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0008",
+      "sourceRow": 39,
+      "menu": "Rib Eye Wagyu Opal 500 g",
+      "cell": "I39",
+      "price": 4290.0,
+      "rawPrice": "4290",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0009",
+      "sourceRow": 40,
+      "menu": "Costata Strip Steak Simmental",
+      "cell": "I40",
+      "price": 4450.0,
+      "rawPrice": "4450",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0010",
+      "sourceRow": 41,
+      "menu": "Costata Strip Steak Wagyu Opal",
+      "cell": "I41",
+      "price": 4900.0,
+      "rawPrice": "4900",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTS0001",
+      "sourceRow": 42,
+      "menu": "Cannadian Lobster",
+      "cell": "I42",
+      "price": 3800.0,
+      "rawPrice": "3800",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTS0002",
+      "sourceRow": 43,
+      "menu": "Ayuttaya King Prawn",
+      "cell": "I43",
+      "price": 1950.0,
+      "rawPrice": "1950",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTS0003",
+      "sourceRow": 44,
+      "menu": "Sea Bream",
+      "cell": "I44",
+      "price": 1100.0,
+      "rawPrice": "1100",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTS0004",
+      "sourceRow": 45,
+      "menu": "Dover Sole",
+      "cell": "I45",
+      "price": 3500.0,
+      "rawPrice": "3500",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0001",
+      "sourceRow": 46,
+      "menu": "Potato Cake",
+      "cell": "I46",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0002",
+      "sourceRow": 47,
+      "menu": "Radicchio & Walnut",
+      "cell": "I47",
+      "price": 140.0,
+      "rawPrice": "140",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0003",
+      "sourceRow": 48,
+      "menu": "Parmigiana",
+      "cell": "I48",
+      "price": 130.0,
+      "rawPrice": "130",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0004",
+      "sourceRow": 49,
+      "menu": "Caponata",
+      "cell": "I49",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0005",
+      "sourceRow": 50,
+      "menu": "Panzanella",
+      "cell": "I50",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0006",
+      "sourceRow": 51,
+      "menu": "Seasonal Salad",
+      "cell": "I51",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0001",
+      "sourceRow": 52,
+      "menu": "Tiramisu",
+      "cell": "I52",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0002",
+      "sourceRow": 53,
+      "menu": "Caprese Smoked Vanilla",
+      "cell": "I53",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0003",
+      "sourceRow": 54,
+      "menu": "Amalfi Lemon Panna Cotta",
+      "cell": "I54",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0001",
+      "sourceRow": 58,
+      "menu": "Espresso",
+      "cell": "I58",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0002",
+      "sourceRow": 59,
+      "menu": "Double Espresso",
+      "cell": "I59",
+      "price": 120.0,
+      "rawPrice": "120",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0003",
+      "sourceRow": 60,
+      "menu": "Latte",
+      "cell": "I60",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0004",
+      "sourceRow": 61,
+      "menu": "Americano",
+      "cell": "I61",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0005",
+      "sourceRow": 62,
+      "menu": "Cappuccino",
+      "cell": "I62",
+      "price": 120.0,
+      "rawPrice": "120",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-TEA0001",
+      "sourceRow": 63,
+      "menu": "Lemon Tea",
+      "cell": "I63",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-TEA0002",
+      "sourceRow": 64,
+      "menu": "Black Tea",
+      "cell": "I64",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-TEA0003",
+      "sourceRow": 65,
+      "menu": "Jasmine Tea",
+      "cell": "I65",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-JUI0001",
+      "sourceRow": 66,
+      "menu": "Pineapple Juice",
+      "cell": "I66",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-JUI0002",
+      "sourceRow": 67,
+      "menu": "Orange Juice",
+      "cell": "I67",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-JUI0003",
+      "sourceRow": 68,
+      "menu": "Apple Juice",
+      "cell": "I68",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0001",
+      "sourceRow": 69,
+      "menu": "Coca Cola",
+      "cell": "I69",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0002",
+      "sourceRow": 70,
+      "menu": "Coke Zero",
+      "cell": "I70",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0003",
+      "sourceRow": 71,
+      "menu": "Fanta",
+      "cell": "I71",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0004",
+      "sourceRow": 72,
+      "menu": "Sprite / 7 Up",
+      "cell": "I72",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0005",
+      "sourceRow": 73,
+      "menu": "Soda Water",
+      "cell": "I73",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0006",
+      "sourceRow": 74,
+      "menu": "Tonic Water",
+      "cell": "I74",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0007",
+      "sourceRow": 75,
+      "menu": "Ginger Ale",
+      "cell": "I75",
+      "price": 100.0,
+      "rawPrice": "100",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0001",
+      "sourceRow": 79,
+      "menu": "Bickens",
+      "cell": "I79",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0002",
+      "sourceRow": 80,
+      "menu": "Tanqueray",
+      "cell": "I80",
+      "price": 260.0,
+      "rawPrice": "260",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0003",
+      "sourceRow": 81,
+      "menu": "Malfy Arancia",
+      "cell": "I81",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0004",
+      "sourceRow": 82,
+      "menu": "Monkey 47",
+      "cell": "I82",
+      "price": 390.0,
+      "rawPrice": "390",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-VOD0001",
+      "sourceRow": 83,
+      "menu": "Tito’s",
+      "cell": "I83",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-VOD0002",
+      "sourceRow": 84,
+      "menu": "Stolichnaya",
+      "cell": "I84",
+      "price": 200.0,
+      "rawPrice": "200",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-VOD0003",
+      "sourceRow": 85,
+      "menu": "Grey Goose",
+      "cell": "I85",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-VOD0004",
+      "sourceRow": 86,
+      "menu": "Belvedere",
+      "cell": "I86",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-RUM0001",
+      "sourceRow": 87,
+      "menu": "Havana",
+      "cell": "I87",
+      "price": 200.0,
+      "rawPrice": "200",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-RUM0002",
+      "sourceRow": 88,
+      "menu": "Bacardi",
+      "cell": "I88",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-RUM0003",
+      "sourceRow": 89,
+      "menu": "Plantation",
+      "cell": "I89",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-RUM0004",
+      "sourceRow": 90,
+      "menu": "Mount Gay",
+      "cell": "I90",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-RUM0005",
+      "sourceRow": 91,
+      "menu": "Grand Reserva",
+      "cell": "I91",
+      "price": 150.0,
+      "rawPrice": "150",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0001",
+      "sourceRow": 92,
+      "menu": "Jose Cuervo Especial Silver",
+      "cell": "I92",
+      "price": 180.0,
+      "rawPrice": "180",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0002",
+      "sourceRow": 93,
+      "menu": "Jose Cuervo Especial Reposado",
+      "cell": "I93",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0003",
+      "sourceRow": 94,
+      "menu": "Patron Silver",
+      "cell": "I94",
+      "price": 390.0,
+      "rawPrice": "390",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0004",
+      "sourceRow": 95,
+      "menu": "1800 Coconut Reserva",
+      "cell": "I95",
+      "price": 390.0,
+      "rawPrice": "390",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BOW0001",
+      "sourceRow": 96,
+      "menu": "Wild Turkey",
+      "cell": "I96",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BOW0002",
+      "sourceRow": 97,
+      "menu": "Jack Daniels",
+      "cell": "I97",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BOW0003",
+      "sourceRow": 98,
+      "menu": "Bulleit",
+      "cell": "I98",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BOW0004",
+      "sourceRow": 99,
+      "menu": "Elijah Craig",
+      "cell": "I99",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-SCW0001",
+      "sourceRow": 100,
+      "menu": "Monkey Shoulder",
+      "cell": "I100",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-SCW0002",
+      "sourceRow": 101,
+      "menu": "JW Black Label",
+      "cell": "I101",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-SCW0003",
+      "sourceRow": 102,
+      "menu": "Laphroaig 10",
+      "cell": "I102",
+      "price": 470.0,
+      "rawPrice": "470",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-SCW0004",
+      "sourceRow": 103,
+      "menu": "JW Gold Label",
+      "cell": "I103",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0001",
+      "sourceRow": 104,
+      "menu": "Peroni Draught 33 cl",
+      "cell": "I104",
+      "price": 170.0,
+      "rawPrice": "170",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0002",
+      "sourceRow": 105,
+      "menu": "Peroni Draught 50 cl",
+      "cell": "I105",
+      "price": 260.0,
+      "rawPrice": "260",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0003",
+      "sourceRow": 106,
+      "menu": "Singha Small Bottle 33 cl",
+      "cell": "I106",
+      "price": 140.0,
+      "rawPrice": "140",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0004",
+      "sourceRow": 107,
+      "menu": "Baladin Nazionale Beer",
+      "cell": "I107",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0005",
+      "sourceRow": 108,
+      "menu": "Baladin Beer L'IPPA",
+      "cell": "I108",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0006",
+      "sourceRow": 109,
+      "menu": "Baladin Nora Beer ",
+      "cell": "I109",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0001",
+      "sourceRow": 110,
+      "menu": "Amaro Montenegro",
+      "cell": "I110",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0002",
+      "sourceRow": 111,
+      "menu": "Amaro Averna",
+      "cell": "I111",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0003",
+      "sourceRow": 112,
+      "menu": "Amaro Lucano",
+      "cell": "I112",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0004",
+      "sourceRow": 113,
+      "menu": "Fernet Branca",
+      "cell": "I113",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0005",
+      "sourceRow": 114,
+      "menu": "Amaro Del Capo",
+      "cell": "I114",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-AIB0006",
+      "sourceRow": 115,
+      "menu": "Cynar",
+      "cell": "I115",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0001",
+      "sourceRow": 116,
+      "menu": "Limoncello",
+      "cell": "I116",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0002",
+      "sourceRow": 117,
+      "menu": "Amaretto",
+      "cell": "I117",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0003",
+      "sourceRow": 118,
+      "menu": "Sambuca",
+      "cell": "I118",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0004",
+      "sourceRow": 119,
+      "menu": "Frangelico",
+      "cell": "I119",
+      "price": 260.0,
+      "rawPrice": "260",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0005",
+      "sourceRow": 120,
+      "menu": "Maraschino",
+      "cell": "I120",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GRA0001",
+      "sourceRow": 121,
+      "menu": "Novino",
+      "cell": "I121",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GRA0002",
+      "sourceRow": 122,
+      "menu": "Di Tignano",
+      "cell": "I122",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0001",
+      "sourceRow": 126,
+      "menu": "Pizza Pineapple Negroni",
+      "cell": "I126",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0002",
+      "sourceRow": 127,
+      "menu": "Banane E Lamponi",
+      "cell": "I127",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0003",
+      "sourceRow": 128,
+      "menu": "Americano Sbagliato",
+      "cell": "I128",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0004",
+      "sourceRow": 129,
+      "menu": "Mai Dire Giorgio",
+      "cell": "I129",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0005",
+      "sourceRow": 130,
+      "menu": "From Disco To Disco",
+      "cell": "I130",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0006",
+      "sourceRow": 131,
+      "menu": "Sophia Sour",
+      "cell": "I131",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0001",
+      "sourceRow": 132,
+      "menu": "Negroni",
+      "cell": "I132",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0002",
+      "sourceRow": 133,
+      "menu": "Whiskey Sour",
+      "cell": "I133",
+      "price": 290.0,
+      "rawPrice": "290",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0003",
+      "sourceRow": 134,
+      "menu": "Espresso Martini",
+      "cell": "I134",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0004",
+      "sourceRow": 135,
+      "menu": "Moscow Mule",
+      "cell": "I135",
+      "price": 290.0,
+      "rawPrice": "290",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0005",
+      "sourceRow": 136,
+      "menu": "Margarita",
+      "cell": "I136",
+      "price": 290.0,
+      "rawPrice": "290",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0006",
+      "sourceRow": 137,
+      "menu": "Aperol Spritz",
+      "cell": "I137",
+      "price": 300.0,
+      "rawPrice": "300",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-MOC0001",
+      "sourceRow": 138,
+      "menu": "Pesca Capricciosa",
+      "cell": "I138",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-MOC0002",
+      "sourceRow": 139,
+      "menu": "Cocco Matto",
+      "cell": "I139",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "COC-MOC0003",
+      "sourceRow": 140,
+      "menu": "Chiara D'Estate",
+      "cell": "I140",
+      "price": 220.0,
+      "rawPrice": "220",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0001",
+      "sourceRow": 144,
+      "menu": "Alto Adige ",
+      "cell": "I144",
+      "price": 2450.0,
+      "rawPrice": "2450",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0002",
+      "sourceRow": 145,
+      "menu": "Alto Adige ",
+      "cell": "I145",
+      "price": 1875.0,
+      "rawPrice": "1875",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0003",
+      "sourceRow": 146,
+      "menu": "Alto Adige ",
+      "cell": "I146",
+      "price": 1860.0,
+      "rawPrice": "1860",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0004",
+      "sourceRow": 147,
+      "menu": "Alto Adige ",
+      "cell": "I147",
+      "price": 1631.25,
+      "rawPrice": "1631.25",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0005",
+      "sourceRow": 148,
+      "menu": "Alto Adige ",
+      "cell": "I148",
+      "price": 1721.25,
+      "rawPrice": "1721.25",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0006",
+      "sourceRow": 149,
+      "menu": "Alto Adige ",
+      "cell": "I149",
+      "price": 1875.0,
+      "rawPrice": "1875",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0007",
+      "sourceRow": 150,
+      "menu": "Friuli",
+      "cell": "I150",
+      "price": 2100.0,
+      "rawPrice": "2100",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0008",
+      "sourceRow": 151,
+      "menu": "Veneto",
+      "cell": "I151",
+      "price": 4725.0,
+      "rawPrice": "4725",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0009",
+      "sourceRow": 152,
+      "menu": "Friuli ",
+      "cell": "I152",
+      "price": 1500.0,
+      "rawPrice": "1500",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0010",
+      "sourceRow": 153,
+      "menu": "Piedmont",
+      "cell": "I153",
+      "price": 2800.0,
+      "rawPrice": "2800",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0011",
+      "sourceRow": 154,
+      "menu": "Piedmont",
+      "cell": "I154",
+      "price": 1760.0,
+      "rawPrice": "1760",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0012",
+      "sourceRow": 155,
+      "menu": "Piedmont ",
+      "cell": "I155",
+      "price": 2050.0,
+      "rawPrice": "2050",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0013",
+      "sourceRow": 156,
+      "menu": "Marche",
+      "cell": "I156",
+      "price": 2400.0,
+      "rawPrice": "2400",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0014",
+      "sourceRow": 157,
+      "menu": "Marche",
+      "cell": "I157",
+      "price": 1400.0,
+      "rawPrice": "1400",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0015",
+      "sourceRow": 158,
+      "menu": "Campania",
+      "cell": "I158",
+      "price": 1980.0,
+      "rawPrice": "1980",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0016",
+      "sourceRow": 159,
+      "menu": "Campania",
+      "cell": "I159",
+      "price": 1540.0,
+      "rawPrice": "1540",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0017",
+      "sourceRow": 160,
+      "menu": "Campania",
+      "cell": "I160",
+      "price": 2900.0,
+      "rawPrice": "2900",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0018",
+      "sourceRow": 161,
+      "menu": "Sicily ",
+      "cell": "I161",
+      "price": 1690.0,
+      "rawPrice": "1690",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0019",
+      "sourceRow": 162,
+      "menu": "Sicily ",
+      "cell": "I162",
+      "price": 2275.0,
+      "rawPrice": "2275",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0020",
+      "sourceRow": 163,
+      "menu": "Sicily ",
+      "cell": "I163",
+      "price": 1575.0,
+      "rawPrice": "1575",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0021",
+      "sourceRow": 164,
+      "menu": "Puglia ",
+      "cell": "I164",
+      "price": 2275.0,
+      "rawPrice": "2275",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0022",
+      "sourceRow": 165,
+      "menu": "Abruzzo ",
+      "cell": "I165",
+      "price": 1975.0,
+      "rawPrice": "1975",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0023",
+      "sourceRow": 166,
+      "menu": "Abruzzo ",
+      "cell": "I166",
+      "price": 1440.0,
+      "rawPrice": "1440",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0001",
+      "sourceRow": 167,
+      "menu": "Trentino",
+      "cell": "I167",
+      "price": 2250.0,
+      "rawPrice": "2250",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0002",
+      "sourceRow": 168,
+      "menu": "Lombardy ",
+      "cell": "I168",
+      "price": 2400.0,
+      "rawPrice": "2400",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0003",
+      "sourceRow": 169,
+      "menu": "Veneto",
+      "cell": "I169",
+      "price": 1110.0,
+      "rawPrice": "1110",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0004",
+      "sourceRow": 170,
+      "menu": "Veneto",
+      "cell": "I170",
+      "price": 1725.0,
+      "rawPrice": "1725",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0005",
+      "sourceRow": 171,
+      "menu": "Puglia",
+      "cell": "I171",
+      "price": 1725.0,
+      "rawPrice": "1725",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0006",
+      "sourceRow": 172,
+      "menu": "Champagne ",
+      "cell": "I172",
+      "price": 6000.0,
+      "rawPrice": "6000",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0007",
+      "sourceRow": 173,
+      "menu": "Champagne ",
+      "cell": "I173",
+      "price": 5000.0,
+      "rawPrice": "5000",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0008",
+      "sourceRow": 174,
+      "menu": "Champagne ",
+      "cell": "I174",
+      "price": 4975.0,
+      "rawPrice": "4975",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0009",
+      "sourceRow": 175,
+      "menu": "Champagne ",
+      "cell": "I175",
+      "price": 6875.0,
+      "rawPrice": "6875",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0010",
+      "sourceRow": 176,
+      "menu": "Champagne ",
+      "cell": "I176",
+      "price": 5900.0,
+      "rawPrice": "5900",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0011",
+      "sourceRow": 177,
+      "menu": "Champagne - France-",
+      "cell": "I177",
+      "price": 11000.0,
+      "rawPrice": "11000",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0001",
+      "sourceRow": 178,
+      "menu": "Tuscany",
+      "cell": "I178",
+      "price": 5250.0,
+      "rawPrice": "5250",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0002",
+      "sourceRow": 179,
+      "menu": "Tuscany",
+      "cell": "I179",
+      "price": 4550.0,
+      "rawPrice": "4550",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0003",
+      "sourceRow": 180,
+      "menu": "Tuscany",
+      "cell": "I180",
+      "price": 2475.0,
+      "rawPrice": "2475",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0004",
+      "sourceRow": 181,
+      "menu": "Tuscany",
+      "cell": "I181",
+      "price": 1925.0,
+      "rawPrice": "1925",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0005",
+      "sourceRow": 182,
+      "menu": "Tuscany",
+      "cell": "I182",
+      "price": 3240.0,
+      "rawPrice": "3240",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0006",
+      "sourceRow": 183,
+      "menu": "Tuscany ",
+      "cell": "I183",
+      "price": 3800.0,
+      "rawPrice": "3800",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0007",
+      "sourceRow": 184,
+      "menu": "Tuscany",
+      "cell": "I184",
+      "price": 3000.0,
+      "rawPrice": "3000",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0008",
+      "sourceRow": 185,
+      "menu": "Tuscany",
+      "cell": "I185",
+      "price": 1475.0,
+      "rawPrice": "1475",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0009",
+      "sourceRow": 186,
+      "menu": "Tuscany",
+      "cell": "I186",
+      "price": 2225.0,
+      "rawPrice": "2225",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0010",
+      "sourceRow": 187,
+      "menu": "Tuscany",
+      "cell": "I187",
+      "price": 3325.0,
+      "rawPrice": "3325",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0011",
+      "sourceRow": 188,
+      "menu": "Piedmont",
+      "cell": "I188",
+      "price": 1900.0,
+      "rawPrice": "1900",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0012",
+      "sourceRow": 189,
+      "menu": "Piedmont",
+      "cell": "I189",
+      "price": 2173.0,
+      "rawPrice": "2173",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0013",
+      "sourceRow": 190,
+      "menu": "Piedmont",
+      "cell": "I190",
+      "price": 4900.0,
+      "rawPrice": "4900",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0014",
+      "sourceRow": 191,
+      "menu": "Piedmont",
+      "cell": "I191",
+      "price": 1800.0,
+      "rawPrice": "1800",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0015",
+      "sourceRow": 192,
+      "menu": "Piedmont",
+      "cell": "I192",
+      "price": 2475.0,
+      "rawPrice": "2475",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0016",
+      "sourceRow": 193,
+      "menu": "Veneto",
+      "cell": "I193",
+      "price": 2075.0,
+      "rawPrice": "2075",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0017",
+      "sourceRow": 194,
+      "menu": "Veneto",
+      "cell": "I194",
+      "price": 1200.0,
+      "rawPrice": "1200",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0018",
+      "sourceRow": 195,
+      "menu": "Veneto",
+      "cell": "I195",
+      "price": 2980.0,
+      "rawPrice": "2980",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0019",
+      "sourceRow": 196,
+      "menu": "Sicily",
+      "cell": "I196",
+      "price": 2275.0,
+      "rawPrice": "2275",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0020",
+      "sourceRow": 197,
+      "menu": "Puglia ",
+      "cell": "I197",
+      "price": 1600.0,
+      "rawPrice": "1600",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0021",
+      "sourceRow": 198,
+      "menu": "Puglia ",
+      "cell": "I198",
+      "price": 1600.0,
+      "rawPrice": "1600",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0022",
+      "sourceRow": 199,
+      "menu": "Puglia ",
+      "cell": "I199",
+      "price": 2100.0,
+      "rawPrice": "2100",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0023",
+      "sourceRow": 200,
+      "menu": "Puglia ",
+      "cell": "I200",
+      "price": 1600.0,
+      "rawPrice": "1600",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0024",
+      "sourceRow": 201,
+      "menu": "Abruzzo",
+      "cell": "I201",
+      "price": 2475.0,
+      "rawPrice": "2475",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0025",
+      "sourceRow": 202,
+      "menu": "Abruzzo",
+      "cell": "I202",
+      "price": 1100.0,
+      "rawPrice": "1100",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0026",
+      "sourceRow": 203,
+      "menu": "Abruzzo",
+      "cell": "I203",
+      "price": 1500.0,
+      "rawPrice": "1500",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0027",
+      "sourceRow": 204,
+      "menu": "Puglia ",
+      "cell": "I204",
+      "price": 2275.0,
+      "rawPrice": "2275",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0028",
+      "sourceRow": 205,
+      "menu": "Puglia ",
+      "cell": "I205",
+      "price": 1650.0,
+      "rawPrice": "1650",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0001",
+      "sourceRow": 206,
+      "menu": "Veneto",
+      "cell": "I206",
+      "price": 200.0,
+      "rawPrice": "200",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0002",
+      "sourceRow": 207,
+      "menu": "Lombardy ",
+      "cell": "I207",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0003",
+      "sourceRow": 208,
+      "menu": "Marche",
+      "cell": "I208",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0004",
+      "sourceRow": 209,
+      "menu": "Puglia ",
+      "cell": "I209",
+      "price": 330.0,
+      "rawPrice": "330",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0005",
+      "sourceRow": 210,
+      "menu": "Friuli",
+      "cell": "I210",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0006",
+      "sourceRow": 211,
+      "menu": "Puglia ",
+      "cell": "I211",
+      "price": 340.0,
+      "rawPrice": "340",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0007",
+      "sourceRow": 212,
+      "menu": "Abruzzo",
+      "cell": "I212",
+      "price": 190.0,
+      "rawPrice": "190",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0008",
+      "sourceRow": 213,
+      "menu": "Puglia ",
+      "cell": "I213",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0009",
+      "sourceRow": 214,
+      "menu": "Tuscany",
+      "cell": "I214",
+      "price": 240.0,
+      "rawPrice": "240",
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0010",
+      "sourceRow": 215,
+      "menu": "Tuscany",
+      "cell": "I215",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CIC0001",
+      "sourceRow": 219,
+      "menu": "Baby Octopus Tart",
+      "cell": "I219",
+      "price": 75.0,
+      "rawPrice": "75",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CIC0002",
+      "sourceRow": 220,
+      "menu": "Akami Tuna & Saffron Rice",
+      "cell": "I220",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CIC0003",
+      "sourceRow": 221,
+      "menu": "Herring Roe & San Daniele",
+      "cell": "I221",
+      "price": 95.0,
+      "rawPrice": "95",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CIC0004",
+      "sourceRow": 222,
+      "menu": "Ossobuco Crocchetta",
+      "cell": "I222",
+      "price": 95.0,
+      "rawPrice": "95",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CIC0005",
+      "sourceRow": 223,
+      "menu": "Truffle Melting Toast",
+      "cell": "I223",
+      "price": 130.0,
+      "rawPrice": "130",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SMP0001",
+      "sourceRow": 224,
+      "menu": "Cuoppo / Deep Fried Seafood / Smoked Paprika Alioli",
+      "cell": "I224",
+      "price": 250.0,
+      "rawPrice": "250",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SMP0002",
+      "sourceRow": 225,
+      "menu": "Focaccia / Mortadella / Ricotta / Pistachio",
+      "cell": "I225",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SMP0003",
+      "sourceRow": 226,
+      "menu": "Veal / Tonnato Sauce / Capers / Coffee",
+      "cell": "I226",
+      "price": 290.0,
+      "rawPrice": "290",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SMP0004",
+      "sourceRow": 227,
+      "menu": "Hokkaido Scallop / Shio-Koji / Truffle",
+      "cell": "I227",
+      "price": 380.0,
+      "rawPrice": "380",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CRP0001",
+      "sourceRow": 228,
+      "menu": "Mackerel / Colatura Mayo / Spring Onion",
+      "cell": "I228",
+      "price": 190.0,
+      "rawPrice": "190",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CRP0002",
+      "sourceRow": 229,
+      "menu": "Burrata / Tomatoes / Pesto / Almond",
+      "cell": "I229",
+      "price": 190.0,
+      "rawPrice": "190",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CRP0003",
+      "sourceRow": 230,
+      "menu": "Cuttlefish Lardon / Romesco / Bottarga",
+      "cell": "I230",
+      "price": 210.0,
+      "rawPrice": "210",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-CRP0004",
+      "sourceRow": 231,
+      "menu": "Beef Carpaccio / Celeriac / Parmesan",
+      "cell": "I231",
+      "price": 350.0,
+      "rawPrice": "350",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PIZ0001",
+      "sourceRow": 232,
+      "menu": "Margherita Sbagliata / Fior di Latte / Basil",
+      "cell": "I232",
+      "price": 150.0,
+      "rawPrice": "150",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PIZ0002",
+      "sourceRow": 233,
+      "menu": "Pulled Pork / Nduja / Friarielli",
+      "cell": "I233",
+      "price": 210.0,
+      "rawPrice": "210",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PIZ0003",
+      "sourceRow": 234,
+      "menu": "Contadina / Gorgonzola / Fig Jam / Red Onion",
+      "cell": "I234",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PIZ0004",
+      "sourceRow": 235,
+      "menu": "Deep Fried Calzone / Stracciatella / San Daniele Ham",
+      "cell": "I235",
+      "price": 230.0,
+      "rawPrice": "230",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PAS0001",
+      "sourceRow": 236,
+      "menu": "Orecchiette / Broccoli / Cetara Anchovy",
+      "cell": "I236",
+      "price": 320.0,
+      "rawPrice": "320",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PAS0002",
+      "sourceRow": 237,
+      "menu": "Tonnarelli BBQ / Pecorino / Black Pepper",
+      "cell": "I237",
+      "price": 380.0,
+      "rawPrice": "380",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PAS0003",
+      "sourceRow": 238,
+      "menu": "Gnocchi / Lamb Ragu",
+      "cell": "I238",
+      "price": 380.0,
+      "rawPrice": "380",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PAS0004",
+      "sourceRow": 239,
+      "menu": "Risotto / Clams / Tomato / Zucchini",
+      "cell": "I239",
+      "price": 390.0,
+      "rawPrice": "390",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-PAS0005",
+      "sourceRow": 240,
+      "menu": "Raviolo del Plin / Hazelnut / Castel Magno / Black Truffle",
+      "cell": "I240",
+      "price": 790.0,
+      "rawPrice": "790",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0001",
+      "sourceRow": 241,
+      "menu": "Whole Baby Chicken",
+      "cell": "I241",
+      "price": 690.0,
+      "rawPrice": "690",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0002",
+      "sourceRow": 242,
+      "menu": "Pork Chop (1 Rack)",
+      "cell": "I242",
+      "price": 690.0,
+      "rawPrice": "690",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0003",
+      "sourceRow": 243,
+      "menu": "Wagyu Hanger Steak (300g )",
+      "cell": "I243",
+      "price": 990.0,
+      "rawPrice": "990",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0004",
+      "sourceRow": 244,
+      "menu": "Veal Chop Milanese (2 Racks)",
+      "cell": "I244",
+      "price": 1900.0,
+      "rawPrice": "1900",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0005",
+      "sourceRow": 245,
+      "menu": "Fiorentina T-Bone Steak - Wagyu Opal",
+      "cell": "I245",
+      "price": 4900.0,
+      "rawPrice": "4900",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTG0006",
+      "sourceRow": 246,
+      "menu": "Costata Strip Steak Wagyu Opal",
+      "cell": "I246",
+      "price": 4900.0,
+      "rawPrice": "4900",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTS0001",
+      "sourceRow": 247,
+      "menu": "Black Cod (120g)",
+      "cell": "I247",
+      "price": 680.0,
+      "rawPrice": "680",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTS0002",
+      "sourceRow": 248,
+      "menu": "Sea Bream (500g)",
+      "cell": "I248",
+      "price": 1100.0,
+      "rawPrice": "1100",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTS0003",
+      "sourceRow": 249,
+      "menu": "Ayuttaya King Prawn (1 pc)",
+      "cell": "I249",
+      "price": 1950.0,
+      "rawPrice": "1950",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-FTS0004",
+      "sourceRow": 250,
+      "menu": "Cannadian Lobster (1 pc)",
+      "cell": "I250",
+      "price": 3800.0,
+      "rawPrice": "3800",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SID0001",
+      "sourceRow": 251,
+      "menu": "Green Asparagus & Anchovy Salad",
+      "cell": "I251",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SID0002",
+      "sourceRow": 252,
+      "menu": "Panzanella",
+      "cell": "I252",
+      "price": 90.0,
+      "rawPrice": "90",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SID0003",
+      "sourceRow": 253,
+      "menu": "Caponata",
+      "cell": "I253",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-SID0004",
+      "sourceRow": 254,
+      "menu": "Parmigiana",
+      "cell": "I254",
+      "price": 130.0,
+      "rawPrice": "130",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-DOL0001",
+      "sourceRow": 255,
+      "menu": "CAPXI Tiramisu",
+      "cell": "I255",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-DOL0002",
+      "sourceRow": 256,
+      "menu": "Caprese Cake / Vanilla",
+      "cell": "I256",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-DOL0003",
+      "sourceRow": 257,
+      "menu": "Cremoso al Limone",
+      "cell": "I257",
+      "price": 280.0,
+      "rawPrice": "280",
+      "formula": null
+    },
+    {
+      "itemCode": "SOM-DOL0004",
+      "sourceRow": 258,
+      "menu": "Ice Cream",
+      "cell": "I258",
+      "price": 110.0,
+      "rawPrice": "110",
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0008",
+      "sourceRow": 260,
+      "menu": "Evain Water (still)",
+      "cell": "I260",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0009",
+      "sourceRow": 261,
+      "menu": "Evain Water (Sparkling)",
+      "cell": "I261",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0010",
+      "sourceRow": 262,
+      "menu": "Crystal Water",
+      "cell": "I262",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0007",
+      "sourceRow": 263,
+      "menu": "Green Asparaagus & Anchovy Salad",
+      "cell": "I263",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0007",
+      "sourceRow": 264,
+      "menu": "Gnocchi /Lamb Ragu",
+      "cell": "I264",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0004",
+      "sourceRow": 265,
+      "menu": "Cremoso al Limone",
+      "cell": "I265",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0011",
+      "sourceRow": 266,
+      "menu": "Whole Baby Chicken",
+      "cell": "I266",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTS0005",
+      "sourceRow": 267,
+      "menu": "Black Cod",
+      "cell": "I267",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0006",
+      "sourceRow": 268,
+      "menu": "Campari",
+      "cell": "I268",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0005",
+      "sourceRow": 269,
+      "menu": "Ice Cream",
+      "cell": "I269",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0008",
+      "sourceRow": 270,
+      "menu": "Chocolat cake",
+      "cell": "I270",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0009",
+      "sourceRow": 271,
+      "menu": "Package",
+      "cell": "I271",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0011",
+      "sourceRow": 272,
+      "menu": "Cold Cuts",
+      "cell": "I272",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0012",
+      "sourceRow": 273,
+      "menu": "Cheeses + Cold Cuts",
+      "cell": "I273",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BEE0007",
+      "sourceRow": 274,
+      "menu": "Menabrea",
+      "cell": "I274",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0006",
+      "sourceRow": 275,
+      "menu": "Decaffeinato",
+      "cell": "I275",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0012",
+      "sourceRow": 276,
+      "menu": "Rubia Gallega",
+      "cell": "I276",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0011",
+      "sourceRow": 277,
+      "menu": "Corkage charge",
+      "cell": "I277",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CIC0009",
+      "sourceRow": 278,
+      "menu": "Oyster fin De Claire",
+      "cell": "I278",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0008",
+      "sourceRow": 279,
+      "menu": "Campari spritz",
+      "cell": "I279",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0013",
+      "sourceRow": 280,
+      "menu": "Veal  Chop milanese 1 rack",
+      "cell": "I280",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0001",
+      "sourceRow": 281,
+      "menu": "Spaghetti Gambero Rosso",
+      "cell": "I281",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0002",
+      "sourceRow": 282,
+      "menu": "Mussel N'duja Pecorino",
+      "cell": "I282",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0007",
+      "sourceRow": 283,
+      "menu": "Mojito",
+      "cell": "I283",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0010",
+      "sourceRow": 284,
+      "menu": "Cheeses",
+      "cell": "I284",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0003",
+      "sourceRow": 285,
+      "menu": "Beef carpaccio",
+      "cell": "I285",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0009",
+      "sourceRow": 286,
+      "menu": "Gin martini",
+      "cell": "I286",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0010",
+      "sourceRow": 287,
+      "menu": "Vodka martini",
+      "cell": "I287",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0005",
+      "sourceRow": 288,
+      "menu": "Stracciatella Artichoke",
+      "cell": "I288",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0004",
+      "sourceRow": 289,
+      "menu": "Carcoal grill seabass",
+      "cell": "I289",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0006",
+      "sourceRow": 290,
+      "menu": "Deep fried Artichoke",
+      "cell": "I290",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-SIG0007",
+      "sourceRow": 291,
+      "menu": "Special cocktail",
+      "cell": "I291",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0012",
+      "sourceRow": 292,
+      "menu": "Verve Clicquot",
+      "cell": "I292",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0006",
+      "sourceRow": 293,
+      "menu": "Mezcal Bottle",
+      "cell": "I293",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0012",
+      "sourceRow": 294,
+      "menu": "Gin Fizz",
+      "cell": "I294",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-MOC0004",
+      "sourceRow": 295,
+      "menu": "Special Mocktail",
+      "cell": "I295",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0006",
+      "sourceRow": 296,
+      "menu": "Piadina San Daniele E Burrata",
+      "cell": "I296",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0007",
+      "sourceRow": 297,
+      "menu": "Tigella",
+      "cell": "I297",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0008",
+      "sourceRow": 298,
+      "menu": "Mezze Maniche Carbonara",
+      "cell": "I298",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0014",
+      "sourceRow": 299,
+      "menu": "Polletto Arrosto",
+      "cell": "I299",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0008",
+      "sourceRow": 300,
+      "menu": "Piadina Allo Sgombro",
+      "cell": "I300",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0015",
+      "sourceRow": 301,
+      "menu": "Tagliata Di Manzo (250g)",
+      "cell": "I301",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0007",
+      "sourceRow": 302,
+      "menu": "Mezcal 400 conejos",
+      "cell": "I302",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0008",
+      "sourceRow": 303,
+      "menu": "IcedAmericano",
+      "cell": "I303",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0009",
+      "sourceRow": 304,
+      "menu": "IcedEspesso",
+      "cell": "I304",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0014",
+      "sourceRow": 305,
+      "menu": "Terre Siciliane Versante Nord Eduardo Torres Costa",
+      "cell": "I305",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0015",
+      "sourceRow": 306,
+      "menu": "Valpolicella Roccolo Callisto",
+      "cell": "I306",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0024",
+      "sourceRow": 307,
+      "menu": "Creerto",
+      "cell": "I307",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0015",
+      "sourceRow": 308,
+      "menu": "Montepulciano d'Abruzzo Prope",
+      "cell": "I308",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0011",
+      "sourceRow": 309,
+      "menu": "Evian Smali",
+      "cell": "I309",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0013",
+      "sourceRow": 310,
+      "menu": "Alessandro Viola Rosso",
+      "cell": "I310",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0014",
+      "sourceRow": 311,
+      "menu": "Sudtirol-Alto Adige Pinot Grigio",
+      "cell": "I311",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-COF0010",
+      "sourceRow": 312,
+      "menu": "Macchiato",
+      "cell": "I312",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-VAL0001",
+      "sourceRow": 313,
+      "menu": "Carpaccio di Mazara del vallo",
+      "cell": "I313",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-VAL0002",
+      "sourceRow": 314,
+      "menu": "Tartare di Manzo Carciofi E",
+      "cell": "I314",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-VAL0003",
+      "sourceRow": 315,
+      "menu": "Ravioli AI Crostacei",
+      "cell": "I315",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0013",
+      "sourceRow": 316,
+      "menu": "Course 1",
+      "cell": "I316",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0014",
+      "sourceRow": 317,
+      "menu": "Course 2",
+      "cell": "I317",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0017",
+      "sourceRow": 318,
+      "menu": "Pick-up course 2",
+      "cell": "I318",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-VAL0004",
+      "sourceRow": 319,
+      "menu": "Granchio ALLA Brace",
+      "cell": "I319",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0007",
+      "sourceRow": 320,
+      "menu": "Artichoke Roman",
+      "cell": "I320",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "COC-CLA0011",
+      "sourceRow": 321,
+      "menu": "Old fashioned",
+      "cell": "I321",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0013",
+      "sourceRow": 322,
+      "menu": "Note di Rosso Alessandro Viola",
+      "cell": "I322",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0005",
+      "sourceRow": 323,
+      "menu": "Jose Cuevo Especial Reposado bottle",
+      "cell": "I323",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0002",
+      "sourceRow": 324,
+      "menu": "Lunch Set 2",
+      "cell": "I324",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0016",
+      "sourceRow": 325,
+      "menu": "Roasted pork colar",
+      "cell": "I325",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0009",
+      "sourceRow": 326,
+      "menu": "Ravioli Crab",
+      "cell": "I326",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0016",
+      "sourceRow": 327,
+      "menu": "Italian T-Bone",
+      "cell": "I327",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0001",
+      "sourceRow": 328,
+      "menu": "Lunch Set 1",
+      "cell": "I328",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0017",
+      "sourceRow": 329,
+      "menu": "Burrata",
+      "cell": "I329",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0006",
+      "sourceRow": 330,
+      "menu": "Gordon's Gin bottle",
+      "cell": "I330",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0016",
+      "sourceRow": 331,
+      "menu": "Corkage charge special price",
+      "cell": "I331",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0017",
+      "sourceRow": 332,
+      "menu": "Bollinger Special Cuvee Brut",
+      "cell": "I332",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0009",
+      "sourceRow": 333,
+      "menu": "Pizzette truffle",
+      "cell": "I333",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0010",
+      "sourceRow": 334,
+      "menu": "Capricci T-shirt",
+      "cell": "I334",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-FTM0017",
+      "sourceRow": 335,
+      "menu": "Chacoal Tiger prawn",
+      "cell": "I335",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-JUI0004",
+      "sourceRow": 336,
+      "menu": "Lemon juice",
+      "cell": "I336",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0006",
+      "sourceRow": 337,
+      "menu": "Semifreddo AL Torrone",
+      "cell": "I337",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0010",
+      "sourceRow": 338,
+      "menu": "Crab Ravioli",
+      "cell": "I338",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0011",
+      "sourceRow": 339,
+      "menu": "Trofie AL Pesto",
+      "cell": "I339",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PAS0012",
+      "sourceRow": 340,
+      "menu": "Vongole E Bottarga",
+      "cell": "I340",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SID0008",
+      "sourceRow": 341,
+      "menu": "Mediterranean",
+      "cell": "I341",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0020",
+      "sourceRow": 342,
+      "menu": "Grilled Octopus",
+      "cell": "I342",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0010",
+      "sourceRow": 343,
+      "menu": "Tartufata",
+      "cell": "I343",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-PIZ0011",
+      "sourceRow": 344,
+      "menu": "Mortadella & Pistacchio",
+      "cell": "I344",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0021",
+      "sourceRow": 345,
+      "menu": "Prosciutto & Melone",
+      "cell": "I345",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SMP0019",
+      "sourceRow": 346,
+      "menu": "Crunchy Mussel",
+      "cell": "I346",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0016",
+      "sourceRow": 347,
+      "menu": "Amarone Della Valpolicella Roccolo Callisto",
+      "cell": "I347",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0007",
+      "sourceRow": 348,
+      "menu": "Monkey47 Bottle",
+      "cell": "I348",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0018",
+      "sourceRow": 349,
+      "menu": "Bottarga",
+      "cell": "I349",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0013",
+      "sourceRow": 350,
+      "menu": "Drinks package",
+      "cell": "I350",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0047",
+      "sourceRow": 351,
+      "menu": "Green Asparagus",
+      "cell": "I351",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SOF0012",
+      "sourceRow": 352,
+      "menu": "Evian SPK Small",
+      "cell": "I352",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0026",
+      "sourceRow": 353,
+      "menu": "ST.PAULS PINOT BIANCO",
+      "cell": "I353",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0045",
+      "sourceRow": 354,
+      "menu": "Gran Bericanto Riserva",
+      "cell": "I354",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0033",
+      "sourceRow": 355,
+      "menu": "Corte Rugolin",
+      "cell": "I355",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0029",
+      "sourceRow": 356,
+      "menu": "Cusumano Agimbe Inzolia Chardonnay",
+      "cell": "I356",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0031",
+      "sourceRow": 357,
+      "menu": "Petit Chablis Jean Marc Brocard",
+      "cell": "I357",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0034",
+      "sourceRow": 358,
+      "menu": "Figuiere Mediterranee",
+      "cell": "I358",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0036",
+      "sourceRow": 359,
+      "menu": "Saint Emilion Maison Schroder&Schyler",
+      "cell": "I359",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0030",
+      "sourceRow": 360,
+      "menu": null,
+      "cell": "I360",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0025",
+      "sourceRow": 361,
+      "menu": "Marchesi Di Barolo",
+      "cell": "I361",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0028",
+      "sourceRow": 362,
+      "menu": "Verdeca Askos Masseria Li Veli",
+      "cell": "I362",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0030",
+      "sourceRow": 363,
+      "menu": null,
+      "cell": "I363",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0031",
+      "sourceRow": 364,
+      "menu": "Appassimento Rosso Veneto IGT",
+      "cell": "I364",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0037",
+      "sourceRow": 365,
+      "menu": "Villalta Amarone Della Valpolicella",
+      "cell": "I365",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0032",
+      "sourceRow": 366,
+      "menu": "Sancerre Marne Et Caillotes Jean Max Roger",
+      "cell": "I366",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0034",
+      "sourceRow": 367,
+      "menu": "Le Preare  Amarone della Valpolicella",
+      "cell": "I367",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0004",
+      "sourceRow": 368,
+      "menu": "Collemattoni",
+      "cell": "I368",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0008",
+      "sourceRow": 369,
+      "menu": null,
+      "cell": "I369",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0010",
+      "sourceRow": 370,
+      "menu": null,
+      "cell": "I370",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0011",
+      "sourceRow": 371,
+      "menu": "Rigatoni Pink sauce",
+      "cell": "I371",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0012",
+      "sourceRow": 372,
+      "menu": "Tagliatelle sausage mushroom",
+      "cell": "I372",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0013",
+      "sourceRow": 373,
+      "menu": "Pizzette asparagus and smoked Burrata",
+      "cell": "I373",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0014",
+      "sourceRow": 374,
+      "menu": "Risotto white asparagus herring roe",
+      "cell": "I374",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "SERVICECHARGE",
+      "sourceRow": 375,
+      "menu": "Service Charge",
+      "cell": "I375",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0002",
+      "sourceRow": 376,
+      "menu": "Akami Tuna & Saffron Rice",
+      "cell": "I376",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0004",
+      "sourceRow": 377,
+      "menu": "Herring Roe & San Daniele",
+      "cell": "I377",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0007",
+      "sourceRow": 378,
+      "menu": "Ossobuco Crocchetta",
+      "cell": "I378",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0010",
+      "sourceRow": 379,
+      "menu": "1 PAX",
+      "cell": "I379",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0011",
+      "sourceRow": 380,
+      "menu": "2 PAX",
+      "cell": "I380",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0011",
+      "sourceRow": 381,
+      "menu": "2 PAX",
+      "cell": "I381",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0011",
+      "sourceRow": 382,
+      "menu": "2 PAX",
+      "cell": "I382",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0011",
+      "sourceRow": 383,
+      "menu": "2 PAX",
+      "cell": "I383",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0012",
+      "sourceRow": 384,
+      "menu": "3 PAX",
+      "cell": "I384",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0013",
+      "sourceRow": 385,
+      "menu": "4 PAX",
+      "cell": "I385",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0013",
+      "sourceRow": 386,
+      "menu": "4 PAX",
+      "cell": "I386",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0013",
+      "sourceRow": 387,
+      "menu": "4 PAX",
+      "cell": "I387",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0016",
+      "sourceRow": 388,
+      "menu": "New Guest 1 Pax",
+      "cell": "I388",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0016",
+      "sourceRow": 389,
+      "menu": "New Guest 1 Pax",
+      "cell": "I389",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0018",
+      "sourceRow": 390,
+      "menu": "New Guest 3 Pax",
+      "cell": "I390",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0003",
+      "sourceRow": 391,
+      "menu": "Beef Carpaccio",
+      "cell": "I391",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0003",
+      "sourceRow": 392,
+      "menu": "Beef Carpaccio",
+      "cell": "I392",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0004",
+      "sourceRow": 393,
+      "menu": "Vitello Tonnato",
+      "cell": "I393",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0004",
+      "sourceRow": 394,
+      "menu": "Vitello Tonnato",
+      "cell": "I394",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0004",
+      "sourceRow": 395,
+      "menu": "Vitello Tonnato",
+      "cell": "I395",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0004",
+      "sourceRow": 396,
+      "menu": "Vitello Tonnato",
+      "cell": "I396",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0005",
+      "sourceRow": 397,
+      "menu": "Capesante",
+      "cell": "I397",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0005",
+      "sourceRow": 398,
+      "menu": "Capesante",
+      "cell": "I398",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0006",
+      "sourceRow": 399,
+      "menu": "Fritto Misto",
+      "cell": "I399",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0006",
+      "sourceRow": 400,
+      "menu": "Fritto Misto",
+      "cell": "I400",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0006",
+      "sourceRow": 401,
+      "menu": "Fritto Misto",
+      "cell": "I401",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0006",
+      "sourceRow": 402,
+      "menu": "Fritto Misto",
+      "cell": "I402",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0020",
+      "sourceRow": 403,
+      "menu": "Grilled Octopus",
+      "cell": "I403",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CID0001",
+      "sourceRow": 404,
+      "menu": "Insalata Siciliana",
+      "cell": "I404",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CID0001",
+      "sourceRow": 405,
+      "menu": "Insalata Siciliana",
+      "cell": "I405",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CID0007",
+      "sourceRow": 406,
+      "menu": "Caprese",
+      "cell": "I406",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0001",
+      "sourceRow": 407,
+      "menu": "Margherita",
+      "cell": "I407",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0004",
+      "sourceRow": 408,
+      "menu": "Italian",
+      "cell": "I408",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0004",
+      "sourceRow": 409,
+      "menu": "Italian",
+      "cell": "I409",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0010",
+      "sourceRow": 410,
+      "menu": "Tartufata",
+      "cell": "I410",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0010",
+      "sourceRow": 411,
+      "menu": "Tartufata",
+      "cell": "I411",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0010",
+      "sourceRow": 412,
+      "menu": "Tartufata",
+      "cell": "I412",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0011",
+      "sourceRow": 413,
+      "menu": "Mortadella & Pistacchio",
+      "cell": "I413",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0011",
+      "sourceRow": 414,
+      "menu": "Mortadella & Pistacchio",
+      "cell": "I414",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DMP0007",
+      "sourceRow": 415,
+      "menu": "Calzone Fritto",
+      "cell": "I415",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DMP0007",
+      "sourceRow": 416,
+      "menu": "Calzone Fritto",
+      "cell": "I416",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0002",
+      "sourceRow": 417,
+      "menu": "Callamarata A Pummarola",
+      "cell": "I417",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0002",
+      "sourceRow": 418,
+      "menu": "Callamarata A Pummarola",
+      "cell": "I418",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0002",
+      "sourceRow": 419,
+      "menu": "Callamarata A Pummarola",
+      "cell": "I419",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0003",
+      "sourceRow": 420,
+      "menu": "Raviolone AL Tartufo",
+      "cell": "I420",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0003",
+      "sourceRow": 421,
+      "menu": "Raviolone AL Tartufo",
+      "cell": "I421",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0004",
+      "sourceRow": 422,
+      "menu": "Spaghetti AI Gamberi Rossi",
+      "cell": "I422",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0004",
+      "sourceRow": 423,
+      "menu": "Spaghetti AI Gamberi Rossi",
+      "cell": "I423",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0006",
+      "sourceRow": 424,
+      "menu": "Risotto",
+      "cell": "I424",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0010",
+      "sourceRow": 425,
+      "menu": "Crab Ravioli",
+      "cell": "I425",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0010",
+      "sourceRow": 426,
+      "menu": "Crab Ravioli",
+      "cell": "I426",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0012",
+      "sourceRow": 427,
+      "menu": "Vongole E Bottarga",
+      "cell": "I427",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0012",
+      "sourceRow": 428,
+      "menu": "Vongole E Bottarga",
+      "cell": "I428",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0012",
+      "sourceRow": 429,
+      "menu": "Vongole E Bottarga",
+      "cell": "I429",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0012",
+      "sourceRow": 430,
+      "menu": "Vongole E Bottarga",
+      "cell": "I430",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-EAS0012",
+      "sourceRow": 431,
+      "menu": "Vongole E Bottarga",
+      "cell": "I431",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-ZTM0006",
+      "sourceRow": 432,
+      "menu": "Pork Chop",
+      "cell": "I432",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0014",
+      "sourceRow": 433,
+      "menu": "5 PAX",
+      "cell": "I433",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0002",
+      "sourceRow": 434,
+      "menu": "Tartare DI Tonno",
+      "cell": "I434",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0010",
+      "sourceRow": 435,
+      "menu": "Cheese Platter",
+      "cell": "I435",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0019",
+      "sourceRow": 436,
+      "menu": "Crunchy Mussel",
+      "cell": "I436",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0021",
+      "sourceRow": 437,
+      "menu": "Prosciutto & Melone",
+      "cell": "I437",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0021",
+      "sourceRow": 438,
+      "menu": "Prosciutto & Melone",
+      "cell": "I438",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0011",
+      "sourceRow": 439,
+      "menu": "Crostata Di Fragole",
+      "cell": "I439",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0019",
+      "sourceRow": 440,
+      "menu": "Mozzarella in Carrozza",
+      "cell": "I440",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0022",
+      "sourceRow": 441,
+      "menu": "Ciole Di Maiale",
+      "cell": "I441",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0005",
+      "sourceRow": 442,
+      "menu": "Truffle Melting Toast",
+      "cell": "I442",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AID0003",
+      "sourceRow": 443,
+      "menu": "Parmigiana Crocchetta",
+      "cell": "I443",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AID0003",
+      "sourceRow": 444,
+      "menu": "Parmigiana Crocchetta",
+      "cell": "I444",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AID0003",
+      "sourceRow": 445,
+      "menu": "Parmigiana Crocchetta",
+      "cell": "I445",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AID0003",
+      "sourceRow": 446,
+      "menu": "Parmigiana Crocchetta",
+      "cell": "I446",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0005",
+      "sourceRow": 447,
+      "menu": "N'Duja E Friarielli",
+      "cell": "I447",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0003",
+      "sourceRow": 448,
+      "menu": "Baby Octopus Tart",
+      "cell": "I448",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0007",
+      "sourceRow": 449,
+      "menu": "Branzino All'Acqua Pazza",
+      "cell": "I449",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0020",
+      "sourceRow": 450,
+      "menu": "ORZATA",
+      "cell": "I450",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0012",
+      "sourceRow": 451,
+      "menu": "St.Pauls Kellerei Pinot Noir",
+      "cell": "I451",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0017",
+      "sourceRow": 452,
+      "menu": "New Guest 2 Pax",
+      "cell": "I452",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0011",
+      "sourceRow": 453,
+      "menu": "Mixed Cold Cut Selection",
+      "cell": "I453",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0011",
+      "sourceRow": 454,
+      "menu": "Mixed Cold Cut Selection",
+      "cell": "I454",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0011",
+      "sourceRow": 455,
+      "menu": "Mixed Cold Cut Selection",
+      "cell": "I455",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BMP0011",
+      "sourceRow": 456,
+      "menu": "Mixed Cold Cut Selection",
+      "cell": "I456",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CID0008",
+      "sourceRow": 457,
+      "menu": "Mediterranean",
+      "cell": "I457",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-CID0008",
+      "sourceRow": 458,
+      "menu": "Mediterranean",
+      "cell": "I458",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DIZ0003",
+      "sourceRow": 459,
+      "menu": "Contadina",
+      "cell": "I459",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0021",
+      "sourceRow": 460,
+      "menu": "Taglia Telle AI Fungh E Salsiccia",
+      "cell": "I460",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0015",
+      "sourceRow": 461,
+      "menu": "Homemade Strozzapreti lobster",
+      "cell": "I461",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0015",
+      "sourceRow": 462,
+      "menu": "Homemade Strozzapreti lobster",
+      "cell": "I462",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0015",
+      "sourceRow": 463,
+      "menu": "Homemade Strozzapreti lobster",
+      "cell": "I463",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0015",
+      "sourceRow": 464,
+      "menu": "Homemade Strozzapreti lobster",
+      "cell": "I464",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0016",
+      "sourceRow": 465,
+      "menu": "Drink special",
+      "cell": "I465",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0017",
+      "sourceRow": 466,
+      "menu": "Food special",
+      "cell": "I466",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0033",
+      "sourceRow": 467,
+      "menu": "Susumaniello IGP PUGLIA Polvanera  ROSE'",
+      "cell": "I467",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0001",
+      "sourceRow": 468,
+      "menu": "Mascarpone Cheese Cake",
+      "cell": "I468",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0002",
+      "sourceRow": 469,
+      "menu": "Strawberry Salad",
+      "cell": "I469",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0002",
+      "sourceRow": 470,
+      "menu": "Strawberry Salad",
+      "cell": "I470",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0002",
+      "sourceRow": 471,
+      "menu": "Strawberry Salad",
+      "cell": "I471",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0003",
+      "sourceRow": 472,
+      "menu": "Hazelnut Bigne",
+      "cell": "I472",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0002",
+      "sourceRow": 473,
+      "menu": "Grill Octopus",
+      "cell": "I473",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0006",
+      "sourceRow": 474,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I474",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0006",
+      "sourceRow": 475,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I475",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0006",
+      "sourceRow": 476,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I476",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0006",
+      "sourceRow": 477,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I477",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0001",
+      "sourceRow": 478,
+      "menu": "Slow-Cooked Veal Tongue",
+      "cell": "I478",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0001",
+      "sourceRow": 479,
+      "menu": "Slow-Cooked Veal Tongue",
+      "cell": "I479",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0001",
+      "sourceRow": 480,
+      "menu": "Slow-Cooked Veal Tongue",
+      "cell": "I480",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0004",
+      "sourceRow": 481,
+      "menu": "Pan-Fried Hokkaido Sea Scallops",
+      "cell": "I481",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0005",
+      "sourceRow": 482,
+      "menu": "Deep-Fried Mixed Seafood",
+      "cell": "I482",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0005",
+      "sourceRow": 483,
+      "menu": "Deep-Fried Mixed Seafood",
+      "cell": "I483",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0006",
+      "sourceRow": 484,
+      "menu": "Heart of Burrata Cheese",
+      "cell": "I484",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0006",
+      "sourceRow": 485,
+      "menu": "Heart of Burrata Cheese",
+      "cell": "I485",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0008",
+      "sourceRow": 486,
+      "menu": "Selection of artisanal cold cuts",
+      "cell": "I486",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0002",
+      "sourceRow": 487,
+      "menu": "Grill Octopus",
+      "cell": "I487",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0003",
+      "sourceRow": 488,
+      "menu": "Senaka Tuna Steak",
+      "cell": "I488",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0005",
+      "sourceRow": 489,
+      "menu": "Australian Lamb Rack",
+      "cell": "I489",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0006",
+      "sourceRow": 490,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I490",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0001",
+      "sourceRow": 491,
+      "menu": "Slow-Cooked Veal Tongue",
+      "cell": "I491",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0002",
+      "sourceRow": 492,
+      "menu": "Amberjack Carpaccio",
+      "cell": "I492",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0004",
+      "sourceRow": 493,
+      "menu": "Pan-Fried Hokkaido Sea Scallops",
+      "cell": "I493",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0006",
+      "sourceRow": 494,
+      "menu": "Heart of Burrata Cheese",
+      "cell": "I494",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0001",
+      "sourceRow": 495,
+      "menu": "Charcoal-Grill Mediterranean Sea Bream",
+      "cell": "I495",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0004",
+      "sourceRow": 496,
+      "menu": "Charcoal-Grill Hanger Stea",
+      "cell": "I496",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0004",
+      "sourceRow": 497,
+      "menu": "Charcoal-Grill Hanger Stea",
+      "cell": "I497",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0007",
+      "sourceRow": 498,
+      "menu": "Selection of artisanal cheese",
+      "cell": "I498",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0003",
+      "sourceRow": 499,
+      "menu": "Seasonal Salad",
+      "cell": "I499",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0019",
+      "sourceRow": 500,
+      "menu": "Wine Dinner",
+      "cell": "I500",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0019",
+      "sourceRow": 501,
+      "menu": "Wine Dinner",
+      "cell": "I501",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0039",
+      "sourceRow": 502,
+      "menu": "Promis Gaja",
+      "cell": "I502",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "SPC-DRINK0001",
+      "sourceRow": 503,
+      "menu": "SPECIAL DRINK",
+      "cell": "I503",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 504,
+      "menu": "Gin Tonic",
+      "cell": "I504",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 505,
+      "menu": "Gin Tonic",
+      "cell": "I505",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 506,
+      "menu": "Gin Tonic",
+      "cell": "I506",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 507,
+      "menu": "Gin Tonic",
+      "cell": "I507",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 508,
+      "menu": "Gin Tonic",
+      "cell": "I508",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP1",
+      "sourceRow": 509,
+      "menu": "Gin Tonic",
+      "cell": "I509",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP2",
+      "sourceRow": 510,
+      "menu": "Vodka Soda",
+      "cell": "I510",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP5",
+      "sourceRow": 511,
+      "menu": "Tequila shot",
+      "cell": "I511",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP5",
+      "sourceRow": 512,
+      "menu": "Tequila shot",
+      "cell": "I512",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0040",
+      "sourceRow": 513,
+      "menu": "Negro Amaro",
+      "cell": "I513",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0035",
+      "sourceRow": 514,
+      "menu": "Masciarelli Trebbiano",
+      "cell": "I514",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0036",
+      "sourceRow": 515,
+      "menu": "Corbaia Castello Di Bossi",
+      "cell": "I515",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0005",
+      "sourceRow": 516,
+      "menu": "Beefeater",
+      "cell": "I516",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GIN0005",
+      "sourceRow": 517,
+      "menu": "Beefeater",
+      "cell": "I517",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0042",
+      "sourceRow": 518,
+      "menu": "Langhe Nebbiolo Giovanni Rosso",
+      "cell": "I518",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0018",
+      "sourceRow": 519,
+      "menu": "Padelino Pizza",
+      "cell": "I519",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0011",
+      "sourceRow": 520,
+      "menu": "Campari",
+      "cell": "I520",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-KBC0001",
+      "sourceRow": 521,
+      "menu": "Honey Lemon",
+      "cell": "I521",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-KBC0002",
+      "sourceRow": 522,
+      "menu": "Passion Fruit",
+      "cell": "I522",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0027",
+      "sourceRow": 523,
+      "menu": "Ballo Angelico Tenuta l'Impostino",
+      "cell": "I523",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0029",
+      "sourceRow": 524,
+      "menu": "La Mannella",
+      "cell": "I524",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0044",
+      "sourceRow": 525,
+      "menu": "Masseria Li Veli Susumaniello",
+      "cell": "I525",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0020",
+      "sourceRow": 526,
+      "menu": "Amberjack Jaw",
+      "cell": "I526",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0043",
+      "sourceRow": 527,
+      "menu": "Sottocielo Montepulciano",
+      "cell": "I527",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0035",
+      "sourceRow": 528,
+      "menu": "Amarone Della Valpolicella Roccolo Callisto",
+      "cell": "I528",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0041",
+      "sourceRow": 529,
+      "menu": "Marpione Primitivo Riverva",
+      "cell": "I529",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0021",
+      "sourceRow": 530,
+      "menu": "Bruscttetta Tomato",
+      "cell": "I530",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0022",
+      "sourceRow": 531,
+      "menu": "Risotto Sraffon",
+      "cell": "I531",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0023",
+      "sourceRow": 532,
+      "menu": "Greenpea Salad",
+      "cell": "I532",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0024",
+      "sourceRow": 533,
+      "menu": "Slow cooked seabass",
+      "cell": "I533",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0025",
+      "sourceRow": 534,
+      "menu": "Sharing style menu",
+      "cell": "I534",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0026",
+      "sourceRow": 535,
+      "menu": "Red Prawn Tartare Bigne",
+      "cell": "I535",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-IRH0001",
+      "sourceRow": 536,
+      "menu": "Teeling Small Batch",
+      "cell": "I536",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-KBC0004",
+      "sourceRow": 537,
+      "menu": "10000 Miles Hops",
+      "cell": "I537",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0047",
+      "sourceRow": 538,
+      "menu": "Girolamo Castello di Bossi",
+      "cell": "I538",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0048",
+      "sourceRow": 539,
+      "menu": "Mazzapink",
+      "cell": "I539",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "Event",
+      "sourceRow": 540,
+      "menu": "Event",
+      "cell": "I540",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0050",
+      "sourceRow": 541,
+      "menu": "Barolo Giovanni Rosso",
+      "cell": "I541",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0027",
+      "sourceRow": 542,
+      "menu": "Scialatielli Pasta with Seafood",
+      "cell": "I542",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0028",
+      "sourceRow": 543,
+      "menu": "Special Fish",
+      "cell": "I543",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0017",
+      "sourceRow": 544,
+      "menu": "La Carraia Genesi Angel",
+      "cell": "I544",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0030",
+      "sourceRow": 545,
+      "menu": "Beef Ribeye Bone-in (AUS)",
+      "cell": "I545",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "SPC-DRINK0002",
+      "sourceRow": 546,
+      "menu": "Free flow Soft Drinks",
+      "cell": "I546",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0031",
+      "sourceRow": 548,
+      "menu": "Mezze Maniche Uni pasta",
+      "cell": "I548",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0032",
+      "sourceRow": 549,
+      "menu": "Scialatielli Zucchini lemon",
+      "cell": "I549",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0033",
+      "sourceRow": 550,
+      "menu": "Green asparagus salad",
+      "cell": "I550",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0033",
+      "sourceRow": 551,
+      "menu": "Green asparagus salad",
+      "cell": "I551",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0032",
+      "sourceRow": 552,
+      "menu": "Valpolicella Roccolo Callisto",
+      "cell": "I552",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0032",
+      "sourceRow": 553,
+      "menu": "Valpolicella Roccolo Callisto",
+      "cell": "I553",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0035",
+      "sourceRow": 554,
+      "menu": "Beef Tagliata",
+      "cell": "I554",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0051",
+      "sourceRow": 555,
+      "menu": "You  Fuck My wine Fabien Jouves",
+      "cell": "I555",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0037",
+      "sourceRow": 556,
+      "menu": "Seafood Plate",
+      "cell": "I556",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0038",
+      "sourceRow": 557,
+      "menu": "Lemon Risotto",
+      "cell": "I557",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0039",
+      "sourceRow": 558,
+      "menu": "Classic Tiramisu",
+      "cell": "I558",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SPC0004",
+      "sourceRow": 559,
+      "menu": "Couples' bottle of wine",
+      "cell": "I559",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0034",
+      "sourceRow": 560,
+      "menu": "Couples' sharing menu",
+      "cell": "I560",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP4",
+      "sourceRow": 561,
+      "menu": "Rum Coca cola",
+      "cell": "I561",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0041",
+      "sourceRow": 562,
+      "menu": "Wagyu Brisket Skewer",
+      "cell": "I562",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0042",
+      "sourceRow": 563,
+      "menu": "Oyster",
+      "cell": "I563",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0043",
+      "sourceRow": 564,
+      "menu": "Sea Snail (6 pcs.)",
+      "cell": "I564",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0044",
+      "sourceRow": 565,
+      "menu": "Mezze Maniche Uni",
+      "cell": "I565",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-TEQ0009",
+      "sourceRow": 566,
+      "menu": "Mezcal 400 Conejos",
+      "cell": "I566",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0045",
+      "sourceRow": 567,
+      "menu": "Beef cicchetti",
+      "cell": "I567",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0046",
+      "sourceRow": 568,
+      "menu": "Tagliatelle Bolognese",
+      "cell": "I568",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0004",
+      "sourceRow": 569,
+      "menu": "Cheese Tart Amaretto Meringue",
+      "cell": "I569",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0052",
+      "sourceRow": 570,
+      "menu": "Chianti2023Ricasoli",
+      "cell": "I570",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0049",
+      "sourceRow": 571,
+      "menu": "Grill Seabass Smoked trout",
+      "cell": "I571",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0050",
+      "sourceRow": 572,
+      "menu": "Dover Sole",
+      "cell": "I572",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0009",
+      "sourceRow": 573,
+      "menu": "Fin de Claire Oyster No.3",
+      "cell": "I573",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0053",
+      "sourceRow": 574,
+      "menu": "Bruno Rocca Barbera",
+      "cell": "I574",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-ITL0012",
+      "sourceRow": 575,
+      "menu": "Ricard",
+      "cell": "I575",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0010",
+      "sourceRow": 576,
+      "menu": "Seafood Platter",
+      "cell": "I576",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0051",
+      "sourceRow": 577,
+      "menu": "Oyster4pcs",
+      "cell": "I577",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0052",
+      "sourceRow": 578,
+      "menu": "Grilled Wagyu Short Ribs Skewer",
+      "cell": "I578",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0048",
+      "sourceRow": 579,
+      "menu": "Wild  Seabass Fillet",
+      "cell": "I579",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0055",
+      "sourceRow": 580,
+      "menu": "Whole seabass",
+      "cell": "I580",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0053",
+      "sourceRow": 581,
+      "menu": "Crispy Focaccia",
+      "cell": "I581",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0038",
+      "sourceRow": 582,
+      "menu": "Gufo Chardonnay 2023",
+      "cell": "I582",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0054",
+      "sourceRow": 583,
+      "menu": "Note di bianco Alessandro Viola",
+      "cell": "I583",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0057",
+      "sourceRow": 584,
+      "menu": "Slow cooked egg ",
+      "cell": "I584",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0056",
+      "sourceRow": 585,
+      "menu": "Smoked Trout",
+      "cell": "I585",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-IRH0002",
+      "sourceRow": 586,
+      "menu": "Teeling Single Grain",
+      "cell": "I586",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0058",
+      "sourceRow": 587,
+      "menu": "Pan-Seared Chanterelle",
+      "cell": "I587",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0059",
+      "sourceRow": 588,
+      "menu": "Spanish Wild Sea Bass",
+      "cell": "I588",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0018",
+      "sourceRow": 589,
+      "menu": "Sottocielo Montepulciano",
+      "cell": "I589",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0060",
+      "sourceRow": 590,
+      "menu": "Amberjack Collar",
+      "cell": "I590",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000001",
+      "sourceRow": 591,
+      "menu": "Panzanella",
+      "cell": "I591",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000001",
+      "sourceRow": 592,
+      "menu": "Panzanella",
+      "cell": "I592",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000001",
+      "sourceRow": 593,
+      "menu": "Panzanella",
+      "cell": "I593",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000001",
+      "sourceRow": 594,
+      "menu": "Panzanella",
+      "cell": "I594",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000002",
+      "sourceRow": 595,
+      "menu": "Cauliflower Power",
+      "cell": "I595",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000002",
+      "sourceRow": 596,
+      "menu": "Cauliflower Power",
+      "cell": "I596",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000002",
+      "sourceRow": 597,
+      "menu": "Cauliflower Power",
+      "cell": "I597",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000002",
+      "sourceRow": 598,
+      "menu": "Cauliflower Power",
+      "cell": "I598",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 599,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I599",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 600,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I600",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 601,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I601",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 602,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I602",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 603,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I603",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 604,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I604",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 605,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I605",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000003",
+      "sourceRow": 606,
+      "menu": "Ravioli Lemon & Burata",
+      "cell": "I606",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 607,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I607",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 608,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I608",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 609,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I609",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 610,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I610",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 611,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I611",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 612,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I612",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000004",
+      "sourceRow": 613,
+      "menu": "Pappardelle al Cinghiale",
+      "cell": "I613",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000005",
+      "sourceRow": 614,
+      "menu": "Black Angus Picanha",
+      "cell": "I614",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "EVG0000000005",
+      "sourceRow": 615,
+      "menu": "Black Angus Picanha",
+      "cell": "I615",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0015",
+      "sourceRow": 616,
+      "menu": "6 PAX",
+      "cell": "I616",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0015",
+      "sourceRow": 617,
+      "menu": "6 PAX",
+      "cell": "I617",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000001",
+      "sourceRow": 618,
+      "menu": "(white) Pinot Grigio",
+      "cell": "I618",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000001",
+      "sourceRow": 619,
+      "menu": "(white) Pinot Grigio",
+      "cell": "I619",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000001",
+      "sourceRow": 620,
+      "menu": "(white) Pinot Grigio",
+      "cell": "I620",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000002",
+      "sourceRow": 621,
+      "menu": "(white) Monchiero Carbone",
+      "cell": "I621",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000002",
+      "sourceRow": 622,
+      "menu": "(white) Monchiero Carbone",
+      "cell": "I622",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000003",
+      "sourceRow": 623,
+      "menu": "(red) Castello di Chianti",
+      "cell": "I623",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000003",
+      "sourceRow": 624,
+      "menu": "(red) Castello di Chianti",
+      "cell": "I624",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000004",
+      "sourceRow": 625,
+      "menu": "(red) Enta Rosso Alta mora",
+      "cell": "I625",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000005",
+      "sourceRow": 626,
+      "menu": "(red) Brunello di Montalcino",
+      "cell": "I626",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WEVG000006",
+      "sourceRow": 627,
+      "menu": "(bubble) Bottega Prosecco Rose",
+      "cell": "I627",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0020",
+      "sourceRow": 628,
+      "menu": "(Gigi) ST.Paul Pinot Grogio",
+      "cell": "I628",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0021",
+      "sourceRow": 629,
+      "menu": "(Gigi) Castello di Bossi Chainti",
+      "cell": "I629",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0021",
+      "sourceRow": 630,
+      "menu": "(Gigi) Castello di Bossi Chainti",
+      "cell": "I630",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0021",
+      "sourceRow": 631,
+      "menu": "(Gigi) Castello di Bossi Chainti",
+      "cell": "I631",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0021",
+      "sourceRow": 632,
+      "menu": "(Gigi) Castello di Bossi Chainti",
+      "cell": "I632",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SPC0005",
+      "sourceRow": 633,
+      "menu": "Campari",
+      "cell": "I633",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SPC0006",
+      "sourceRow": 634,
+      "menu": "Aperol",
+      "cell": "I634",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SPC0007",
+      "sourceRow": 635,
+      "menu": "Gin",
+      "cell": "I635",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-SPC0008",
+      "sourceRow": 636,
+      "menu": "Vermouth Rosso",
+      "cell": "I636",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0061",
+      "sourceRow": 637,
+      "menu": "Tagliatelee Wagyu",
+      "cell": "I637",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0055",
+      "sourceRow": 638,
+      "menu": "Barbera d'Alba Elio Grasso",
+      "cell": "I638",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-KBC0003",
+      "sourceRow": 639,
+      "menu": "Coffee",
+      "cell": "I639",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0008",
+      "sourceRow": 640,
+      "menu": "Focaccia Cicchetti",
+      "cell": "I640",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-AIC0008",
+      "sourceRow": 641,
+      "menu": "Focaccia Cicchetti",
+      "cell": "I641",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0013",
+      "sourceRow": 642,
+      "menu": "Iberico Pork Belly (12 Hours)",
+      "cell": "I642",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0014",
+      "sourceRow": 643,
+      "menu": "Gindara Black Cod",
+      "cell": "I643",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0001",
+      "sourceRow": 644,
+      "menu": "Smoke Ikura",
+      "cell": "I644",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0002",
+      "sourceRow": 645,
+      "menu": "Red Prawn Lemon",
+      "cell": "I645",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0003",
+      "sourceRow": 646,
+      "menu": "Italian Black Truffle",
+      "cell": "I646",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0004",
+      "sourceRow": 647,
+      "menu": "Foie Gras",
+      "cell": "I647",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0005",
+      "sourceRow": 648,
+      "menu": "Cantabrian Anchovy",
+      "cell": "I648",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0006",
+      "sourceRow": 649,
+      "menu": "Red Prawn Carpaccio",
+      "cell": "I649",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0007",
+      "sourceRow": 650,
+      "menu": "Beef Tartare",
+      "cell": "I650",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0008",
+      "sourceRow": 651,
+      "menu": "Stacciatella",
+      "cell": "I651",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0009",
+      "sourceRow": 652,
+      "menu": "Grill Snow Crab",
+      "cell": "I652",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0010",
+      "sourceRow": 653,
+      "menu": "Deep-Fried Red Prawn",
+      "cell": "I653",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0011",
+      "sourceRow": 654,
+      "menu": "Deep-Fried Calamari",
+      "cell": "I654",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0012",
+      "sourceRow": 655,
+      "menu": "Baked Cannelloni",
+      "cell": "I655",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0013",
+      "sourceRow": 656,
+      "menu": "Tortellini",
+      "cell": "I656",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0015",
+      "sourceRow": 657,
+      "menu": "Grill Yellow Tari Collar",
+      "cell": "I657",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0016",
+      "sourceRow": 658,
+      "menu": "Grill Lobster",
+      "cell": "I658",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0017",
+      "sourceRow": 659,
+      "menu": "Baby Porchetta",
+      "cell": "I659",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0018",
+      "sourceRow": 660,
+      "menu": "Grill Chicken",
+      "cell": "I660",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0019",
+      "sourceRow": 661,
+      "menu": "Ribeye Angus",
+      "cell": "I661",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0020",
+      "sourceRow": 662,
+      "menu": "Ribeye Wagyu",
+      "cell": "I662",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0021",
+      "sourceRow": 663,
+      "menu": "Capricci Tiramisu",
+      "cell": "I663",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0022",
+      "sourceRow": 664,
+      "menu": "Turffle Creme Brulee",
+      "cell": "I664",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0023",
+      "sourceRow": 665,
+      "menu": "Riviera Salad",
+      "cell": "I665",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0056",
+      "sourceRow": 666,
+      "menu": "LAVITE LUCENTE 2022",
+      "cell": "I666",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DOL0008",
+      "sourceRow": 667,
+      "menu": "Ice Cream",
+      "cell": "I667",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0040",
+      "sourceRow": 668,
+      "menu": "Lemon Risotto",
+      "cell": "I668",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0026",
+      "sourceRow": 669,
+      "menu": "Razor Clam",
+      "cell": "I669",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0029",
+      "sourceRow": 670,
+      "menu": "T-Bone Angus",
+      "cell": "I670",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0030",
+      "sourceRow": 671,
+      "menu": "Lamb",
+      "cell": "I671",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0032",
+      "sourceRow": 672,
+      "menu": "Classic Tiramisu",
+      "cell": "I672",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0033",
+      "sourceRow": 673,
+      "menu": "Stracciatella San Daniele",
+      "cell": "I673",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0040",
+      "sourceRow": 674,
+      "menu": "Lemon Risotto",
+      "cell": "I674",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-IRH0003",
+      "sourceRow": 675,
+      "menu": "Teeling Single Malt",
+      "cell": "I675",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0062",
+      "sourceRow": 676,
+      "menu": "Gindara Black Cod",
+      "cell": "I676",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0017",
+      "sourceRow": 677,
+      "menu": "Seafood Platter",
+      "cell": "I677",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0057",
+      "sourceRow": 678,
+      "menu": "Montepuciano 1",
+      "cell": "I678",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ002",
+      "sourceRow": 679,
+      "menu": "Fernet-Branca",
+      "cell": "I679",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0058",
+      "sourceRow": 680,
+      "menu": "Langche Nebbiolo",
+      "cell": "I680",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0039",
+      "sourceRow": 681,
+      "menu": "La Machesana Fiano",
+      "cell": "I681",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0005",
+      "sourceRow": 682,
+      "menu": "Barbero Cioccolato",
+      "cell": "I682",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "RC6812030011",
+      "sourceRow": 683,
+      "menu": "WIN-ROS001",
+      "cell": "I683",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "RC6812030007",
+      "sourceRow": 684,
+      "menu": "WIN-SIC002",
+      "cell": "I684",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRA002",
+      "sourceRow": 685,
+      "menu": "Petit Chablis Jean Marc Brocard",
+      "cell": "I685",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR003",
+      "sourceRow": 686,
+      "menu": "Marchesi di Barolo Barbera d'Asti",
+      "cell": "I686",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIC001",
+      "sourceRow": 687,
+      "menu": "Cusumano Terre Siciliane Angimbe",
+      "cell": "I687",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0003",
+      "sourceRow": 688,
+      "menu": "Marchesi di Barolo Barbera d'Asti",
+      "cell": "I688",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0001",
+      "sourceRow": 689,
+      "menu": "Ricasoli Chianti",
+      "cell": "I689",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP0001",
+      "sourceRow": 690,
+      "menu": "Gin Tonic",
+      "cell": "I690",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0031",
+      "sourceRow": 691,
+      "menu": "Porchetta Salsa Verde",
+      "cell": "I691",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0019",
+      "sourceRow": 692,
+      "menu": "Prosecco Allegrini",
+      "cell": "I692",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0002",
+      "sourceRow": 693,
+      "menu": "Tenuta Vigione Marpione Primitivo Riserva",
+      "cell": "I693",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIE0002",
+      "sourceRow": 694,
+      "menu": "Marchesi di Barolo Roero Arneis",
+      "cell": "I694",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIC0001",
+      "sourceRow": 695,
+      "menu": "Cusumano Terre Siciliane Angimbe",
+      "cell": "I695",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0010",
+      "sourceRow": 696,
+      "menu": "Lucente Tenuta Luce",
+      "cell": "I696",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BUF-DRI0001",
+      "sourceRow": 697,
+      "menu": "Drinks Cupon",
+      "cell": "I697",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BUF-FOO0001",
+      "sourceRow": 698,
+      "menu": "Food Buffet",
+      "cell": "I698",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0003",
+      "sourceRow": 699,
+      "menu": "Cantine Pirovano Primitivo Collezione",
+      "cell": "I699",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0005",
+      "sourceRow": 700,
+      "menu": "Cortonesi La Manella Rosso di Montalcino",
+      "cell": "I700",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0008",
+      "sourceRow": 701,
+      "menu": "Amaretto Disaronno",
+      "cell": "I701",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ABR0001",
+      "sourceRow": 702,
+      "menu": "Velenosi Montepuciano d'Abruzzo Prope",
+      "cell": "I702",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ABR0002",
+      "sourceRow": 703,
+      "menu": "Cantine Ermes Montepulciano d'Abruzzo",
+      "cell": "I703",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRR0002",
+      "sourceRow": 704,
+      "menu": "Domaine des Marnes Blanches Dionysos Gamay",
+      "cell": "I704",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0004",
+      "sourceRow": 705,
+      "menu": "La Marchesana Negroamaro",
+      "cell": "I705",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0004",
+      "sourceRow": 706,
+      "menu": "La Marchesana Negroamaro",
+      "cell": "I706",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0003",
+      "sourceRow": 707,
+      "menu": "Ornellaia Le Volte",
+      "cell": "I707",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0014",
+      "sourceRow": 708,
+      "menu": "Australian Lamb Rack 4 Rib",
+      "cell": "I708",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0019",
+      "sourceRow": 709,
+      "menu": "Riviera Salad",
+      "cell": "I709",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRI0001",
+      "sourceRow": 710,
+      "menu": "Marco Felluga Montgris Pinot Grigio",
+      "cell": "I710",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0006",
+      "sourceRow": 711,
+      "menu": "Primitivo Infinitum Torre Vento",
+      "cell": "I711",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0006",
+      "sourceRow": 712,
+      "menu": "Primitivo Infinitum Torre Vento",
+      "cell": "I712",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0004",
+      "sourceRow": 713,
+      "menu": "Monkey Shoulder",
+      "cell": "I713",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ROS0001",
+      "sourceRow": 714,
+      "menu": "Figuiere Mediterranee IGP",
+      "cell": "I714",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-MAN0015",
+      "sourceRow": 715,
+      "menu": "Ribeye Wagyu 200g.",
+      "cell": "I715",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0005",
+      "sourceRow": 716,
+      "menu": "Wild Turkey",
+      "cell": "I716",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0004",
+      "sourceRow": 717,
+      "menu": "Barolo Bosio Boschi dei signori",
+      "cell": "I717",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-MAR0002",
+      "sourceRow": 718,
+      "menu": "Velenosi Passo Adagio Trebbiano d'Abruzzo",
+      "cell": "I718",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0002",
+      "sourceRow": 719,
+      "menu": "Castelleare Chainti Classico Riversa",
+      "cell": "I719",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUS0001",
+      "sourceRow": 720,
+      "menu": "Ballo Angelico Tenuta L'Ompostino",
+      "cell": "I720",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-CAM0006",
+      "sourceRow": 721,
+      "menu": "Fiano La Marchesana",
+      "cell": "I721",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0001",
+      "sourceRow": 722,
+      "menu": "Amaro Montenegro",
+      "cell": "I722",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0003",
+      "sourceRow": 723,
+      "menu": "Teeling Small Batch",
+      "cell": "I723",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0008",
+      "sourceRow": 724,
+      "menu": "Teeling single malt",
+      "cell": "I724",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0018",
+      "sourceRow": 725,
+      "menu": "Cantabrian Anchovy",
+      "cell": "I725",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0067",
+      "sourceRow": 726,
+      "menu": "Panettone",
+      "cell": "I726",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-MAR0001",
+      "sourceRow": 727,
+      "menu": "Stefano Antonucci Ste",
+      "cell": "I727",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIE0001",
+      "sourceRow": 728,
+      "menu": "Marchesi di Barolo Gavi",
+      "cell": "I728",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0066",
+      "sourceRow": 729,
+      "menu": "Fusilloni Pasta",
+      "cell": "I729",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0009",
+      "sourceRow": 730,
+      "menu": "JW Gold",
+      "cell": "I730",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0007",
+      "sourceRow": 731,
+      "menu": "Limoncello",
+      "cell": "I731",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0007",
+      "sourceRow": 732,
+      "menu": "Castello di Bossi Corbaia",
+      "cell": "I732",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0010",
+      "sourceRow": 733,
+      "menu": "Laphroaig Islay Select Cas",
+      "cell": "I733",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ABR0004",
+      "sourceRow": 734,
+      "menu": "Cantina Tollo Gufo Merlot",
+      "cell": "I734",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0006",
+      "sourceRow": 735,
+      "menu": "ST.Pauls Justina Gewurztraminer",
+      "cell": "I735",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0068",
+      "sourceRow": 736,
+      "menu": "Special Menu",
+      "cell": "I736",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRR0005",
+      "sourceRow": 737,
+      "menu": "Maison Schroder & Schyler St Emilion Private Selection",
+      "cell": "I737",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0012",
+      "sourceRow": 738,
+      "menu": "Gaja Ca'Marcanda Promis",
+      "cell": "I738",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0010",
+      "sourceRow": 739,
+      "menu": "Martina Elio Grasso Barbera d'Alba Vigna",
+      "cell": "I739",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0046",
+      "sourceRow": 740,
+      "menu": "Le Volte Dell' Ornellaia",
+      "cell": "I740",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-CAM0004",
+      "sourceRow": 741,
+      "menu": "Masseria Li Veli Askos Verdeca",
+      "cell": "I741",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIE0002",
+      "sourceRow": 742,
+      "menu": "Marchesi di Barolo Roero Arneis",
+      "cell": "I742",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0006",
+      "sourceRow": 743,
+      "menu": "Giovanni Rosso Langhe",
+      "cell": "I743",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0009",
+      "sourceRow": 744,
+      "menu": "Barbaresco Bosio Boshi Dei Signori",
+      "cell": "I744",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIC0002",
+      "sourceRow": 745,
+      "menu": "Cusumano Etna Bianco Alta Mora",
+      "cell": "I745",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIR0001",
+      "sourceRow": 746,
+      "menu": "Cusumano Etna Rosso Alta Mora",
+      "cell": "I746",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0004",
+      "sourceRow": 747,
+      "menu": "ST. Michael-Eppan Chardonnay",
+      "cell": "I747",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-VER0004",
+      "sourceRow": 748,
+      "menu": "Villalta Amarone Della Valpolicella",
+      "cell": "I748",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0001",
+      "sourceRow": 749,
+      "menu": "Cantina Terlano Terlaner",
+      "cell": "I749",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRA0002",
+      "sourceRow": 750,
+      "menu": "Petit Chablis Jean Marc Brocard",
+      "cell": "I750",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0004",
+      "sourceRow": 751,
+      "menu": "Castello di Bolgheri",
+      "cell": "I751",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0004",
+      "sourceRow": 752,
+      "menu": "Castello di Bolgheri",
+      "cell": "I752",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0003",
+      "sourceRow": 753,
+      "menu": "ST.Pauls Plotzner Pinot Bianco",
+      "cell": "I753",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-VER0001",
+      "sourceRow": 754,
+      "menu": "Roccolo Callisto Valpolicella",
+      "cell": "I754",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP0002",
+      "sourceRow": 755,
+      "menu": "Vodka Soda",
+      "cell": "I755",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0022",
+      "sourceRow": 756,
+      "menu": "Torre Rosazza",
+      "cell": "I756",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0006",
+      "sourceRow": 757,
+      "menu": "Prosecco Allegrini Bottle",
+      "cell": "I757",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-UMB0001",
+      "sourceRow": 758,
+      "menu": "Angel Rosso La Carraia",
+      "cell": "I758",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0023",
+      "sourceRow": 759,
+      "menu": "Cantine Pirovano Primitivo Collezione",
+      "cell": "I759",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0002",
+      "sourceRow": 760,
+      "menu": "Fernet-Branca",
+      "cell": "I760",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0006",
+      "sourceRow": 761,
+      "menu": "Cynar",
+      "cell": "I761",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIE0003",
+      "sourceRow": 762,
+      "menu": "Borgogno Era Ora Langhe Riesling",
+      "cell": "I762",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIC0004",
+      "sourceRow": 763,
+      "menu": "OLLI GLILLO",
+      "cell": "I763",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0006",
+      "sourceRow": 764,
+      "menu": "Cortonesi La Manella Brunello di montacino",
+      "cell": "I764",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0070",
+      "sourceRow": 765,
+      "menu": "Strozzapreti Pasta",
+      "cell": "I765",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0071",
+      "sourceRow": 766,
+      "menu": "Couple Valentine's menu",
+      "cell": "I766",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0064",
+      "sourceRow": 767,
+      "menu": "Oyster and Caviar",
+      "cell": "I767",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0072",
+      "sourceRow": 768,
+      "menu": "Single Valentine's menu",
+      "cell": "I768",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ABR0005",
+      "sourceRow": 769,
+      "menu": "Cantine Ermes Montepulciano d'Abruzzo",
+      "cell": "I769",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0024",
+      "sourceRow": 770,
+      "menu": "Cantine Ermes Montepulciano d'Abruzzo",
+      "cell": "I770",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0002",
+      "sourceRow": 771,
+      "menu": "Marchesi di Barolo Barolo di Barolo",
+      "cell": "I771",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-DES0006",
+      "sourceRow": 772,
+      "menu": "bread",
+      "cell": "I772",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0073",
+      "sourceRow": 773,
+      "menu": "Arakami Blufin Tuna",
+      "cell": "I773",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRR0003",
+      "sourceRow": 774,
+      "menu": "Les Foulards Rouges Les Villains",
+      "cell": "I774",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0001",
+      "sourceRow": 775,
+      "menu": "Jack Daniel's",
+      "cell": "I775",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0011",
+      "sourceRow": 776,
+      "menu": "Luce Tenuta Luce",
+      "cell": "I776",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-VER0002",
+      "sourceRow": 777,
+      "menu": "La Preare Amarone della Valpolicella",
+      "cell": "I777",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP0003",
+      "sourceRow": 778,
+      "menu": "Whiskey coca cola",
+      "cell": "I778",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-MEZ0001",
+      "sourceRow": 779,
+      "menu": "Mezcal Artesanal 400 Rabbits",
+      "cell": "I779",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP0004",
+      "sourceRow": 780,
+      "menu": "Rum Coca cola",
+      "cell": "I780",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BO0009",
+      "sourceRow": 781,
+      "menu": "Gordon's",
+      "cell": "I781",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0025",
+      "sourceRow": 782,
+      "menu": "Fabian Jouves \"You F*ck My Wine\"",
+      "cell": "I782",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0008",
+      "sourceRow": 783,
+      "menu": "Engenio Bocchino Baebera d'Alba",
+      "cell": "I783",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-GRA0003",
+      "sourceRow": 784,
+      "menu": "Tignanello Marchesi Antinori",
+      "cell": "I784",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0002",
+      "sourceRow": 785,
+      "menu": "Cantina Terlano Gewurztraminer",
+      "cell": "I785",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0074",
+      "sourceRow": 786,
+      "menu": "Artichoke Stracciatella Parsel",
+      "cell": "I786",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0075",
+      "sourceRow": 787,
+      "menu": "Risotto Porcini Black Truffle",
+      "cell": "I787",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0009",
+      "sourceRow": 788,
+      "menu": "Podere Forte 'Petruccino' Orcia Sangiovese",
+      "cell": "I788",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRA0001",
+      "sourceRow": 789,
+      "menu": "Sancerre Jean Max Roger",
+      "cell": "I789",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ROS0002",
+      "sourceRow": 790,
+      "menu": "Masseria Li Veli",
+      "cell": "I790",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0076",
+      "sourceRow": 791,
+      "menu": "White Asparagus Hazelnut Sabayon",
+      "cell": "I791",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0020",
+      "sourceRow": 792,
+      "menu": "Half cold cuts",
+      "cell": "I792",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0002",
+      "sourceRow": 793,
+      "menu": "JW Black Label",
+      "cell": "I793",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ALT0005",
+      "sourceRow": 794,
+      "menu": "ST. Michael-Eppan Muller Thurgau",
+      "cell": "I794",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0077",
+      "sourceRow": 795,
+      "menu": "Capricci Pasta Set",
+      "cell": "I795",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0078",
+      "sourceRow": 796,
+      "menu": "Risotto Porcini",
+      "cell": "I796",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0026",
+      "sourceRow": 797,
+      "menu": "MIOS Primitivo Merlot",
+      "cell": "I797",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-CAM0003",
+      "sourceRow": 798,
+      "menu": "Vesevo Greco di Tufo",
+      "cell": "I798",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0007",
+      "sourceRow": 799,
+      "menu": "MIOS Primitivo Merlot",
+      "cell": "I799",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-CAM0005",
+      "sourceRow": 800,
+      "menu": "Ciro Picarielli",
+      "cell": "I800",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRR0004",
+      "sourceRow": 801,
+      "menu": "Fabien Jouves You Fuck My Wine",
+      "cell": "I801",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0079",
+      "sourceRow": 802,
+      "menu": "SET MENU ermanno",
+      "cell": "I802",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BOA0004",
+      "sourceRow": 803,
+      "menu": "S Cold Cut",
+      "cell": "I803",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BOA0005",
+      "sourceRow": 804,
+      "menu": "L Cold Cut",
+      "cell": "I804",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BOA0001",
+      "sourceRow": 805,
+      "menu": "Capricci Board",
+      "cell": "I805",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0007",
+      "sourceRow": 806,
+      "menu": "Vodka Soda",
+      "cell": "I806",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0013",
+      "sourceRow": 807,
+      "menu": "Santa barbara Le vaglie",
+      "cell": "I807",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0014",
+      "sourceRow": 808,
+      "menu": "Pinot grigio Bottega",
+      "cell": "I808",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0016",
+      "sourceRow": 809,
+      "menu": "Barolo giovanni Serralunga",
+      "cell": "I809",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BOA0002",
+      "sourceRow": 810,
+      "menu": "S Cheese Board",
+      "cell": "I810",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-BOA0003",
+      "sourceRow": 811,
+      "menu": "L Cheese Board",
+      "cell": "I811",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0009",
+      "sourceRow": 812,
+      "menu": "Sambuca",
+      "cell": "I812",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0080",
+      "sourceRow": 813,
+      "menu": "Special salad",
+      "cell": "I813",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0002",
+      "sourceRow": 814,
+      "menu": "Aperol Spritz",
+      "cell": "I814",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0003",
+      "sourceRow": 815,
+      "menu": "Campari Spritz",
+      "cell": "I815",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-HSP0005",
+      "sourceRow": 816,
+      "menu": "Tequila shot",
+      "cell": "I816",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUS0002",
+      "sourceRow": 817,
+      "menu": "Ribolla Gialla Dario Prinic Orange Wine",
+      "cell": "I817",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-LUN0003",
+      "sourceRow": 818,
+      "menu": "Iberico Pork Valdostana Cutlet",
+      "cell": "I818",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0007",
+      "sourceRow": 819,
+      "menu": "Giovanni Rosso Barolo",
+      "cell": "I819",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-ABR0003",
+      "sourceRow": 820,
+      "menu": "S. Papetti Concrete Rosso",
+      "cell": "I820",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0001",
+      "sourceRow": 821,
+      "menu": "Morso Rosso Susumaniello",
+      "cell": "I821",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0005",
+      "sourceRow": 822,
+      "menu": "Primitivo Gioia del colle Polvanera",
+      "cell": "I822",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0081",
+      "sourceRow": 823,
+      "menu": "Bavette Steak",
+      "cell": "I823",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0082",
+      "sourceRow": 824,
+      "menu": "Special Menu",
+      "cell": "I824",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0063",
+      "sourceRow": 825,
+      "menu": "Grilled Turbot",
+      "cell": "I825",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PUG0008",
+      "sourceRow": 826,
+      "menu": "Tenuta Viglione Verdeca",
+      "cell": "I826",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-BTG0027",
+      "sourceRow": 827,
+      "menu": "Tenuta Viglione Verdeca",
+      "cell": "I827",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0083",
+      "sourceRow": 828,
+      "menu": "Asparagus Risotto",
+      "cell": "I828",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0084",
+      "sourceRow": 829,
+      "menu": "Risotto White Asparagus",
+      "cell": "I829",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SIR0002",
+      "sourceRow": 830,
+      "menu": "COS Frappato",
+      "cell": "I830",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-CAM0001",
+      "sourceRow": 831,
+      "menu": "Antonio Gismondi Cerretto",
+      "cell": "I831",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BO0044",
+      "sourceRow": 832,
+      "menu": "Shot Bottle Kulov",
+      "cell": "I832",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0020",
+      "sourceRow": 833,
+      "menu": "Prosecco Bottega",
+      "cell": "I833",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0021",
+      "sourceRow": 834,
+      "menu": "Cristo Di Campobello",
+      "cell": "I834",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0022",
+      "sourceRow": 835,
+      "menu": "Casale Del Gilio Bellone",
+      "cell": "I835",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0001",
+      "sourceRow": 836,
+      "menu": "Scialatielli Pasta Seafood",
+      "cell": "I836",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0002",
+      "sourceRow": 837,
+      "menu": "Lasagna",
+      "cell": "I837",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0003",
+      "sourceRow": 838,
+      "menu": "Roasted Beef",
+      "cell": "I838",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0004",
+      "sourceRow": 839,
+      "menu": "Deep-Fried Seafood",
+      "cell": "I839",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0005",
+      "sourceRow": 840,
+      "menu": "Roasted Potato",
+      "cell": "I840",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0006",
+      "sourceRow": 841,
+      "menu": "Salad",
+      "cell": "I841",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0007",
+      "sourceRow": 842,
+      "menu": "Pick up Pasta",
+      "cell": "I842",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0008",
+      "sourceRow": 843,
+      "menu": "Pick up Main",
+      "cell": "I843",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-GML0009",
+      "sourceRow": 844,
+      "menu": "Pick up Dessert",
+      "cell": "I844",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0005",
+      "sourceRow": 845,
+      "menu": "Borgogno Langhe NO NAME",
+      "cell": "I845",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0004",
+      "sourceRow": 846,
+      "menu": "Amaro Lucano",
+      "cell": "I846",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNE0001",
+      "sourceRow": 847,
+      "menu": "Colombelle Cote de Gascogne",
+      "cell": "I847",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNE0002",
+      "sourceRow": 848,
+      "menu": "Barossa Shiraz",
+      "cell": "I848",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0011",
+      "sourceRow": 849,
+      "menu": "Gaja Langhe Sito Moresco",
+      "cell": "I849",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "CAP-SOU0005",
+      "sourceRow": 850,
+      "menu": "T-shirt size 2XL",
+      "cell": "I850",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-FRR0001",
+      "sourceRow": 851,
+      "menu": "Domaine des Marnes Blanches Pinot Noir",
+      "cell": "I851",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-VER0003",
+      "sourceRow": 852,
+      "menu": "Roccolo Callisto Amarone della Valpolicella",
+      "cell": "I852",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0085",
+      "sourceRow": 853,
+      "menu": "Oyster Blade",
+      "cell": "I853",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-WH0006",
+      "sourceRow": 854,
+      "menu": "Teeling Single Grain",
+      "cell": "I854",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0065",
+      "sourceRow": 855,
+      "menu": "Rosso di Montalcino La Mannella DOC",
+      "cell": "I855",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0062",
+      "sourceRow": 856,
+      "menu": "Ornellaia Le Volte Toscana",
+      "cell": "I856",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SNC0008",
+      "sourceRow": 857,
+      "menu": "Ferrari Maximum Brut Blanc de Blancs",
+      "cell": "I857",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0040",
+      "sourceRow": 858,
+      "menu": "Marco Felluga Pinot Grigio Mongris Collio DOC",
+      "cell": "I858",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0061",
+      "sourceRow": 859,
+      "menu": "Primitivo Infinitum Torre Vento",
+      "cell": "I859",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0063",
+      "sourceRow": 860,
+      "menu": "Velenosi Prope Montepulciano",
+      "cell": "I860",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0086",
+      "sourceRow": 861,
+      "menu": "Ribeye Wagyu 1 kg.",
+      "cell": "I861",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0060",
+      "sourceRow": 862,
+      "menu": "Cusumano Alta Mora Etna Rosso",
+      "cell": "I862",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0041",
+      "sourceRow": 863,
+      "menu": "La Marchesana Fiano Puglia IGT",
+      "cell": "I863",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0042",
+      "sourceRow": 864,
+      "menu": "Verdeca IGP Puglia Tenuta Viglione",
+      "cell": "I864",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0009",
+      "sourceRow": 865,
+      "menu": "Singha Draft 50cl",
+      "cell": "I865",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-PIR0012",
+      "sourceRow": 866,
+      "menu": "Cascina Tavjin Bandita",
+      "cell": "I866",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0021",
+      "sourceRow": 867,
+      "menu": "Hokkaido Scallop with Uni",
+      "cell": "I867",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-STA0022",
+      "sourceRow": 868,
+      "menu": "Hokkaido Scallop citrus butter",
+      "cell": "I868",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-NEW0034",
+      "sourceRow": 869,
+      "menu": "Dover Sole",
+      "cell": "I869",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-LIQ0003",
+      "sourceRow": 870,
+      "menu": "Amaro Aveno",
+      "cell": "I870",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0087",
+      "sourceRow": 871,
+      "menu": "La Morisseau Mussel",
+      "cell": "I871",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0088",
+      "sourceRow": 872,
+      "menu": "Risoni Milanese",
+      "cell": "I872",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0089",
+      "sourceRow": 873,
+      "menu": "Wagyu Tatare",
+      "cell": "I873",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0091",
+      "sourceRow": 874,
+      "menu": "Tagliatelle Wagyu Ragu",
+      "cell": "I874",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0093",
+      "sourceRow": 875,
+      "menu": "Ravioli Oxtail Wagyu",
+      "cell": "I875",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0094",
+      "sourceRow": 876,
+      "menu": "Picanha 200g.",
+      "cell": "I876",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0095",
+      "sourceRow": 877,
+      "menu": "Wagyu Flat Iron",
+      "cell": "I877",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0096",
+      "sourceRow": 878,
+      "menu": "Bone-in Wagyu Ribeye",
+      "cell": "I878",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0097",
+      "sourceRow": 879,
+      "menu": "BBQ Pineapple",
+      "cell": "I879",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0090",
+      "sourceRow": 880,
+      "menu": "Wagyu Meatball",
+      "cell": "I880",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "FOD-SPC0092",
+      "sourceRow": 881,
+      "menu": "Risoni Milanese L",
+      "cell": "I881",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0064",
+      "sourceRow": 882,
+      "menu": "Villalta Amarone della Valpolicella DOCG XIX",
+      "cell": "I882",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNE0003",
+      "sourceRow": 883,
+      "menu": "Muga Prado Enea Gran Reserva Rioja",
+      "cell": "I883",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0001",
+      "sourceRow": 884,
+      "menu": "Primitivo Infinitum",
+      "cell": "I884",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0004",
+      "sourceRow": 885,
+      "menu": "Prosecco Allegrini",
+      "cell": "I885",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-TUR0008",
+      "sourceRow": 886,
+      "menu": "Castello di bossi Girolamo",
+      "cell": "I886",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0008",
+      "sourceRow": 887,
+      "menu": "Cusumano Alta Mora Etna Rosso",
+      "cell": "I887",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0004",
+      "sourceRow": 888,
+      "menu": "Negroni",
+      "cell": "I888",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0006",
+      "sourceRow": 889,
+      "menu": "Marco felluga pinot Grigio",
+      "cell": "I889",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0040",
+      "sourceRow": 890,
+      "menu": "Marco Felluga Pinot Grigio Mongris Collio DOC",
+      "cell": "I890",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-WNR0043",
+      "sourceRow": 891,
+      "menu": "Cusumano Etna Bianco A",
+      "cell": "I891",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BEV-GRD0006",
+      "sourceRow": 892,
+      "menu": "Gin Tonic",
+      "cell": "I892",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-RED0066",
+      "sourceRow": 893,
+      "menu": "Castelleare Chianti Classico Rive",
+      "cell": "I893",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0002",
+      "sourceRow": 894,
+      "menu": "Rosso di Montalcino",
+      "cell": "I894",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "OTH-LIQ0002",
+      "sourceRow": 895,
+      "menu": "Jagermeister",
+      "cell": "I895",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "BAR-BO0027",
+      "sourceRow": 896,
+      "menu": "Nonino Selezione Orazio",
+      "cell": "I896",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    },
+    {
+      "itemCode": "WIN-SPG0007",
+      "sourceRow": 897,
+      "menu": "Cusumano Etna Bianco",
+      "cell": "I897",
+      "price": null,
+      "rawPrice": null,
+      "formula": null
+    }
+  ]
+}

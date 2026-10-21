@@ -1,0 +1,2652 @@
+{
+  "brandId": "kappo",
+  "workbook": {
+    "filename": "Kappo Takashi_Daily_Sales_Report_20260901-For Codex.xlsx",
+    "sha256": "18adc21129820d42644c5f1e4de7cc667732fe7029655224e891d3cf1a92071b",
+    "sheet": "Category"
+  },
+  "catalogSource": {
+    "filename": "KAPPO-I106.pdf",
+    "sha256": "18d90426ec7a11c90c71fb3fd291154529945002a4eba7a1482455f446297a07",
+    "pages": 8,
+    "sellingPriceBasis": "ราคาก่อนรวมภาษี",
+    "sellingPriceDate": "2026-09-03"
+  },
+  "groups": [
+    {
+      "subgroup": "DINNER COURSE",
+      "type": "Food",
+      "category": "Food",
+      "sourceRow": 4
+    },
+    {
+      "subgroup": "LUNCH COURSE",
+      "type": "Food",
+      "category": "Food",
+      "sourceRow": 5
+    },
+    {
+      "subgroup": "Dessert",
+      "type": "Food",
+      "category": "Food",
+      "sourceRow": 6
+    },
+    {
+      "subgroup": "Other Food",
+      "type": "Food",
+      "category": "Food",
+      "sourceRow": 7
+    },
+    {
+      "subgroup": "Water",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "sourceRow": 8
+    },
+    {
+      "subgroup": "Soft Drink",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "sourceRow": 9
+    },
+    {
+      "subgroup": "Coffee & Tea",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "sourceRow": 10
+    },
+    {
+      "subgroup": "Wine",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "sourceRow": 12
+    },
+    {
+      "subgroup": "WHISKY",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "sourceRow": 13
+    },
+    {
+      "subgroup": "Beer",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "sourceRow": 15
+    },
+    {
+      "subgroup": "Highball",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "sourceRow": 16
+    },
+    {
+      "subgroup": "Sake",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "sourceRow": 17
+    },
+    {
+      "subgroup": "Other",
+      "type": "Other",
+      "category": "Other",
+      "sourceRow": 18
+    }
+  ],
+  "mapping": [
+    {
+      "itemCode": "DIN-APP001",
+      "menu": "Alfonsino shellfish sauce",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 4
+    },
+    {
+      "itemCode": "DIN-CND001",
+      "menu": "Cold somen noodles with sea urchin",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 5
+    },
+    {
+      "itemCode": "DIN-GRI001",
+      "menu": "Grilled tilefish scales",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 6
+    },
+    {
+      "itemCode": "DIN-HOP001",
+      "menu": "Lobster bisque soup hotpot",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 7
+    },
+    {
+      "itemCode": "DIN-ICE001",
+      "menu": "Matcha Ganache Ice cream",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 8
+    },
+    {
+      "itemCode": "DIN-RIC001",
+      "menu": "Pacific saury rice",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 9
+    },
+    {
+      "itemCode": "DIN-SHM001",
+      "menu": "Bluefin tuna sashimi",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 10
+    },
+    {
+      "itemCode": "DIN-SOU001",
+      "menu": "Beef tongue and beef fillet soup",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 11
+    },
+    {
+      "itemCode": "DIN-STG001",
+      "menu": "Stone-grilled abalone and cockle",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "DINNER COURSE A",
+      "sourceRow": 12
+    },
+    {
+      "itemCode": "DIN-COU001",
+      "menu": "DINNER COURSE A",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "",
+      "sourceRow": 13
+    },
+    {
+      "itemCode": "DIN-COU004",
+      "menu": "COURSE-4 Hands",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "",
+      "sourceRow": 14
+    },
+    {
+      "itemCode": "LUN-APP001",
+      "menu": "Red sea bream shellfish sauce",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 15
+    },
+    {
+      "itemCode": "LUN-HOP001",
+      "menu": "Shrimp bisque soup hotpot",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 16
+    },
+    {
+      "itemCode": "LUN-ICE001",
+      "menu": "Matcha Ganache Ice cream",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 17
+    },
+    {
+      "itemCode": "LUN-RIC001",
+      "menu": "Pacific saury rice",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 18
+    },
+    {
+      "itemCode": "LUN-SHM001",
+      "menu": "Bluefin tuna sashimi",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 19
+    },
+    {
+      "itemCode": "LUN-STG001",
+      "menu": "Stone-grilled abalone and cockle",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 20
+    },
+    {
+      "itemCode": "LUN-COU001",
+      "menu": "LUNCH COURSE A",
+      "subgroup": "LUNCH COURSE",
+      "sourceCategory": "LUNCH COURSE A",
+      "sourceRow": 21
+    },
+    {
+      "itemCode": "PAI-AXX001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING A",
+      "sourceRow": 24
+    },
+    {
+      "itemCode": "PAI-AXX002",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING A",
+      "sourceRow": 25
+    },
+    {
+      "itemCode": "PAI-AXX003",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING A",
+      "sourceRow": 26
+    },
+    {
+      "itemCode": "PAI-AXX004",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING A",
+      "sourceRow": 27
+    },
+    {
+      "itemCode": "DIN-COU002",
+      "menu": "DINNER COURSE PAIRING",
+      "subgroup": "DINNER COURSE",
+      "sourceCategory": "PAIRING A",
+      "sourceRow": 28
+    },
+    {
+      "itemCode": "PAI-COU002",
+      "menu": "Sake PAIRING 5 Glasses 60ml*5",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 29
+    },
+    {
+      "itemCode": "PAI-COU003",
+      "menu": "Sake PAIRING 1 Glass 80ml",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 30
+    },
+    {
+      "itemCode": "PAI-COU001",
+      "menu": "SAKE PAIRING 3 Glasses 60ml*3",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 31
+    },
+    {
+      "itemCode": "PAI-COU006",
+      "menu": "PAIRING-6 Glasses: 2390++",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 32
+    },
+    {
+      "itemCode": "PAI-COU005",
+      "menu": "PAIRING 4 Glasses: 1890++",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 33
+    },
+    {
+      "itemCode": "PAI-BXX001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING B",
+      "sourceRow": 34
+    },
+    {
+      "itemCode": "PAI-BXX002",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING B",
+      "sourceRow": 35
+    },
+    {
+      "itemCode": "PAI-BXX003",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING B",
+      "sourceRow": 36
+    },
+    {
+      "itemCode": "PAI-BXX004",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "PAIRING B",
+      "sourceRow": 37
+    },
+    {
+      "itemCode": "ALA-FOD002",
+      "menu": "Kaki (Oyster",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 40
+    },
+    {
+      "itemCode": "ALA-FOD011",
+      "menu": "Wagyu",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 41
+    },
+    {
+      "itemCode": "ALA-FOD004",
+      "menu": "Katsu Sando (Wagyu Sandwich)",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 42
+    },
+    {
+      "itemCode": "ALA-FOD003",
+      "menu": "Mitsu Maguro (Otoro",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 43
+    },
+    {
+      "itemCode": "ALA-FOD005",
+      "menu": "Chawanmushi (Roast Beef",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 44
+    },
+    {
+      "itemCode": "ALA-FOD001",
+      "menu": "Ensui Uni (Sea Urchin",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 45
+    },
+    {
+      "itemCode": "ALA-HOP001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 46
+    },
+    {
+      "itemCode": "ALA-RIC001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 47
+    },
+    {
+      "itemCode": "ALA-KID00",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 48
+    },
+    {
+      "itemCode": "ALA-ADD001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 49
+    },
+    {
+      "itemCode": "ALA-KAP001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "Other Food",
+      "sourceRow": 50
+    },
+    {
+      "itemCode": "SPM-XXX001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "SPECIAL MENU",
+      "sourceRow": 51
+    },
+    {
+      "itemCode": "SPM-XXX002",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "SPECIAL MENU",
+      "sourceRow": 52
+    },
+    {
+      "itemCode": "SPM-XXX003",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "SPECIAL MENU",
+      "sourceRow": 53
+    },
+    {
+      "itemCode": "SPM-XXX004",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "SPECIAL MENU",
+      "sourceRow": 54
+    },
+    {
+      "itemCode": "SPM-XXX005",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "SPECIAL MENU",
+      "sourceRow": 55
+    },
+    {
+      "itemCode": "DES-ICE001",
+      "menu": "",
+      "subgroup": "Dessert",
+      "sourceCategory": "Dessert",
+      "sourceRow": 56
+    },
+    {
+      "itemCode": "DES-CAK001",
+      "menu": "",
+      "subgroup": "Dessert",
+      "sourceCategory": "Dessert",
+      "sourceRow": 57
+    },
+    {
+      "itemCode": "DES-TRD001",
+      "menu": "",
+      "subgroup": "Dessert",
+      "sourceCategory": "Dessert",
+      "sourceRow": 58
+    },
+    {
+      "itemCode": "GFT-BOX001",
+      "menu": "",
+      "subgroup": "Dessert",
+      "sourceCategory": "Dessert",
+      "sourceRow": 59
+    },
+    {
+      "itemCode": "GFT-BOX001",
+      "menu": "",
+      "subgroup": "Other Food",
+      "sourceCategory": "BENTO BOX",
+      "sourceRow": 62
+    },
+    {
+      "itemCode": "KID-COU001",
+      "menu": "KID COURSE A",
+      "subgroup": "Other Food",
+      "sourceCategory": "BENTO BOX",
+      "sourceRow": 63
+    },
+    {
+      "itemCode": "SOF-GRT001",
+      "menu": "Hot Green Tea",
+      "subgroup": "Coffee & Tea",
+      "sourceCategory": "TEA",
+      "sourceRow": 73
+    },
+    {
+      "itemCode": "SOF-GRT002",
+      "menu": "Iced Green Tea",
+      "subgroup": "Coffee & Tea",
+      "sourceCategory": "TEA",
+      "sourceRow": 74
+    },
+    {
+      "itemCode": "SOF-SPK001",
+      "menu": "San Pellegrino (Sparkling natural mineral water)",
+      "subgroup": "Soft Drink",
+      "sourceCategory": "SOFT DRINKS",
+      "sourceRow": 79
+    },
+    {
+      "itemCode": "SOF-WAT001",
+      "menu": "Acqua Panna (Still mineral water)",
+      "subgroup": "Soft Drink",
+      "sourceCategory": "SOFT DRINKS",
+      "sourceRow": 80
+    },
+    {
+      "itemCode": "SOF-SOD001",
+      "menu": "Coke",
+      "subgroup": "Soft Drink",
+      "sourceCategory": "SOFT DRINKS",
+      "sourceRow": 81
+    },
+    {
+      "itemCode": "SOF-SOD002",
+      "menu": "Coke Zero",
+      "subgroup": "Soft Drink",
+      "sourceCategory": "SOFT DRINKS",
+      "sourceRow": 82
+    },
+    {
+      "itemCode": "SOF-SOD003",
+      "menu": "Singha Soda",
+      "subgroup": "Soft Drink",
+      "sourceCategory": "SOFT DRINKS",
+      "sourceRow": 83
+    },
+    {
+      "itemCode": "SAK-ULT001",
+      "menu": "Daishichi Myoka Rangyoku Omega",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 89
+    },
+    {
+      "itemCode": "SAK-PRM001",
+      "menu": "BORN Gold",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 90
+    },
+    {
+      "itemCode": "SAK-PRM002",
+      "menu": "Kotsuzumi Rojoh Hana Ari Tohka",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 91
+    },
+    {
+      "itemCode": "SAK-PRM003",
+      "menu": "Dassai Junmai Daiginjou Migaki Niwari Sanbu 23",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 92
+    },
+    {
+      "itemCode": "SAK-PRM004",
+      "menu": "IWA 5",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 93
+    },
+    {
+      "itemCode": "SAK-PRM005",
+      "menu": "Nanbu bijin (720 ml)",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 94
+    },
+    {
+      "itemCode": "SAK-PRM010",
+      "menu": "Kamikawa Taisetsu Tokachi",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 95
+    },
+    {
+      "itemCode": "SAK-PRM006",
+      "menu": "Nanbu bijin (1800 ml)",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 96
+    },
+    {
+      "itemCode": "SAK-PRM017",
+      "menu": "Kuroobi “YU-YU” Special Junmai",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 97
+    },
+    {
+      "itemCode": "SAK-PRM018",
+      "menu": "SAKE HAKUSHIKA JUNMAI DAIGINJO 720 ML",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 98
+    },
+    {
+      "itemCode": "SAK-ENT004",
+      "menu": "Itto Key it's the key Japanese pure rice",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 99
+    },
+    {
+      "itemCode": "SAK-ENT006",
+      "menu": "Umeshu",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 100
+    },
+    {
+      "itemCode": "SAK-ENT001",
+      "menu": "Shunnoten Junmai Ginjo Fugaku",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 101
+    },
+    {
+      "itemCode": "SAK-ENT002",
+      "menu": "It's The Key Junmai Ginjo",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 102
+    },
+    {
+      "itemCode": "SAK-ENT003",
+      "menu": "Asabiraki Kura Futo Color Junmai Sake",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 103
+    },
+    {
+      "itemCode": "SAK-ENT005",
+      "menu": "Junmai Ginjo",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 104
+    },
+    {
+      "itemCode": "SAK-PRM004",
+      "menu": "IWA 5",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 106
+    },
+    {
+      "itemCode": "SAK-PRM013",
+      "menu": "Gozenshu Bodaimoto Nigori Light",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 107
+    },
+    {
+      "itemCode": "SK-001",
+      "menu": "Nanbu Bijin",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 112
+    },
+    {
+      "itemCode": "SK-002",
+      "menu": "Nanbu bijin craft",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 113
+    },
+    {
+      "itemCode": "SK-003",
+      "menu": "ume shu by glass",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 114
+    },
+    {
+      "itemCode": "SAK-CRF001",
+      "menu": "Nanbu Bijin Tokubetsu Junmai (Craft)",
+      "subgroup": "Sake",
+      "sourceCategory": "Sake",
+      "sourceRow": 115
+    },
+    {
+      "itemCode": "SAK-PRM009",
+      "menu": "Daasai 23 JM Daijingo Migaki Sanbu (720 ml)",
+      "subgroup": "Sake",
+      "sourceCategory": "",
+      "sourceRow": 116
+    },
+    {
+      "itemCode": "HIB-PRE001",
+      "menu": "Yamazaki Highball",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 117
+    },
+    {
+      "itemCode": "HIB-STD-001",
+      "menu": "Kakubin Highball",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 118
+    },
+    {
+      "itemCode": "HIB-STD-002",
+      "menu": "Suntony Whisky kakubin BM",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 119
+    },
+    {
+      "itemCode": "HIB-STD005",
+      "menu": "Komasa No Umeshu (Soda)",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 120
+    },
+    {
+      "itemCode": "HIB-STD006",
+      "menu": "Komasa No Umeshu (On the Rock)",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 121
+    },
+    {
+      "itemCode": "HIB-STD004",
+      "menu": "Yamazaki Highball",
+      "subgroup": "Highball",
+      "sourceCategory": "Highball",
+      "sourceRow": 122
+    },
+    {
+      "itemCode": "WSK-JPN001",
+      "menu": "Yamazaki BM",
+      "subgroup": "WHISKY",
+      "sourceCategory": "WHISKY",
+      "sourceRow": 126
+    },
+    {
+      "itemCode": "WSK-JPN002",
+      "menu": "Kakubin BM",
+      "subgroup": "WHISKY",
+      "sourceCategory": "WHISKY",
+      "sourceRow": 127
+    },
+    {
+      "itemCode": "OTH-WHK001",
+      "menu": "",
+      "subgroup": "WHISKY",
+      "sourceCategory": "WHISKY",
+      "sourceRow": 128
+    },
+    {
+      "itemCode": "W001",
+      "menu": "kakubin on the rock",
+      "subgroup": "WHISKY",
+      "sourceCategory": "WHISKY",
+      "sourceRow": 129
+    },
+    {
+      "itemCode": "W002",
+      "menu": "Yamazaki on the rock",
+      "subgroup": "WHISKY",
+      "sourceCategory": "WHISKY",
+      "sourceRow": 130
+    },
+    {
+      "itemCode": "WSK-JPN005",
+      "menu": "Komasa Umeshu 700ml",
+      "subgroup": "WHISKY",
+      "sourceCategory": "",
+      "sourceRow": 131
+    },
+    {
+      "itemCode": "WSK-JPN004",
+      "menu": "KOMASA NO YUZUSHU 500ML",
+      "subgroup": "WHISKY",
+      "sourceCategory": "",
+      "sourceRow": 132
+    },
+    {
+      "itemCode": "WSK-JPN006",
+      "menu": "RINGO MANSAKU 720ML",
+      "subgroup": "WHISKY",
+      "sourceCategory": "",
+      "sourceRow": 133
+    },
+    {
+      "itemCode": "BER-JPN001",
+      "menu": "Asahi Super Dry Beer",
+      "subgroup": "Beer",
+      "sourceCategory": "BEER",
+      "sourceRow": 135
+    },
+    {
+      "itemCode": "BER-JPN002",
+      "menu": "Sapporo Beer",
+      "subgroup": "Beer",
+      "sourceCategory": "BEER",
+      "sourceRow": 136
+    },
+    {
+      "itemCode": "BER-THA001",
+      "menu": "Singha Beer",
+      "subgroup": "Beer",
+      "sourceCategory": "BEER",
+      "sourceRow": 137
+    },
+    {
+      "itemCode": "WIN-WHI001",
+      "menu": "Louis Jadot Chablis",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 141
+    },
+    {
+      "itemCode": "WIN-WHI002",
+      "menu": "Soleil Koshu 2022",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 142
+    },
+    {
+      "itemCode": "WIN-RED001",
+      "menu": "Louis Jadot Beaujolais Villages",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 143
+    },
+    {
+      "itemCode": "WIN-RED002",
+      "menu": "Rouge of The Wind 2021",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 144
+    },
+    {
+      "itemCode": "WIN-ROS001",
+      "menu": "Domaine Tetta, Aki Queen Macéré Rosé Wine (2022)",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 145
+    },
+    {
+      "itemCode": "WIN-CHP001",
+      "menu": "Champagne Ruinart Blanc de Blancs",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 146
+    },
+    {
+      "itemCode": "BTG-RED001",
+      "menu": "",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 147
+    },
+    {
+      "itemCode": "BTG-WHI001",
+      "menu": "",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 148
+    },
+    {
+      "itemCode": "OTH-WIN001",
+      "menu": "",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 149
+    },
+    {
+      "itemCode": "WIN-CHP002",
+      "menu": "Champagne Bérêche Père & Fils brut",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 150
+    },
+    {
+      "itemCode": "WIN-RED003",
+      "menu": "Dumol",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 151
+    },
+    {
+      "itemCode": "WIN-WHI003",
+      "menu": "Von Winning Deidesheimer 'Grainhubel' Riesling Trocken GG 2018 vintage",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 152
+    },
+    {
+      "itemCode": "WSK-JPN008",
+      "menu": "Terres Grande Champagne 1er Cru (ByGlass)",
+      "subgroup": "Wine",
+      "sourceCategory": "WINE",
+      "sourceRow": 153
+    },
+    {
+      "itemCode": "Om0002",
+      "menu": "OpenDrink",
+      "subgroup": "Sake",
+      "sourceCategory": "ITALIAN LIQUOR",
+      "sourceRow": 156
+    },
+    {
+      "itemCode": "Om0001",
+      "menu": "OpenFood",
+      "subgroup": "Other Food",
+      "sourceCategory": "ITALIAN LIQUOR",
+      "sourceRow": 157
+    },
+    {
+      "itemCode": "OTH-SAK001",
+      "menu": "Corkage Fee (Sake Bottle)",
+      "subgroup": "Other Food",
+      "sourceCategory": "",
+      "sourceRow": 163
+    }
+  ],
+  "catalog": [
+    {
+      "itemCode": "ALA-FOD001",
+      "menu": "Ensui Uni (Sea Urchin, Caviar, Dashi Jelly)",
+      "description2": "Ensui Uni (Sea Urchin, Caviar, Dashi Jelly)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 900.0,
+      "sellingTax": 63.0,
+      "sellingPriceWithTax": 963.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD002",
+      "menu": "Kaki (Oyster, Wakame, Somen, Lemon Ponzu)",
+      "description2": "Kaki (Oyster, Wakame, Somen, Lemon Ponzu)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 250.0,
+      "sellingTax": 17.5,
+      "sellingPriceWithTax": 267.5,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD003",
+      "menu": "Mitsu Maguro (Otoro, Chutoro, Akami, Egg Yolk, Shoyu)",
+      "description2": "Mitsu Maguro (Otoro, Chutoro, Akami, Egg Yolk, Shoyu)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 1000.0,
+      "sellingTax": 70.0,
+      "sellingPriceWithTax": 1070.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD004",
+      "menu": "Katsu Sando (Wagyu Sandwich)",
+      "description2": "Katsu Sando (Wagyu Sandwich)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD005",
+      "menu": "Chawanmushi (Roast Beef, Gyutan)",
+      "description2": "Chawanmushi (Roast Beef, Gyutan)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD006",
+      "menu": "Awabi & Hotate (Stone- Grilled Beef Fillet)",
+      "description2": "Awabi & Hotate (Stone- Grilled Beef Fillet)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 1200.0,
+      "sellingTax": 84.0,
+      "sellingPriceWithTax": 1284.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD007",
+      "menu": "Kinki (Kinki Clear Soup)",
+      "description2": "Kinki (Kinki Clear Soup)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 300.0,
+      "sellingTax": 21.0,
+      "sellingPriceWithTax": 321.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD008",
+      "menu": "Matoudai (John Dory, Soy Sauce)",
+      "description2": "Matoudai (John Dory, Soy Sauce)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD009",
+      "menu": "Omakase Gohan (Seasonal Clay Pot Rice)",
+      "description2": "Omakase Gohan (Seasonal Clay Pot Rice)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD010",
+      "menu": "Sake (Sake Cheesecake with Sake Cream)",
+      "description2": "Sake (Sake Cheesecake with Sake Cream)",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 150.0,
+      "sellingTax": 10.5,
+      "sellingPriceWithTax": 160.5,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-FOD011",
+      "menu": "Wagyu",
+      "description2": "",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "PAI-F001",
+      "menu": "Virgine T Transmission Brut NV, Champagne, France",
+      "description2": "",
+      "posCategory": "A-LA-CARTE",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-APP001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "APPETIZER",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "GFT-BOX001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "BENTO BOX",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "DES-CAK001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "CAKE",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "WIN-CHP001",
+      "menu": "Champagne Ruinart Blanc de blancs 750 Ml",
+      "description2": "Champagne Ruinart Blanc de blancs 750 Ml",
+      "posCategory": "CHAMPAGNE",
+      "sellingPrice": 11000.0,
+      "sellingTax": 770.0,
+      "sellingPriceWithTax": 11770.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "WIN-CHP002",
+      "menu": "Champagne Bérêche Père & Fils brut",
+      "description2": "",
+      "posCategory": "CHAMPAGNE",
+      "sellingPrice": 3800.0,
+      "sellingTax": 266.0,
+      "sellingPriceWithTax": 4066.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "ALA-CND001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "COLD NOODLES",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "OTH-LIQ001",
+      "menu": "Corkage Fee (Liquor Bottle)",
+      "description2": "",
+      "posCategory": "CORKAGE - LIQUOR",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "OTH-SAK001",
+      "menu": "Corkage Fee (Sake Bottle)",
+      "description2": "",
+      "posCategory": "CORKAGE - SAKE",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 1
+    },
+    {
+      "itemCode": "OTH-WHK001",
+      "menu": "Corkage Fee (Whiskey Bottle)",
+      "description2": "",
+      "posCategory": "CORKAGE - WHISKY",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "OTH-WIN001",
+      "menu": "Corkage Fee (Wine Bottle)",
+      "description2": "",
+      "posCategory": "CORKAGE - WINE",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI001",
+      "menu": "Caviar",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI002",
+      "menu": "Ayu",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI003",
+      "menu": "Maguro",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI004",
+      "menu": "Red Sea Bream",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI005",
+      "menu": "Amberjack",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "COU-PRI006",
+      "menu": "Kakigori",
+      "description2": "",
+      "posCategory": "COUSE Private Dinner",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET001",
+      "menu": "Aka Ebi",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET002",
+      "menu": "Madai",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET003",
+      "menu": "Mitsu Maguro",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 1000.0,
+      "sellingTax": 70.0,
+      "sellingPriceWithTax": 1070.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET004",
+      "menu": "Uni",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET005",
+      "menu": "Amadai",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET006",
+      "menu": "Awabi & Hokkigai",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET007",
+      "menu": "Wagyu",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET010",
+      "menu": "Ensui Uni",
+      "description2": "Sea Urchin, Caviar, Dashi Jelly",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 900.0,
+      "sellingTax": 63.0,
+      "sellingPriceWithTax": 963.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET011",
+      "menu": "Kaki",
+      "description2": "Oyster, Wakame Somen, Lemon Ponzu",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 250.0,
+      "sellingTax": 17.5,
+      "sellingPriceWithTax": 267.5,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET012",
+      "menu": "Mitsu Maguro",
+      "description2": "Otoro, Chutoro, Akami, Egg Yolk Shoyu",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET013",
+      "menu": "Katsu Sando",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET014",
+      "menu": "Chawanmushi",
+      "description2": "Roast beef, Gyutan",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET015",
+      "menu": "Awabi & Hotate",
+      "description2": "Stone-grilled Abalone, Scallop",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 1200.0,
+      "sellingTax": 84.0,
+      "sellingPriceWithTax": 1284.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET016",
+      "menu": "Kinki",
+      "description2": "Kinki Clear Soup",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET017",
+      "menu": "Matoudai",
+      "description2": "John Dory, Soy Sauce",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET018",
+      "menu": "Omakase Gohan",
+      "description2": "Seasonal Clay Pot Rice",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-SET019",
+      "menu": "Sake Cheesecake",
+      "description2": "",
+      "posCategory": "DINNER COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND001",
+      "menu": "Kohada",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND002",
+      "menu": "Beef Tartare",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND003",
+      "menu": "Amadai",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND004",
+      "menu": "Tomato",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND005",
+      "menu": "White Asparagus Tempura",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND006",
+      "menu": "White Asparagus BBQ",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND007",
+      "menu": "Omakase Gohan",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "DIN-4ND008",
+      "menu": "Spaghettieis",
+      "description2": "",
+      "posCategory": "DINNER-4 Hands",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 2
+    },
+    {
+      "itemCode": "SAK-ENT001",
+      "menu": "Shunnoten Junmai Ginjo Fugaku",
+      "description2": "Sake Shunnoten Fugaku 300 Ml",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 700.0,
+      "sellingTax": 49.0,
+      "sellingPriceWithTax": 749.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SAK-ENT002",
+      "menu": "It's The Key Junmai Ginjo",
+      "description2": "",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 680.0,
+      "sellingTax": 47.6,
+      "sellingPriceWithTax": 727.6,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SAK-ENT003",
+      "menu": "Asabiraki Kura Futo Color Junmai Sake",
+      "description2": "",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 440.0,
+      "sellingTax": 30.8,
+      "sellingPriceWithTax": 470.8,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SAK-ENT004",
+      "menu": "Sake Itto-Key 300 Ml",
+      "description2": "Sake Itto-Key 300 Ml",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 680.0,
+      "sellingTax": 47.6,
+      "sellingPriceWithTax": 727.6,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SAK-ENT005",
+      "menu": "Junmai Ginjo",
+      "description2": "",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 700.0,
+      "sellingTax": 49.0,
+      "sellingPriceWithTax": 749.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SAK-ENT006",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "Entry-Level",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SOF-GRT001",
+      "menu": "Hot Green Tea",
+      "description2": "Green tea powder 40 gr",
+      "posCategory": "GREEN TEA",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "SOF-GRT002",
+      "menu": "Ice Green Tea",
+      "description2": "Green tea powder 40 gr",
+      "posCategory": "GREEN TEA",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "ALA-GRI001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "GRILLED FISH",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "HIB-STD-001",
+      "menu": "Kakubin Highball",
+      "description2": "",
+      "posCategory": "Highball",
+      "sellingPrice": 320.0,
+      "sellingTax": 22.4,
+      "sellingPriceWithTax": 342.4,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "HIB-STD004",
+      "menu": "Yamazaki Highball",
+      "description2": "",
+      "posCategory": "Highball",
+      "sellingPrice": 950.0,
+      "sellingTax": 66.5,
+      "sellingPriceWithTax": 1016.5,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "HIB-STD005",
+      "menu": "Komasa No Umeshu (Soda)",
+      "description2": "",
+      "posCategory": "Highball",
+      "sellingPrice": 250.0,
+      "sellingTax": 17.5,
+      "sellingPriceWithTax": 267.5,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "HIB-STD006",
+      "menu": "Komasa No Umeshu (On the Rock)",
+      "description2": "",
+      "posCategory": "Highball",
+      "sellingPrice": 250.0,
+      "sellingTax": 17.5,
+      "sellingPriceWithTax": 267.5,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "ALA-HOP001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "HOTPOT",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "DES-ICE001",
+      "menu": "Matcha Ganache Ice cream",
+      "description2": "",
+      "posCategory": "ICE CREAM",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "BER-JPN001",
+      "menu": "Asahi Super Dry Beer",
+      "description2": "Beer Asahi dry Btl 330 Ml (Btl) (4001007)",
+      "posCategory": "JAPANESE BEER",
+      "sellingPrice": 150.0,
+      "sellingTax": 10.5,
+      "sellingPriceWithTax": 160.5,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "BER-JPN002",
+      "menu": "Sapporo Beer",
+      "description2": "Beer Sapporo 330 Ml (Btl) (4001008)",
+      "posCategory": "JAPANESE BEER",
+      "sellingPrice": 220.0,
+      "sellingTax": 15.4,
+      "sellingPriceWithTax": 235.4,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN001",
+      "menu": "Yamazaki Single Malt Japanese Whisky",
+      "description2": "",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 11000.0,
+      "sellingTax": 770.0,
+      "sellingPriceWithTax": 11770.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN002",
+      "menu": "Suntony Whisky kakubin BM",
+      "description2": "",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 2100.0,
+      "sellingTax": 147.0,
+      "sellingPriceWithTax": 2247.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN003",
+      "menu": "Plum liqueur komasa no umeshu (1800ml)",
+      "description2": "",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 4000.0,
+      "sellingTax": 280.0,
+      "sellingPriceWithTax": 4280.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN004",
+      "menu": "KOMASA NO YUZUSHU 500ML",
+      "description2": "KOMASA NO YUZUSHU 500ML",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 1600.0,
+      "sellingTax": 112.0,
+      "sellingPriceWithTax": 1712.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN005",
+      "menu": "Komasa Umeshu 700ml",
+      "description2": "",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 1680.0,
+      "sellingTax": 117.6,
+      "sellingPriceWithTax": 1797.6,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN006",
+      "menu": "RINGO MANSAKU 720ML",
+      "description2": "RINGO MANSAKU 720ML",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 2300.0,
+      "sellingTax": 161.0,
+      "sellingPriceWithTax": 2461.0,
+      "sourcePage": 3
+    },
+    {
+      "itemCode": "WSK-JPN007",
+      "menu": "Suntory Plum Liqueur 17% 750ml",
+      "description2": "Suntory YamazakiCask UmeshuPlum 17%750ml",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 4200.0,
+      "sellingTax": 294.0,
+      "sellingPriceWithTax": 4494.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "WSK-JPN008",
+      "menu": "Terres Grande Champagne 1er Cru (ByGlass)",
+      "description2": "Terres Grande Champagne 1er Cru (ByGlass)",
+      "posCategory": "JAPANESE WHISKY",
+      "sellingPrice": 180.0,
+      "sellingTax": 12.6,
+      "sellingPriceWithTax": 192.6,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "ALA-KAP001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "KAPPO",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "ALA-KID001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "KIDS",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET001",
+      "menu": "Ikura Chawanmushi",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET002",
+      "menu": "Yaki Sakana Gohan",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET003",
+      "menu": "Ramen",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET004",
+      "menu": "Sake cheese cake",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 150.0,
+      "sellingTax": 10.5,
+      "sellingPriceWithTax": 160.5,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET005",
+      "menu": "Katsu sando",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET006",
+      "menu": "Gyutan Chawanmushi",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 400.0,
+      "sellingTax": 28.0,
+      "sellingPriceWithTax": 428.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET007",
+      "menu": "Kinki soup",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 300.0,
+      "sellingTax": 21.0,
+      "sellingPriceWithTax": 321.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET008",
+      "menu": "Matoudai",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "KID-SET009",
+      "menu": "Omakase Gohan",
+      "description2": "",
+      "posCategory": "KIDS COURSE A",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-APP001",
+      "menu": "Red sea bream shellfish sauce",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-HOP001",
+      "menu": "Shrimp bisque soup hotpot",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-ICE001",
+      "menu": "Matcha Ganache Ice cream",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-RIC001",
+      "menu": "Pacific saury rice",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-SHM001",
+      "menu": "Bluefin tuna sashimi",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "LUN-STG001",
+      "menu": "Stone-grilled abalone and cockle",
+      "description2": "",
+      "posCategory": "LUNCH COURSE A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "ALA-RIC001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "MIXED RICE",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "Om0001",
+      "menu": "OpenFood",
+      "description2": "OpenFood",
+      "posCategory": "OpenMenu",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "Om0002",
+      "menu": "OpenDrink",
+      "description2": "OpenDrink",
+      "posCategory": "OpenMenu",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "PAI-PTH001",
+      "menu": "Gozenshu Bodaimoto Nigori Light 60ml",
+      "description2": "",
+      "posCategory": "PAIRING A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "PAI-PTH002",
+      "menu": "Jozan Junmai Ginjo Karakuchi Tobi 60ml",
+      "description2": "",
+      "posCategory": "PAIRING A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "PAI-PTH003",
+      "menu": "Emishiki Masterpiece A 60ml",
+      "description2": "",
+      "posCategory": "PAIRING A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 4
+    },
+    {
+      "itemCode": "PAI-PTH004",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "PAIRING A",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PFV001",
+      "menu": "Gozenshu Bodaimoto Nigori Light 60ml",
+      "description2": "",
+      "posCategory": "PAIRING B",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PFV002",
+      "menu": "Jozan Junmai Ginjo Karakuchi Tobi 60ml",
+      "description2": "",
+      "posCategory": "PAIRING B",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PFV003",
+      "menu": "Abe Vega 60ml",
+      "description2": "",
+      "posCategory": "PAIRING B",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PFV004",
+      "menu": "Emishiki Masterpiece A 60ml",
+      "description2": "",
+      "posCategory": "PAIRING B",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PFV005",
+      "menu": "Kuroobi “YU-YU” Special Junmai 60ml",
+      "description2": "",
+      "posCategory": "PAIRING B",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PON001",
+      "menu": "Gozenshu Bodaimoto Nigori Light 80ml",
+      "description2": "",
+      "posCategory": "PAIRING C",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI001",
+      "menu": "Champagne Andre Clouet The V6 experience - Grand Cru Brut",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI002",
+      "menu": "Kazenomori Akitsuhu 507 50% Junmai Daiginjyo",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI003",
+      "menu": "Jozan Junmaidaiginjo Houjun Karakuchi Kiwami",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI004",
+      "menu": "Kidoizumi K Zero",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI005",
+      "menu": "LINNÉ 800 Soba",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-PRI006",
+      "menu": "Gozenshu Bodaimoto 1859",
+      "description2": "",
+      "posCategory": "PAIRING D",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-04G001",
+      "menu": "Virgine T Transmission Brut NV, Champagne, France",
+      "description2": "",
+      "posCategory": "PAIRING F",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-04G002",
+      "menu": "Mirafiore Nescetta Langhe 2021, Piedmont, Italy",
+      "description2": "",
+      "posCategory": "PAIRING F",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-04G003",
+      "menu": "Quinta das Marias Encruzado 2023, Dao, Portugal",
+      "description2": "",
+      "posCategory": "PAIRING F",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-04G004",
+      "menu": "Ridolfi Brunello di Montalcino 2019, Tuscany, Italy",
+      "description2": "",
+      "posCategory": "PAIRING F",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G001",
+      "menu": "Virgine T Transmission Brut NV, Champagne, France",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G002",
+      "menu": "Mirafiore Nescetta Langhe 2021, Piedmont, Italy",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G003",
+      "menu": "Quinta das Marias Encruzado 2023, Dao, Portugal",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G004",
+      "menu": "Ridolfi Brunello di Montalcino 2019, Tuscany, Italy",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G005",
+      "menu": "Alain Jaume Gigondas 2021, S.Rhone, France",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "PAI-06G006",
+      "menu": "Terres Grande Champagne 1er Cru, Cognac, France",
+      "description2": "",
+      "posCategory": "PAIRING G",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 5
+    },
+    {
+      "itemCode": "SAK-PRM001",
+      "menu": "Sake Born gold junmai 720 Ml",
+      "description2": "Sake Born gold junmai 720 Ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2300.0,
+      "sellingTax": 161.0,
+      "sellingPriceWithTax": 2461.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM002",
+      "menu": "Kotsuzumi Rojoh Hana Ari Tohka",
+      "description2": "Sake Kotsuzumi Rohoh HanaAri Tohka720 Ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2300.0,
+      "sellingTax": 161.0,
+      "sellingPriceWithTax": 2461.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM003",
+      "menu": "Dassai Junmai Daiginjou Migaki Niwari Sanbu 23",
+      "description2": "Sake DassaiJM DJ MigakiNiwariSanbu23-720",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 6600.0,
+      "sellingTax": 462.0,
+      "sellingPriceWithTax": 7062.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM004",
+      "menu": "Sake Iwa 5 720 Ml",
+      "description2": "Sake Iwa 5 720 Ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 7000.0,
+      "sellingTax": 490.0,
+      "sellingPriceWithTax": 7490.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM005",
+      "menu": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+      "description2": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2200.0,
+      "sellingTax": 154.0,
+      "sellingPriceWithTax": 2354.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM006",
+      "menu": "Nanbu Bijin Tokubetsu Junmai 1.8 l",
+      "description2": "Nanbu Bijin Tokubetsu Junmai 1.8 l",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 4000.0,
+      "sellingTax": 280.0,
+      "sellingPriceWithTax": 4280.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM007",
+      "menu": "Sake Kostuzumi Rojoh Hana",
+      "description2": "",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2300.0,
+      "sellingTax": 161.0,
+      "sellingPriceWithTax": 2461.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM008",
+      "menu": "Daimai 39 (720 ml)",
+      "description2": "",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 3700.0,
+      "sellingTax": 259.0,
+      "sellingPriceWithTax": 3959.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM009",
+      "menu": "Daasai 23 JM Daijingo Migaki Sanbu (720 ml)",
+      "description2": "",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 6600.0,
+      "sellingTax": 462.0,
+      "sellingPriceWithTax": 7062.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM010",
+      "menu": "Kamikawa Taisetsu Tokachi",
+      "description2": "Sake Blue Junmai 720 Ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 3800.0,
+      "sellingTax": 266.0,
+      "sellingPriceWithTax": 4066.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM011",
+      "menu": "Gozenshu Yuzu sake (1,800 ml)",
+      "description2": "",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 4000.0,
+      "sellingTax": 280.0,
+      "sellingPriceWithTax": 4280.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM012",
+      "menu": "Alpha 8 Kazenomori (500 ml)",
+      "description2": "Kazenomori Alphas 500 ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 5900.0,
+      "sellingTax": 413.0,
+      "sellingPriceWithTax": 6313.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM013",
+      "menu": "Gozenshu Bodaimoto Nigori Light",
+      "description2": "",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2960.0,
+      "sellingTax": 207.2,
+      "sellingPriceWithTax": 3167.2,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM014",
+      "menu": "Emishiki Masterpiece A 720ml",
+      "description2": "Emishiki Masterpiece A 720ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 4590.0,
+      "sellingTax": 321.3,
+      "sellingPriceWithTax": 4911.3,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM015",
+      "menu": "Abe Vega 720ml",
+      "description2": "ABE VEGA 720ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 3690.0,
+      "sellingTax": 258.3,
+      "sellingPriceWithTax": 3948.3,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM016",
+      "menu": "Jozan Junmai Ginjyo Karakuchi Tobi",
+      "description2": "Jozan Junmaiginjo Karakuchi Tobi 720ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 3950.0,
+      "sellingTax": 276.5,
+      "sellingPriceWithTax": 4226.5,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM017",
+      "menu": "Kuroobi “YU-YU” Special Junmai",
+      "description2": "Kuroobi \"YUYU\" Special Junmai 720ml",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 1950.0,
+      "sellingTax": 136.5,
+      "sellingPriceWithTax": 2086.5,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-PRM018",
+      "menu": "Kakushika Junmai Daiginjo",
+      "description2": "SAKE HAKUSHIKA JUNMAI DAIGINJO 720 ML",
+      "posCategory": "Premium-Level",
+      "sellingPrice": 2900.0,
+      "sellingTax": 203.0,
+      "sellingPriceWithTax": 3103.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "OTH-FEE001",
+      "menu": "Exclusive Private Dining Room",
+      "description2": "",
+      "posCategory": "PRIVATE ROOM",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "BTG-RED001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "RED BY GLASS",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "WIN-RED001",
+      "menu": "R- Louis Jadot Beaujolais Village 750 Ml",
+      "description2": "R- Louis Jadot Beaujolais Village 750 Ml",
+      "posCategory": "RED WINE",
+      "sellingPrice": 1800.0,
+      "sellingTax": 126.0,
+      "sellingPriceWithTax": 1926.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "WIN-RED002",
+      "menu": "R-Rouge of the wind 2021 750 Ml",
+      "description2": "R-Rouge of the wind 2021 750 Ml",
+      "posCategory": "RED WINE",
+      "sellingPrice": 3600.0,
+      "sellingTax": 252.0,
+      "sellingPriceWithTax": 3852.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "WIN-RED003",
+      "menu": "Dumol, Wester Reach, Pinot Noir 2020",
+      "description2": "",
+      "posCategory": "RED WINE",
+      "sellingPrice": 4300.0,
+      "sellingTax": 301.0,
+      "sellingPriceWithTax": 4601.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "WIN-ROS001",
+      "menu": "Domaine Tetta, Aki Queen Macéré Rosé Wine (2022)",
+      "description2": "",
+      "posCategory": "ROSE WINE",
+      "sellingPrice": 3200.0,
+      "sellingTax": 224.0,
+      "sellingPriceWithTax": 3424.0,
+      "sourcePage": 6
+    },
+    {
+      "itemCode": "SAK-CRF001",
+      "menu": "Nanbu Bijin Tokubetsu Junmai (Craft)",
+      "description2": "",
+      "posCategory": "SAKE BY CRAFT",
+      "sellingPrice": 650.0,
+      "sellingTax": 45.5,
+      "sellingPriceWithTax": 695.5,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "ALA-SHM001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SASHIMI",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-SOD001",
+      "menu": "Coke",
+      "description2": "Coca cola Can 24x325 ML",
+      "posCategory": "SODA",
+      "sellingPrice": 50.0,
+      "sellingTax": 3.5,
+      "sellingPriceWithTax": 53.5,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-SOD002",
+      "menu": "Coke Zero",
+      "description2": "Coke Zero Can 24x325 ML (4000698)",
+      "posCategory": "SODA",
+      "sellingPrice": 50.0,
+      "sellingTax": 3.5,
+      "sellingPriceWithTax": 53.5,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-SOD003",
+      "menu": "Singha Soda",
+      "description2": "Soda Singha BT (4001004)",
+      "posCategory": "SODA",
+      "sellingPrice": 50.0,
+      "sellingTax": 3.5,
+      "sellingPriceWithTax": 53.5,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "ALA-SOU001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SOUP",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-SPK001",
+      "menu": "San Pellegrino (Sparkling natural mineral water)",
+      "description2": "",
+      "posCategory": "SPARKLING",
+      "sellingPrice": 220.0,
+      "sellingTax": 15.4,
+      "sellingPriceWithTax": 235.4,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-SPK002",
+      "menu": "S.Pellegrino 750 ML sparking (Glass)",
+      "description2": "",
+      "posCategory": "SPARKLING",
+      "sellingPrice": 0.0,
+      "sellingTax": 0.0,
+      "sellingPriceWithTax": 0.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SPM-XXX001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SPECIAL MENU",
+      "sellingPrice": 300.0,
+      "sellingTax": 21.0,
+      "sellingPriceWithTax": 321.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SPM-XXX002",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SPECIAL MENU",
+      "sellingPrice": 500.0,
+      "sellingTax": 35.0,
+      "sellingPriceWithTax": 535.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SPM-XXX003",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SPECIAL MENU",
+      "sellingPrice": 700.0,
+      "sellingTax": 49.0,
+      "sellingPriceWithTax": 749.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SPM-XXX004",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SPECIAL MENU",
+      "sellingPrice": 900.0,
+      "sellingTax": 63.0,
+      "sellingPriceWithTax": 963.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SPM-XXX005",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "SPECIAL MENU",
+      "sellingPrice": 1100.0,
+      "sellingTax": 77.0,
+      "sellingPriceWithTax": 1177.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "ALA-STG001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "STONE-GRILLED",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "BER-THA001",
+      "menu": "Singha Beer",
+      "description2": "Beer Singha 330 Ml (Btl) (4001009)",
+      "posCategory": "THAI BEER",
+      "sellingPrice": 120.0,
+      "sellingTax": 8.4,
+      "sellingPriceWithTax": 128.4,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "DES-TRD001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "TRADITIONAL",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SAK-ULT001",
+      "menu": "Daishichi Myoka Rangyoku Omega",
+      "description2": "Sake Daichishin Myoka Omeka 720 ml",
+      "posCategory": "Ultra Premium-Level",
+      "sellingPrice": 65000.0,
+      "sellingTax": 4550.0,
+      "sellingPriceWithTax": 69550.0,
+      "sourcePage": 7
+    },
+    {
+      "itemCode": "SOF-WAT001",
+      "menu": "Acqua Panna (750ml)",
+      "description2": "Water AP. 750 Cl/Btl (12 Btl/Ctn)",
+      "posCategory": "WATER",
+      "sellingPrice": 180.0,
+      "sellingTax": 12.6,
+      "sellingPriceWithTax": 192.6,
+      "sourcePage": 8
+    },
+    {
+      "itemCode": "BTG-WHI001",
+      "menu": "TEMP",
+      "description2": "",
+      "posCategory": "WHITE BY GLASS",
+      "sellingPrice": 100.0,
+      "sellingTax": 7.0,
+      "sellingPriceWithTax": 107.0,
+      "sourcePage": 8
+    },
+    {
+      "itemCode": "WIN-WHI001",
+      "menu": "Louis Jadot Chablis",
+      "description2": "W- Louis Jadot chablis 750 Ml",
+      "posCategory": "WHITE WINE",
+      "sellingPrice": 2900.0,
+      "sellingTax": 203.0,
+      "sellingPriceWithTax": 3103.0,
+      "sourcePage": 8
+    },
+    {
+      "itemCode": "WIN-WHI002",
+      "menu": "Soleil Koshu 2022",
+      "description2": "",
+      "posCategory": "WHITE WINE",
+      "sellingPrice": 2150.0,
+      "sellingTax": 150.5,
+      "sellingPriceWithTax": 2300.5,
+      "sourcePage": 8
+    },
+    {
+      "itemCode": "WIN-WHI003",
+      "menu": "Von Winning Deidesheimer 'Grainhubel' Riesling Trocken GG 2018 vintage",
+      "description2": "",
+      "posCategory": "WHITE WINE",
+      "sellingPrice": 3700.0,
+      "sellingTax": 259.0,
+      "sellingPriceWithTax": 3959.0,
+      "sourcePage": 8
+    }
+  ],
+  "duplicateCodes": [
+    [
+      {
+        "itemCode": "GFT-BOX001",
+        "menu": "",
+        "subgroup": "Dessert",
+        "sourceCategory": "Dessert",
+        "sourceRow": 59
+      },
+      {
+        "itemCode": "GFT-BOX001",
+        "menu": "",
+        "subgroup": "Other Food",
+        "sourceCategory": "BENTO BOX",
+        "sourceRow": 62
+      }
+    ],
+    [
+      {
+        "itemCode": "SAK-PRM004",
+        "menu": "IWA 5",
+        "subgroup": "Sake",
+        "sourceCategory": "Sake",
+        "sourceRow": 93
+      },
+      {
+        "itemCode": "SAK-PRM004",
+        "menu": "IWA 5",
+        "subgroup": "Sake",
+        "sourceCategory": "Sake",
+        "sourceRow": 106
+      }
+    ]
+  ]
+}

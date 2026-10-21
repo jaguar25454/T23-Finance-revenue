@@ -1,0 +1,680 @@
+{
+  "workbook": {
+    "name": "Kinn1_Daily_Sales_Report_260823.xlsx",
+    "sha256": "c0ccc4cfd246c8441f6d436320fce586ec426a3a5153882ebfc89d5b5f55408c"
+  },
+  "groups": [
+    {
+      "subgroup": "Omakase Course",
+      "type": "Food",
+      "category": "Food",
+      "criteria": [
+        "Omakase"
+      ],
+      "source": "Sale Kinn1 C11"
+    },
+    {
+      "subgroup": "Other Food",
+      "type": "Food",
+      "category": "Food",
+      "criteria": [
+        "Main course",
+        "Other food"
+      ],
+      "source": "Sale Kinn1 D11"
+    },
+    {
+      "subgroup": "Water",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Water/Soda"
+      ],
+      "source": "Sale Kinn1 F11"
+    },
+    {
+      "subgroup": "Soft Drink",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Soft drink"
+      ],
+      "source": "Sale Kinn1 G11"
+    },
+    {
+      "subgroup": "Coffee/Tea",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Coffee and Tea"
+      ],
+      "source": "Sale Kinn1 H11"
+    },
+    {
+      "subgroup": "Sake",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "Sake"
+      ],
+      "source": "Sale Kinn1 J11"
+    },
+    {
+      "subgroup": "Corkage Charge",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "Corkage Charge"
+      ],
+      "source": "Sale Kinn1 K11"
+    },
+    {
+      "subgroup": "Beer",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "Beer"
+      ],
+      "source": "Sale Kinn1 L11"
+    },
+    {
+      "subgroup": "Other",
+      "type": "Other",
+      "category": "Other",
+      "criteria": [
+        "Other"
+      ],
+      "source": "Sale Kinn1 N11"
+    }
+  ],
+  "catalog": [
+    {
+      "id": "[\"mineral water small\",\"beverage\",\"water/soda\"]",
+      "name": "Mineral water Small",
+      "posGroup": "Beverage",
+      "sourceCategory": "Water/Soda",
+      "prices": [
+        80
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"green tea (re-fill)\",\"beverage\",\"coffee and tea\"]",
+      "name": "Green tea (Re-fill)",
+      "posGroup": "Beverage",
+      "sourceCategory": "Coffee and Tea",
+      "prices": [
+        120
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kokuryu daiginjo ryu\",\"sake\",\"sake\"]",
+      "name": "Kokuryu Daiginjo Ryu",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        7500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"urara\",\"sake\",\"sake\"]",
+      "name": "Urara",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        7500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hiroki\",\"sake\",\"sake\"]",
+      "name": "Hiroki",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        11000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"dassai 23 (small)\",\"sake\",\"sake\"]",
+      "name": "DASSAI 23 (Small)",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        3280
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"omakase course\",\"food\",\"omakase\"]",
+      "name": "Omakase Course",
+      "posGroup": "Food",
+      "sourceCategory": "Omakase",
+      "prices": [
+        8000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"coke\",\"beverage\",\"soft drink\"]",
+      "name": "Coke",
+      "posGroup": "Beverage",
+      "sourceCategory": "Soft Drink",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kamokinshu\",\"sake\",\"sake\"]",
+      "name": "Kamokinshu",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        5000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"niwa no uguiso otoro glass\",\"sake\",\"sake\"]",
+      "name": "Niwa no uguiso otoro glass",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        480
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"azumaryu junmai daiginjo\",\"sake\",\"sake\"]",
+      "name": "Azumaryu Junmai Daiginjo",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        1800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"corkage fee\",\"\",\"\"]",
+      "name": "Corkage fee",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        1000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"chutoro\",\"\",\"\"]",
+      "name": "Chutoro",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"aji sushi\",\"\",\"\"]",
+      "name": "Aji sushi",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"soda\",\"beverage\",\"water/soda\"]",
+      "name": "Soda",
+      "posGroup": "Beverage",
+      "sourceCategory": "Water/Soda",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"corkage charge (wine/champagne)\",\"other\",\"corkage charge\"]",
+      "name": "Corkage Charge (Wine/champagne)",
+      "posGroup": "Other",
+      "sourceCategory": "Corkage Charge",
+      "prices": [
+        2000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"asahi\",\"beverage\",\"beer\"]",
+      "name": "Asahi",
+      "posGroup": "Beverage",
+      "sourceCategory": "Beer",
+      "prices": [
+        200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"aji\",\"\",\"\"]",
+      "name": "Aji",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        350,
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"ankimo\",\"\",\"\"]",
+      "name": "Ankimo",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        700,
+        600
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"zuwai gani\",\"\",\"\"]",
+      "name": "Zuwai gani",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"omega sake\",\"sake\",\"sake\"]",
+      "name": "Omega sake",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        85000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kinmedai\",\"\",\"\"]",
+      "name": "Kinmedai",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        350,
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"nameplate\",\"\",\"\"]",
+      "name": "Nameplate",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        25000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kokuryu daiginjo shizuku\",\"sake\",\"sake\"]",
+      "name": "Kokuryu daiginjo Shizuku",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        13000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"coke zero\",\"beverage\",\"soft drink\"]",
+      "name": "Coke Zero",
+      "posGroup": "Beverage",
+      "sourceCategory": "Soft Drink",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sparkling water\",\"beverage\",\"water/soda\"]",
+      "name": "Sparkling water",
+      "posGroup": "Beverage",
+      "sourceCategory": "Water/Soda",
+      "prices": [
+        120
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"mehikari\",\"\",\"\"]",
+      "name": "Mehikari",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        250
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kawahagi\",\"\",\"\"]",
+      "name": "Kawahagi",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        400,
+        350
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kamasu\",\"\",\"\"]",
+      "name": "Kamasu",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        250,
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sayori\",\"\",\"\"]",
+      "name": "Sayori",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        250
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hotate\",\"\",\"\"]",
+      "name": "Hotate",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"tsubugai\",\"\",\"\"]",
+      "name": "Tsubugai",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"koueigiku\",\"sake\",\"sake\"]",
+      "name": "Koueigiku",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        6000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"battarazuke\",\"\",\"\"]",
+      "name": "Battarazuke",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"heavensake niizawa\",\"sake\",\"sake\"]",
+      "name": "Heavensake Niizawa",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        61000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"schweppes\",\"beverage\",\"soft drink\"]",
+      "name": "Schweppes",
+      "posGroup": "Beverage",
+      "sourceCategory": "Soft Drink",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"karasumi\",\"\",\"\"]",
+      "name": "Karasumi",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"singha\",\"beverage\",\"beer\"]",
+      "name": "Singha",
+      "posGroup": "Beverage",
+      "sourceCategory": "Beer",
+      "prices": [
+        200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"nabeshima black\",\"sake\",\"sake\"]",
+      "name": "Nabeshima Black",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        45000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kamotsuru gold\",\"sake\",\"sake\"]",
+      "name": "Kamotsuru Gold",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"corkage charge (sake 750 ml. and under)\",\"other\",\"corkage charge\"]",
+      "name": "Corkage Charge (Sake 750 ml. and under)",
+      "posGroup": "Other",
+      "sourceCategory": "Corkage Charge",
+      "prices": [
+        2000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"bettarazuke\",\"\",\"\"]",
+      "name": "Bettarazuke",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        150,
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"wakanami\",\"sake\",\"sake\"]",
+      "name": "Wakanami",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        2800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"houou yuzu by glass\",\"sake\",\"sake\"]",
+      "name": "Houou Yuzu by glass",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        550
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"uni\",\"\",\"\"]",
+      "name": "Uni",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        1000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"niwa no uguisu otoro\",\"sake\",\"sake\"]",
+      "name": "Niwa no Uguisu Otoro",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        3800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"deposit\",\"\",\"\"]",
+      "name": "Deposit",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        4000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"takasago sakusaku umeshu\",\"sake\",\"sake\"]",
+      "name": "TAKASAGO Sakusaku Umeshu",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        1720
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"food\",\"\",\"\"]",
+      "name": "Food",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        9203.5
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sumi ika sushi\",\"\",\"\"]",
+      "name": "Sumi ika sushi",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hi no kishi\",\"sake\",\"sake\"]",
+      "name": "Hi No Kishi",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        16000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"yoshinokawa\",\"sake\",\"sake\"]",
+      "name": "Yoshinokawa",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        2800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"pickles\",\"\",\"\"]",
+      "name": "Pickles",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        150
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gobo\",\"\",\"\"]",
+      "name": "Gobo",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"houou yuzu\",\"sake\",\"sake\"]",
+      "name": "Houou Yuzu",
+      "posGroup": "Sake",
+      "sourceCategory": "Sake",
+      "prices": [
+        4200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"otoro\",\"\",\"\"]",
+      "name": "Otoro",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"complimentary 1 seat\",\"food\",\"omakase\"]",
+      "name": "complimentary 1 seat",
+      "posGroup": "Food",
+      "sourceCategory": "Omakase",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    }
+  ],
+  "files": [
+    {
+      "name": "SUSHI SARYU-รายงานยอดขายแยกตามรายละเอียดบิล 1-SEP-26.csv",
+      "sha256": "0ee733096951578cee3d37d469df506779d2a312da243406ff00434ff5128ecd",
+      "text": "\"วันที่ชำระเงิน\",\"เวลาที่ชำระเงิน\",\"หมายเลขใบเสร็จ / ID\",\"INV. No\",\"รหัสถาดเก็บเงิน\",\"รหัสเมนู\",\"ชื่อเมนู\",\"ประเภทการสั่ง\",\"จำนวน\",\"ราคาต่อหน่วย\",\"ยอดก่อนลด\",\"ส่วนลดสินค้า\",\"ส่วนลดสินค้า %\",\"ราคาสุทธิ\",\"ประเภทภาษีของรายการ\",\"ช่องทาง\",\"โต๊ะ\",\"ชื่อลูกค้า\",\"เบอร์โทรศัพท์\",\"ประเภทการชำระเงิน\",\"วิธีบันทึกรายการชำระ\",\"รหัสชำระเงินแบบกำหนดเอง\",\"หมายเหตุ\",\"ประเภทโปรโมชั่น\",\"กลุ่ม\",\"หมวดสินค้า\",\"เปิดบิลโดย\",\"ปิดบิลโดย\",\"สาขา\"\n\"01/09/2026\",\"20:22\",\"RIVMX\",\"K01/00002181\",\"EY5\",\"\",\"Mineral water Small\",\"Dine-In\",\"1\",\"80\",\"80\",\"0\",\"0%\",\"80\",\"VATable\",\"หน้าร้าน\",\"2\",\"\",\"\",\"Split Amount\",\"บันทึกเอง\",\"\",\"\",\"\",\"Beverage\",\"Water/Soda\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:22\",\"RIVMX\",\"K01/00002181\",\"EY5\",\"\",\"Green tea (Re-fill)\",\"Dine-In\",\"1\",\"120\",\"120\",\"0\",\"0%\",\"120\",\"VATable\",\"หน้าร้าน\",\"2\",\"\",\"\",\"Split Amount\",\"บันทึกเอง\",\"\",\"\",\"\",\"Beverage\",\"Coffee and Tea\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:22\",\"RIVMX\",\"K01/00002181\",\"EY5\",\"\",\"Heavensake Noguchi\",\"Dine-In\",\"1\",\"61000\",\"61,000\",\"0\",\"0%\",\"61,000\",\"VATable\",\"หน้าร้าน\",\"2\",\"\",\"\",\"Split Amount\",\"บันทึกเอง\",\"\",\"\",\"\",\"Sake\",\"Sake\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:22\",\"RIVMX\",\"K01/00002181\",\"EY5\",\"\",\"Omakase Course\",\"Dine-In\",\"2\",\"8000\",\"16,000\",\"0\",\"0%\",\"16,000\",\"VATable\",\"หน้าร้าน\",\"2\",\"\",\"\",\"Split Amount\",\"บันทึกเอง\",\"\",\"\",\"\",\"Food\",\"Omakase\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"R3ZRT\",\"K01/00002182\",\"EY5\",\"\",\"Singha\",\"Dine-In\",\"1\",\"200\",\"200\",\"0\",\"0%\",\"200\",\"VATable\",\"หน้าร้าน\",\"1\",\"\",\"\",\"Alipay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Beverage\",\"Beer\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"R3ZRT\",\"K01/00002182\",\"EY5\",\"\",\"Mineral water Small\",\"Dine-In\",\"1\",\"80\",\"80\",\"0\",\"0%\",\"80\",\"VATable\",\"หน้าร้าน\",\"1\",\"\",\"\",\"Alipay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Beverage\",\"Water/Soda\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"R3ZRT\",\"K01/00002182\",\"EY5\",\"\",\"Urara\",\"Dine-In\",\"1\",\"7500\",\"7,500\",\"0\",\"0%\",\"7,500\",\"VATable\",\"หน้าร้าน\",\"1\",\"\",\"\",\"Alipay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Sake\",\"Sake\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"R3ZRT\",\"K01/00002182\",\"EY5\",\"\",\"Kamotsuru Gold\",\"Dine-In\",\"1\",\"900\",\"900\",\"0\",\"0%\",\"900\",\"VATable\",\"หน้าร้าน\",\"1\",\"\",\"\",\"Alipay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Sake\",\"Sake\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"R3ZRT\",\"K01/00002182\",\"EY5\",\"\",\"Omakase Course\",\"Dine-In\",\"1\",\"8000\",\"8,000\",\"0\",\"0%\",\"8,000\",\"VATable\",\"หน้าร้าน\",\"1\",\"\",\"\",\"Alipay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Food\",\"Omakase\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"Total\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"10.00\",\"85,880.00\",\"93,880.00\",\"0.00\",\"\",\"93,880.00\",\"\",\"\",\"13.00\",\"0.00\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"\""
+    },
+    {
+      "name": "SUSHI SARYU-รายงานสรุปยอดขายแยกตามบิล 1-SEP-26.csv",
+      "sha256": "8b49fe58734f65c2ef09e7d812bf71d2c92875dcd45451ee23618c0b295f66fe",
+      "text": "\"วันที่ชำระเงิน\",\"เวลาที่ชำระเงิน\",\"เวลา\",\"หมายเลขใบเสร็จ / ID\",\"POS ID\",\"INV. No\",\"ยอดก่อนลด\",\"ส่วนลดสินค้า\",\"ส่วนลดบิล\",\"ยอดรวม ยอดก่อนลด - ส่วนลดสินค้า\",\"ค่าบริการ\",\"ยอดสินค้าไม่มีภาษี\",\"ยอดสินค้ามีภาษี\",\"ยอดก่อนภาษี ยอดรวม + ค่าบริการ\",\"ภาษี\",\"มูลค่า Voucher มูลค่า Voucher มีโอกาสที่จะมากกว่ายอดรวมทั้งบิล ส่วนลดที่ใช้ได้สูงสุดจึงเป็นยอดรวมของบิล\",\"ส่วนลด Voucher\",\"ยอดปัดเศษ\",\"ค่าจัดส่ง\",\"รวมสุทธิ (ยอดก่อนภาษี + ภาษี +  \t\t\t\t\t\t\t\t\t\t\t\tยอดปัดเศษ) -  \t\t\t\t\t\t\t\t\t\t\t\tยอดขายสินค้าไม่มีภาษี\",\"ทิป\",\"คืนเงิน\",\"ประเภทการสั่ง\",\"รหัสถาดเก็บเงิน\",\"ประเภทการชำระเงิน\",\"วิธีบันทึกรายการชำระ\",\"รหัสชำระเงินแบบกำหนดเอง\",\"ช่องทาง\",\"โต๊ะ\",\"จำนวนลูกค้า\",\"ชื่อลูกค้า\",\"หมายเหตุ\",\"LINE MAN วันที่ปรับยอด\",\"LINE MAN ยอดปรับยอด\",\"ประเภทโปรโมชั่น\",\"โปรโมชั่นโค้ด\",\"เปิดบิลโดย\",\"ปิดบิลโดย\",\"สาขา\"\n\"01/09/2026\",\"20:22\",\"25 min\",\"RIVMX\",\"E030220002A1827\",\"K01/00002181\",\"77,200\",\"0\",\"0\",\"77,200\",\"7,720\",\"0\",\"77,200\",\"84,920\",\"5,944.40\",\"0\",\"0\",\"0.6\",\"0\",\"90,865\",\"0\",\"0\",\"Dine-In\",\"EY5\",\"Split Amount\",\"บันทึกเอง\",\"\",\"หน้าร้าน\",\"2\",\"2\",\"ชื่อบริษัท : บริษัท ฟิกซ์เทค จำกัด\",\"\",\"-\",\"0\",\"\",\"\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"01/09/2026\",\"20:31\",\"35 min\",\"R3ZRT\",\"E030220002A1827\",\"K01/00002182\",\"16,680\",\"0\",\"0\",\"16,680\",\"1,668\",\"0\",\"16,680\",\"18,348\",\"1,284.36\",\"0\",\"0\",\"0.64\",\"0\",\"19,633\",\"0\",\"0\",\"Dine-In\",\"EY5\",\"Alipay\",\"บันทึกเอง\",\"\",\"หน้าร้าน\",\"1\",\"1\",\"\",\"\",\"-\",\"0\",\"\",\"\",\"Mookda\",\"Mookda\",\"Sushi Saryu\"\n\"Total\",\"\",\"\",\"\",\"\",\"\",\"93,880.00\",\"0.00\",\"0.00\",\"93,880.00\",\"9,388.00\",\"0.00\",\"93,880.00\",\"103,268.00\",\"7,228.76\",\"0.00\",\"0.00\",\"1.24\",\"0.00\",\"110,498.00\",\"0.00\",\"0.00\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"3.00\",\"\",\"\",\"\",\"0.00\",\"\",\"0.00\",\"\",\"\",\"\""
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-dashboard);
+  --font-heading: var(--font-dashboard);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) * 0.65);
+  --radius-md: calc(var(--radius) * 0.82);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.35);
+  --radius-2xl: calc(var(--radius) * 1.75);
+}
+
+:root {
+  --font-dashboard: Tahoma, 'Noto Sans Thai', 'Segoe UI', sans-serif;
+  --background: #f5f6f2;
+  --foreground: #17211b;
+  --card: #ffffff;
+  --card-foreground: #17211b;
+  --popover: #ffffff;
+  --popover-foreground: #17211b;
+  --primary: #153f32;
+  --primary-foreground: #ffffff;
+  --secondary: #edf0e8;
+  --secondary-foreground: #223028;
+  --muted: #f0f2ed;
+  --muted-foreground: #6f786f;
+  --accent: #e5eee8;
+  --accent-foreground: #153f32;
+  --destructive: #c23d3d;
+  --border: #dde1da;
+  --input: #d5dbd2;
+  --ring: #3c7b60;
+  --chart-1: #4475c4;
+  --chart-2: #ef7d32;
+  --chart-3: #a8a8a2;
+  --chart-4: #f1bd21;
+  --chart-5: #6ca743;
+  --radius: 0.75rem;
+}
+
+.dark {
+  --background: #111713;
+  --foreground: #f3f5f0;
+  --card: #19211c;
+  --card-foreground: #f3f5f0;
+  --popover: #19211c;
+  --popover-foreground: #f3f5f0;
+  --primary: #96c7ab;
+  --primary-foreground: #102018;
+  --secondary: #253029;
+  --secondary-foreground: #f3f5f0;
+  --muted: #222c26;
+  --muted-foreground: #aab4ac;
+  --accent: #26382e;
+  --accent-foreground: #d9eee1;
+  --destructive: #ee7070;
+  --border: #334139;
+  --input: #3a493f;
+  --ring: #96c7ab;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    @apply bg-background font-sans;
+  }
+
+  body {
+    @apply min-h-screen bg-background text-foreground antialiased;
+  }
+
+  button,
+  input {
+    font: inherit;
+  }
+}
+
+::selection {
+  background: #c8dfcf;
+  color: #153f32;
+}
+
+.dashboard-grid {
+  background-image: radial-gradient(circle at 1px 1px, rgb(21 63 50 / 5%) 1px, transparent 0);
+  background-size: 22px 22px;
+}
+
+/* Date range reference: two adjacent months and a right-hand preset column. */
+.reference-date-picker {
+  --primary: #5b7dbb;
+  --primary-foreground: #fff;
+  --muted: #e8eef8;
+  --muted-foreground: #979797;
+  --ring: #5b7dbb;
+  --cell-radius: 2px;
+  color: #183553;
+  background: #fff;
+}
+.date-picker-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 160px;
+  gap: 8px;
+}
+.date-preset {
+  min-height: 28px;
+  border-radius: 3px;
+  background: #f4f4f4;
+  padding: 4px 12px;
+  color: #6388c4;
+  text-align: left;
+  font-size: 12px;
+  cursor: pointer;
+}
+.date-preset:hover { background: #e9eff9; }
+.date-preset[aria-pressed='true'] { background: #5682c9; color: #fff; font-weight: 600; }
+.date-preset:focus-visible, .date-calendar-nav:focus-visible { outline: 2px solid #5b7dbb; outline-offset: 2px; }
+.date-calendar-nav { display: flex; align-items: center; justify-content: center; width: 30px; height: 30px; color: #183553; cursor: pointer; }
+.date-calendar-nav:disabled { opacity: .35; cursor: default; }
+.reference-date-picker [data-slot='calendar'] { --cell-radius: 2px; }
+.reference-date-picker [data-day] { font-size: 12px; border-radius: 2px; }
+.reference-date-picker [data-range-middle='true'] { border-radius: 0; }
+@media (max-width: 600px) {
+  .date-picker-layout { grid-template-columns: minmax(0, 1fr); }
+  .date-picker-layout aside { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .reference-date-picker [data-slot='calendar'] > div { overflow-x: auto; }
+}

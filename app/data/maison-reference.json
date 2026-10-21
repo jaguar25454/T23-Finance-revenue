@@ -1,0 +1,3884 @@
+{
+  "workbook": {
+    "name": "Alpea_Daily_Sales_Report_260822-For Codex.xlsx",
+    "sha256": "522294c07965060eca9066d23616134a5acb6b0494b13402ff484fc398a62c79"
+  },
+  "branch": "Maison Dunand and Alpea",
+  "groups": [
+    {
+      "subgroup": "Set Menu",
+      "type": "Food",
+      "category": "Food",
+      "criteria": [
+        "LM SET menu of month",
+        "(M) 6 courses",
+        "(M) Signatures dishes",
+        "T1749xPhilipp"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "A La Carte",
+      "type": "Food",
+      "category": "Food",
+      "criteria": [
+        "Breakfast",
+        "cantal Farmed pig, Apple,Mustard",
+        "Festive Goodies",
+        "Food Lineman",
+        "Food menu Lineman",
+        "Pasta",
+        "Sandwiches Lineman"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Other Food",
+      "type": "Food",
+      "category": "Food",
+      "criteria": [
+        "Alps cheeses",
+        "Bread",
+        "Bread Lineman",
+        "Breads",
+        "Butter and Cream",
+        "Dry Products",
+        "Ham & Sausages",
+        "Jam and Honey",
+        "Oil & Balsamic / Vinegar",
+        "Pastries Lineman",
+        "Pastry",
+        "Quiche",
+        "Salt",
+        "vegan",
+        "Other Food"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Water",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Drink Lineman",
+        "(M) Water"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Soft Drink",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "(M) Juices",
+        "(M) Soft-Drinks",
+        "Evian Sparkling"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Mocktail",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Mocktail"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Coffee/Tea",
+      "type": "Beverage - Non-Alcohol",
+      "category": "Beverage - Non-Alcohol",
+      "criteria": [
+        "Coffee",
+        "(M) Coffee & Tea",
+        "Tea"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Wine Glass",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "Alpea By Glass",
+        "(M) Red Wine Glass",
+        "(M) Sparkling Glass",
+        "(M) Sweet / Fortified Wine Glass",
+        "(M) White Wine Glass",
+        "(M) Wine Pairing"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Wine Bottle",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "Alsace - Red",
+        "Alsace - Riesling",
+        "Alsace - White",
+        "Asia Red",
+        "Asia WHITE",
+        "Austria - White",
+        "Beaujolais",
+        "Bordeaux - Red",
+        "Bourgogne - Red",
+        "Bourgogne - White",
+        "Germany - Red",
+        "Germany - White",
+        "Italy - Red",
+        "Italy - White",
+        "Jura - Red",
+        "Jura - White",
+        "Languedoc & Roussillon, Provence- White",
+        "Languedoc & Roussillon - Red",
+        "(M) Champagne & Sparkling",
+        "(M) Savoie - Red",
+        "(M) Savoie - White",
+        "Rose",
+        "South-West - Red",
+        "Sweet & Fortified",
+        "Vallee De La Loire - Red",
+        "Vallee De La Loire - White",
+        "Vallee Du Rhone - Red",
+        "Vallee Du Rhone - White"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Cocktail",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "(M) Aperitifs",
+        "(M) Cocktails",
+        "Tequila"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Beers",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "(M) Beers"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Hard Liquor",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "(M) American Whiskey",
+        "(M) Bas-Armagnac",
+        "(M) Calvados",
+        "(M) Cognac",
+        "(M) French Eaux de Vie",
+        "(M) Gin",
+        "(M) Liquors",
+        "(M) Rum",
+        "(M) Scotch Whisky",
+        "(M) Single Malt Whisky",
+        "(M) Vodka"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Corkage Charge",
+      "type": "Beverage - Alcohol",
+      "category": "Beverage - Alcohol",
+      "criteria": [
+        "(M) Corkage Charge"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Other",
+      "type": "Other",
+      "category": "Other",
+      "criteria": [
+        "Event"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    },
+    {
+      "subgroup": "Others",
+      "type": "Other",
+      "category": "Other",
+      "criteria": [
+        "Japan,Thailand",
+        "Others",
+        "Savory Items",
+        "Shop Products",
+        "Specials"
+      ],
+      "source": "Code A:C + Sale Alpea rows 10-11"
+    }
+  ],
+  "catalog": [
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium rare x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium Rare x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hungry hub 5 courses\",\"\",\"\"]",
+      "name": "Hungry Hub 5 Courses",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        2506.37
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"evian still 750 ml\",\"non-alcoholic drinks\",\"(m) water\"]",
+      "name": "Evian Still 750 Ml",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Water",
+      "prices": [
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"latte\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Latte",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"evian sparkling 750 ml\",\"non-alcoholic drinks\",\"(m) water\"]",
+      "name": "Evian Sparkling 750 Ml",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Water",
+      "prices": [
+        300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"alpage 7 dishes\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Alpage 7 dishes",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        4950
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1 pick up : pick up x 1 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1 Pick up : Pick up x 1 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : garden pea x 1 summer trails : omble chevalier x 1 main course : beef x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"mariage frères impérial earl grey\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Mariage Frères IMPÉRIAL Earl Grey",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sentier 5 dishes\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Sentier 5 dishes",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        2950
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"alps wine pairing 2 gls\",\"wine pairing\",\"(m) wine pairing\"]",
+      "name": "Alps Wine Pairing 2 Gls",
+      "posGroup": "Wine Pairing",
+      "sourceCategory": "(M) Wine Pairing",
+      "prices": [
+        1450
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl e.guigal ''cote du rhone'' rhone valley\",\"wine glass\",\"(m) red wine glass\"]",
+      "name": "GL E.Guigal ''Cote Du Rhone'' Rhone Valley",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Red Wine Glass",
+      "prices": [
+        650
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl maison des ardoisières ''silice blanc'' savoie\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "GL Maison Des Ardoisières ''Silice Blanc'' Savoie",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"espresso\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Espresso",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 4 main course : beef x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 4 Main course : Beef x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 10 summer trails : tomato x 10 summer trails : garden pea x 10 summer trails : omble chevalier x 10 main course : pigeon x 4 main course : beef x 6 cheese : cheese bread x 10 dessert : alpine sweets x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 10 Summer Trails : Tomato x 10 Summer Trails : Garden Pea x 10 Summer Trails : Omble Chevalier x 10 Main course : Pigeon x 4 Main course : Beef x 6 Cheese : Cheese Bread x 10 Dessert : Alpine Sweets x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"chamomile blossom tea\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Chamomile Blossom Tea",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl granmonte durif\",\"wine glass\",\"(m) red wine glass\"]",
+      "name": "GL GranMonte Durif",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Red Wine Glass",
+      "prices": [
+        450
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl granmonte ''gradient'' verdelho\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "GL GranMonte ''Gradient'' Verdelho",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        450
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : turbot x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Turbot x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : turbot x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Turbot x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"brewer-clinfton. sta rita hills chardonnay\",\"wine bottle\",\"asia white\"]",
+      "name": "Brewer-Clinfton. Sta Rita Hills Chardonnay",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Asia WHITE",
+      "prices": [
+        2200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"ch. la mission\",\"wine glass\",\"(m) red wine glass\"]",
+      "name": "Ch. La Mission",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Red Wine Glass",
+      "prices": [
+        900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 10\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 10",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 3 pick up : pick up x 1 pick up : brioche x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 3 Pick up : Pick up x 1 Pick up : Brioche x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sommet 9 dishes\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Sommet 9 dishes",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        6500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"tete de fruit rouge (g)\",\"wine glass\",\"(m) red wine glass\"]",
+      "name": "Tete De Fruit Rouge (G)",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Red Wine Glass",
+      "prices": [
+        890
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"urfré fou de chêne (gl)\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "Urfré Fou De Chêne (Gl)",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl elena walch ''riesling '' alto adige, italy\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "GL Elena Walch ''Riesling '' Alto Adige, Italy",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        750
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl ayala brut majeur\",\"wine glass\",\"(m) sparkling glass\"]",
+      "name": "GL Ayala Brut Majeur",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sparkling Glass",
+      "prices": [
+        1400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 3 main course : pigeon x 3 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 3 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"cheese\",\"\",\"\"]",
+      "name": "Cheese",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        1100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 3 main course : beef x 3 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 3 Main course : Beef x 3 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl pascal jolivet ''sancerre'' loire valley\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "GL Pascal Jolivet ''Sancerre'' loire valley",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"non alcohol pairing 6 gls\",\"non-alcoholic drinks\",\"mocktail\"]",
+      "name": "Non Alcohol Pairing 6 Gls",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "Mocktail",
+      "prices": [
+        2900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"marie copinet, ''la terre'' blanc de noirs brut nature\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Marie Copinet, ''La Terre'' Blanc de Noirs Brut Nature",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        9200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1 main course : omble chevalier x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1 Main course : Omble Chevalier x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 2 main course : pigeon x 3 main course : beef x 1 meat cooking level : medium rare x 2 meat cooking level : medium x 1 cheese : cheese bread x 3 dessert : alpine sweets x 3 cakes : birthday cake x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 3 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3 Cakes : Birthday Cake x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 2 main course : farm chicken x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 2 Main course : Farm Chicken x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"peppermint tea\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Peppermint Tea",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl drappier brut nature zero dosag\",\"wine glass\",\"(m) sparkling glass\"]",
+      "name": "GL Drappier Brut Nature Zero Dosag",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sparkling Glass",
+      "prices": [
+        1600
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"ch. la mission\",\"wine bottle\",\"bordeaux - red\"]",
+      "name": "Ch. La Mission",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Bordeaux - Red",
+      "prices": [
+        4800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1 meat cooking level : medium x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1 Meat Cooking Level : Medium x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gin figs\",\"\",\"\"]",
+      "name": "Gin Figs",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        450
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 2 pick up : pick up x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 2 Pick up : Pick up x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"domaine rolet arbois ''l''etoile'' chardonnay\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "Domaine Rolet Arbois ''L''Etoile'' Chardonnay",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        850
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"chignin, anne de la biguerne, jf quénard\",\"wine bottle\",\"(m) savoie - white\"]",
+      "name": "Chignin, Anne de la Biguerne, JF Quénard",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Savoie - White",
+      "prices": [
+        2900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : beef x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Beef x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"canard duchene\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Canard Duchene",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        7100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 5 summer trails : tomato x 5 summer trails : garden pea x 5 summer trails : omble chevalier x 5 main course : pigeon x 1 main course : beef x 4 meat cooking level : medium rare x 1 meat cooking level : medium x 4 cheese : cheese bread x 5 dessert : alpine sweets x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 5 Summer Trails : Tomato x 5 Summer Trails : Garden Pea x 5 Summer Trails : Omble Chevalier x 5 Main course : Pigeon x 1 Main course : Beef x 4 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 4 Cheese : Cheese Bread x 5 Dessert : Alpine Sweets x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : omble chevalier x 1 main course : beef x 1 meat cooking level : rare x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1 Meat Cooking Level : Rare x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : brioche x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Brioche x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"alps wine pairing 4 glass\",\"wine pairing\",\"(m) wine pairing\"]",
+      "name": "Alps Wine Pairing 4 Glass",
+      "posGroup": "Wine Pairing",
+      "sourceCategory": "(M) Wine Pairing",
+      "prices": [
+        3800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : omble chevalier x 3 main course : pigeon x 2 main course : lamb x 1 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 2 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"cheese trolley\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Cheese Trolley",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        950
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"decaf americano\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Decaf Americano",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl champagne ayala rose majeur\",\"wine glass\",\"(m) sparkling glass\"]",
+      "name": "GL Champagne Ayala Rose Majeur",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sparkling Glass",
+      "prices": [
+        1700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 1 meat cooking level : medium well x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : lamb x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Lamb x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : lamb x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"lime juice\",\"non-alcoholic drinks\",\"(m) juices\"]",
+      "name": "Lime Juice",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Juices",
+      "prices": [
+        170
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"red tea honey\",\"\",\"\"]",
+      "name": "Red Tea Honey",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        350
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 4 cakes : congratulations cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 4 Cakes : Congratulations Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 4 summer trails : omble chevalier x 4 main course : pigeon x 3 main course : lamb x 1 meat cooking level : medium rare x 2 meat cooking level : medium x 1 meat cooking level : medium well x 1 cheese : cheese bread x 4 dessert : alpine sweets x 4 cakes : congratulations cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 4 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 3 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4 Cakes : Congratulations Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"domaine des vercheres bourgogne\",\"wine bottle\",\"bourgogne - white\"]",
+      "name": "Domaine Des Vercheres Bourgogne",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Bourgogne - White",
+      "prices": [
+        3400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"chateau d’yquem, sauternes\",\"wine glass\",\"(m) sweet / fortified wine glass\"]",
+      "name": "Chateau D’yquem, Sauternes",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sweet / Fortified Wine Glass",
+      "prices": [
+        2800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pork x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pork x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : farm chicken x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Farm Chicken x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : snail x 2 main course : pigeon x 2 main course : lamb x 2 main course : pork x 2 main course : farm chicken x 2 meat cooking level : medium rare x 5 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Snail x 2 Main course : Pigeon x 2 Main course : Lamb x 2 Main course : Pork x 2 Main course : Farm Chicken x 2 Meat Cooking Level : Medium Rare x 5 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"antinori péppoli chianti classico docg\",\"wine bottle\",\"italy - red\"]",
+      "name": "Antinori Péppoli Chianti Classico DOCG",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Italy - Red",
+      "prices": [
+        3300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"patrick bottex pied de mouton\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Patrick Bottex Pied de Mouton",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        2700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"beef tenderloin\",\"\",\"\"]",
+      "name": "Beef Tenderloin",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        1600
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : omble chevalier x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Omble Chevalier x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 4 main course : lamb x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 4 Main course : Lamb x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : ravioli x 2 summer trails : tomato x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Ravioli x 2 Summer Trails : Tomato x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 6 summer trails : ravioli x 2 summer trails : tomato x 4 summer trails : zucchini x 2 summer trails : garden pea x 6 summer trails : snail x 2 summer trails : omble chevalier x 6 main course : pigeon x 4 main course : lamb x 2 meat cooking level : medium rare x 6 cheese : cheese bread x 6 dessert : alpine sweets x 6 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 6 Summer Trails : Ravioli x 2 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 6 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 6 Main course : Pigeon x 4 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 6 Cheese : Cheese Bread x 6 Dessert : Alpine Sweets x 6 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 2 meat cooking level : medium x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 2 Meat Cooking Level : Medium x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"non alcohol pairing 4 gls\",\"non-alcoholic drinks\",\"mocktail\"]",
+      "name": "Non Alcohol Pairing 4 Gls",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "Mocktail",
+      "prices": [
+        2100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 2 pick up : pick up x 1 summer trails : tomato x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 2 Pick up : Pick up x 1 Summer Trails : Tomato x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"corkage fee\",\"table 1749\",\"menu\"]",
+      "name": "corkage Fee",
+      "posGroup": "Table 1749",
+      "sourceCategory": "Menu",
+      "prices": [
+        1000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"macallan rich cacao\",\"alcoholic drinks\",\"(m) single malt whisky\"]",
+      "name": "Macallan Rich Cacao",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Single Malt Whisky",
+      "prices": [
+        890
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 4 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 4 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3 main course : lamb x 1 pick up : pick up x 1 main course : pigeon x 3 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Lamb x 1 Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : omble chevalier x 4 main course : pigeon x 3 main course : lamb x 1 meat cooking level : medium rare x 3 meat cooking level : medium x 1 dessert : alpine sweets x 4 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 3 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 3 Meat Cooking Level : Medium x 1 Dessert : Alpine Sweets x 4 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : beef x 1 main course : lamb x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 6 summer trails : tomato x 6 summer trails : zucchini x 6 summer trails : omble chevalier x 6 main course : pigeon x 3 main course : lamb x 3 cheese : cheese bread x 6 dessert : alpine sweets x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 6 Summer Trails : Tomato x 6 Summer Trails : Zucchini x 6 Summer Trails : Omble Chevalier x 6 Main course : Pigeon x 3 Main course : Lamb x 3 Cheese : Cheese Bread x 6 Dessert : Alpine Sweets x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 6\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 6",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3 main course : lamb x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Lamb x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"flowers\",\"\",\"\"]",
+      "name": "Flowers",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        1500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"lemon tart\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Lemon Tart",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        466.35
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : lamb x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Lamb x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 4 summer trails : omble chevalier x 4 main course : lamb x 4 meat cooking level : medium rare x 4 cheese : cheese bread x 4 dessert : alpine sweets x 4 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 4 Summer Trails : Omble Chevalier x 4 Main course : Lamb x 4 Meat Cooking Level : Medium Rare x 4 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"black coffee\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Black coffee",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : lamb x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Lamb x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : garden pea x 3 summer trails : omble chevalier x 3 main course : pigeon x 1 main course : lamb x 2 meat cooking level : medium rare x 2 meat cooking level : medium well x 1 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Garden Pea x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 1 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"evian sparkling 330ml\",\"non-alcoholic drinks\",\"(m) water\"]",
+      "name": "Evian Sparkling 330ml",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Water",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"alps wine pairing 6 glass\",\"wine pairing\",\"(m) wine pairing\"]",
+      "name": "Alps Wine Pairing 6 Glass",
+      "posGroup": "Wine Pairing",
+      "sourceCategory": "(M) Wine Pairing",
+      "prices": [
+        4800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hungry hub alpage 7dishes\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Hungry Hub Alpage 7dishes",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        4205.61
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 1 summer trails : garden pea x 2 summer trails : snail x 1 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 1 meat cooking level : medium well x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 1 pick up : pick up x 1 summer trails : snail x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 1 Pick up : Pick up x 1 Summer Trails : Snail x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 1 summer trails : garden pea x 3 summer trails : snail x 1 summer trails : omble chevalier x 3 main course : pigeon x 2 main course : beef x 1 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 2 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : omble chevalier x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Omble Chevalier x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium well x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium well x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 1 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 1 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sour dough\",\"\",\"\"]",
+      "name": "Sour dough",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"elena walch pinot bianca alto adige doc\",\"wine bottle\",\"italy - white\"]",
+      "name": "Elena Walch Pinot Bianca Alto Adige DOC",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Italy - White",
+      "prices": [
+        4800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"ayala brut majeur 75 cl\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Ayala Brut Majeur 75 cl",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        6100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 4 summer trails : omble chevalier x 4 main course : beef x 4 meat cooking level : medium x 4 cheese : cheese bread x 4 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 4 Summer Trails : Omble Chevalier x 4 Main course : Beef x 4 Meat Cooking Level : Medium x 4 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"americano\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Americano",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 1 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 1 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : garden pea x 1 summer trails : omble chevalier x 1 main course : beef x 1 meat cooking level : medium x 1 cheese : cheese bread x 1 dessert : alpine sweets x 1 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 1 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"araksa - thai tea\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Araksa - Thai Tea",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"coudoulet blanc\",\"wine glass\",\"(m) white wine glass\"]",
+      "name": "Coudoulet Blanc",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) White Wine Glass",
+      "prices": [
+        900
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cheese : cheese bread x 2 pick up : pick up x 1 cheese : cheese bread x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cheese : Cheese Bread x 2 Pick up : Pick up x 1 Cheese : Cheese Bread x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 1 main course : pigeon x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 1 summer trails : snail x 4 summer trails : omble chevalier x 1 main course : pigeon x 2 main course : omble chevalier x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 4 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 1 Summer Trails : Snail x 4 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 2 Main course : Omble Chevalier x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : omble chevalier x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Omble Chevalier x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"billecart salmon, brut\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Billecart Salmon, Brut",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        7500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sentier 5 dishes\",\"\",\"\"]",
+      "name": "Sentier 5 dishes",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        2950
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 4 pick up : pick up x 1 pick up : brioche x 4 pick up : pick up x 1 pick up : brioche x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 4 Pick up : Pick up x 1 Pick up : Brioche x 4 Pick up : Pick up x 1 Pick up : Brioche x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 4 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 4 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 5 summer trails : tomato x 5 summer trails : garden pea x 2 summer trails : omble chevalier x 5 main course : pigeon x 4 main course : beef x 1 meat cooking level : medium rare x 3 meat cooking level : medium x 2 cheese : cheese bread x 2 dessert : alpine sweets x 5 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 5 Summer Trails : Tomato x 5 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 5 Main course : Pigeon x 4 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 3 Meat Cooking Level : Medium x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 5 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : beef x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Beef x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 5 summer trails : tomato x 5 summer trails : omble chevalier x 5 main course : pigeon x 2 main course : beef x 3 meat cooking level : medium rare x 4 meat cooking level : medium well x 1 dessert : alpine sweets x 5 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 5 Summer Trails : Tomato x 5 Summer Trails : Omble Chevalier x 5 Main course : Pigeon x 2 Main course : Beef x 3 Meat Cooking Level : Medium Rare x 4 Meat Cooking Level : Medium well x 1 Dessert : Alpine Sweets x 5 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 1 summer trails : garden pea x 1 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 1 summer trails : garden pea x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 3 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 3 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : omble chevalier x 3 main course : pigeon x 2 main course : beef x 1 meat cooking level : medium rare x 1 meat cooking level : medium x 1 meat cooking level : medium well x 1 dessert : alpine sweets x 3 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 2 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Dessert : Alpine Sweets x 3 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 4 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 4 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 1 summer trails : omble chevalier x 4 main course : pigeon x 2 main course : beef x 2 meat cooking level : medium rare x 4 cheese : cheese bread x 1 dessert : alpine sweets x 4 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 4 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 4 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : beef x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Beef x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : omble chevalier x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Omble Chevalier x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"e.guigal ''cote du rhone'' rhone valley\",\"wine bottle\",\"vallee du rhone - red\"]",
+      "name": "E.Guigal ''Cote Du Rhone'' Rhone Valley",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Vallee Du Rhone - Red",
+      "prices": [
+        3300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : omble chevalier x 4 main course : pigeon x 3 main course : beef x 1 meat cooking level : medium rare x 4 dessert : alpine sweets x 4 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 3 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 4 Dessert : Alpine Sweets x 4 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"double espresso\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Double Espresso",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 3 cakes : birthday cake x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 3 Cakes : Birthday Cake x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 3 main course : pigeon x 3 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3 cakes : birthday cake x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 3 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3 Cakes : Birthday Cake x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium rare x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 4 pick up : pick up x 1 pick up : brioche x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 4 Pick up : Pick up x 1 Pick up : Brioche x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 5 pick up : pick up x 1 pick up : brioche x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 5 Pick up : Pick up x 1 Pick up : Brioche x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"pont de gassac white\",\"wine bottle\",\"languedoc & roussillon, provence- white\"]",
+      "name": "Pont de Gassac White",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Languedoc & Roussillon, Provence- White",
+      "prices": [
+        2100
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"etèrna, salel & renaud\",\"wine bottle\",\"vallee du rhone - red\"]",
+      "name": "Etèrna, Salel & Renaud",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Vallee Du Rhone - Red",
+      "prices": [
+        3200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"negroni\",\"alcoholic drinks\",\"(m) cocktails\"]",
+      "name": "Negroni",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Cocktails",
+      "prices": [
+        400
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"special cocktails\",\"alcoholic drinks\",\"(m) cocktails\"]",
+      "name": "Special Cocktails",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Cocktails",
+      "prices": [
+        500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 3 main course : beef x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 3 Main course : Beef x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 5 summer trails : tomato x 5 summer trails : garden pea x 5 summer trails : omble chevalier x 5 main course : pigeon x 3 main course : beef x 2 meat cooking level : medium rare x 5 cheese : cheese bread x 5 dessert : alpine sweets x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 5 Summer Trails : Tomato x 5 Summer Trails : Garden Pea x 5 Summer Trails : Omble Chevalier x 5 Main course : Pigeon x 3 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 5 Cheese : Cheese Bread x 5 Dessert : Alpine Sweets x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 3 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 3 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"andaman, dark ale - full moon - thailand\",\"alcoholic drinks\",\"(m) beers\"]",
+      "name": "Andaman, Dark Ale - Full Moon - Thailand",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Beers",
+      "prices": [
+        295
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl chateau de chamirey ''mercurey'' burgundy\",\"wine glass\",\"(m) red wine glass\"]",
+      "name": "GL Chateau De Chamirey ''Mercurey'' Burgundy",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Red Wine Glass",
+      "prices": [
+        850
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : garden pea x 3 summer trails : omble chevalier x 3 main course : pigeon x 1 main course : beef x 2 meat cooking level : medium rare x 3 cheese : cheese bread x 3 dessert : alpine sweets x 3 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Garden Pea x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 1 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 3 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : beef x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Beef x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 3 pick up : pick up x 1 summer trails : tomato x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 3 Pick up : Pick up x 1 Summer Trails : Tomato x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : omble chevalier x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Omble Chevalier x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"lafaiise forissart verzenay grand cru\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "lafaiise forissart verzenay grand cru",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        7300
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"macchiato\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Macchiato",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sencha green tea\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Sencha Green Tea",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"coke\",\"non-alcoholic drinks\",\"(m) soft-drinks\"]",
+      "name": "Coke",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Soft-Drinks",
+      "prices": [
+        110
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : tomato x 14 summer trails : zucchini x 14 summer trails : garden pea x 14 summer trails : snail x 14 summer trails : omble chevalier x 14 dessert : alpine sweets x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Tomato x 14 Summer Trails : Zucchini x 14 Summer Trails : Garden Pea x 14 Summer Trails : Snail x 14 Summer Trails : Omble Chevalier x 14 Dessert : Alpine Sweets x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 12\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 12",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 14\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 14",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 13\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 13",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : garden pea x 1 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 1 dessert : alpine sweets x 1 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 1 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 1 summer trails : snail x 1 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 1 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"darroze bas-armagnac 20 ans\",\"alcoholic drinks\",\"(m) bas-armagnac\"]",
+      "name": "Darroze Bas-Armagnac 20 Ans",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Bas-Armagnac",
+      "prices": [
+        640
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"kleinbuhr gewurstraminer\",\"wine glass\",\"(m) sweet / fortified wine glass\"]",
+      "name": "Kleinbuhr Gewurstraminer",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sweet / Fortified Wine Glass",
+      "prices": [
+        780
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : omble chevalier x 1 main course : beef x 1 meat cooking level : medium rare x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"allobroges igp, argile, domaines des ardoisières\",\"wine bottle\",\"(m) savoie - red\"]",
+      "name": "Allobroges IGP, Argile, Domaines des Ardoisières",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Savoie - Red",
+      "prices": [
+        3800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : zucchini x 4 summer trails : snail x 4 main course : pigeon x 3 main course : beef x 1 meat cooking level : medium rare x 4 cheese : cheese bread x 4 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 4 Summer Trails : Snail x 4 Main course : Pigeon x 3 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 4 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : snail x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Snail x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : mini baguette x 1 summer trails : omble chevalier x 1 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Mini Baguette x 1 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : snail x 2 summer trails : omble chevalier x 1 main course : beef x 1 meat cooking level : medium rare x 1 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 1 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 5 summer trails : tomato x 5 summer trails : zucchini x 5 summer trails : garden pea x 5 summer trails : snail x 5 summer trails : omble chevalier x 5 main course : pigeon x 2 main course : beef x 2 main course : turbot x 1 meat cooking level : medium rare x 2 meat cooking level : medium well x 2 cheese : cheese bread x 5 dessert : alpine sweets x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 5 Summer Trails : Tomato x 5 Summer Trails : Zucchini x 5 Summer Trails : Garden Pea x 5 Summer Trails : Snail x 5 Summer Trails : Omble Chevalier x 5 Main course : Pigeon x 2 Main course : Beef x 2 Main course : Turbot x 1 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Medium well x 2 Cheese : Cheese Bread x 5 Dessert : Alpine Sweets x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : beef x 2 main course : turbot x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Beef x 2 Main course : Turbot x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"ice cappuccino\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Ice Cappuccino",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sancerre j.de villebois\",\"\",\"\"]",
+      "name": "Sancerre J.de Villebois",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        3500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 5 pick up : pick up x 1 summer trails : zucchini x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 5 Pick up : Pick up x 1 Summer Trails : Zucchini x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"pinot noir, paul blanck\",\"wine bottle\",\"alsace - red\"]",
+      "name": "Pinot Noir, Paul Blanck",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Alsace - Red",
+      "prices": [
+        3000
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"silver needle\",\"\",\"\"]",
+      "name": "Silver Needle",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : beef x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 1 meat cooking level : medium well x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"cappuccino\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Cappuccino",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 1 main course : lamb x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 1 Main course : Lamb x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : omble chevalier x 4 main course : beef x 1 main course : lamb x 3 meat cooking level : medium x 3 meat cooking level : medium well x 1 dessert : alpine sweets x 4 cakes : mother’s day cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Omble Chevalier x 4 Main course : Beef x 1 Main course : Lamb x 3 Meat Cooking Level : Medium x 3 Meat Cooking Level : Medium well x 1 Dessert : Alpine Sweets x 4 Cakes : Mother’s Day cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 main course : lamb x 1 main course : turbot x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Main course : Lamb x 1 Main course : Turbot x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : lamb x 1 main course : turbot x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Lamb x 1 Main course : Turbot x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 1 summer trails : garden pea x 2 summer trails : snail x 1 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"earl grey\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Earl Grey",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : beef x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"coke zero\",\"non-alcoholic drinks\",\"(m) soft-drinks\"]",
+      "name": "Coke Zero",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Soft-Drinks",
+      "prices": [
+        110
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 1 meat cooking level : medium well x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : tomato x 4 summer trails : zucchini x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : beef x 2 main course : lamb x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Beef x 2 Main course : Lamb x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : omble chevalier x 4 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Omble Chevalier x 4 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 4 summer trails : snail x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 4 Summer Trails : Snail x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : bricelet x 4 summer trails : tomato x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Bricelet x 4 Summer Trails : Tomato x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : garden pea x 4 summer trails : omble chevalier x 4 main course : beef x 2 main course : lamb x 2 meat cooking level : medium rare x 6 cheese : cheese bread x 5 dessert : alpine sweets x 5\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Garden Pea x 4 Summer Trails : Omble Chevalier x 4 Main course : Beef x 2 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 6 Cheese : Cheese Bread x 5 Dessert : Alpine Sweets x 5",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 7\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 7",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : omble chevalier x 4 main course : lamb x 4 meat cooking level : medium x 1 meat cooking level : medium well x 3 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Omble Chevalier x 4 Main course : Lamb x 4 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 3 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 dessert : alpine sweets x 4 pick up : pick up x 1 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Dessert : Alpine Sweets x 4 Pick up : Pick up x 1 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 1 meat cooking level : medium well x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium well x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 2 main course : lamb x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 2 Main course : Lamb x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : zucchini x 2 summer trails : garden pea x 4 summer trails : snail x 2 summer trails : omble chevalier x 4 main course : pigeon x 2 main course : lamb x 2 meat cooking level : medium rare x 4 cheese : cheese bread x 4 dessert : alpine sweets x 4\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 4 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 2 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 4 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : zucchini x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Zucchini x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : tomato x 2 summer trails : zucchini x 1 summer trails : garden pea x 2 main course : pigeon x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Tomato x 2 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 2 Main course : Pigeon x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : tomato x 2 summer trails : zucchini x 1 summer trails : garden pea x 2 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Tomato x 2 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : zucchini x 1 main course : pigeon x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Zucchini x 1 Main course : Pigeon x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : lamb x 2 main course : omble chevalier x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Lamb x 2 Main course : Omble Chevalier x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : garden pea x 3 summer trails : snail x 3 main course : lamb x 2 main course : omble chevalier x 1 meat cooking level : medium rare x 1 meat cooking level : medium well x 1 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Main course : Lamb x 2 Main course : Omble Chevalier x 1 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"hungry hub sommet 9 dishes\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Hungry hub Sommet 9 dishes",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        5522.52
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 3 main course : lamb x 2 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 3 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu 8 dishes\",\"\",\"\"]",
+      "name": "Set Menu 8 Dishes",
+      "posGroup": "",
+      "sourceCategory": "",
+      "prices": [
+        5500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : lamb x 1 pick up : pick up x 1 main course : pigeon x 1 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Lamb x 1 Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : lamb x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Lamb x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : zucchini x 4 summer trails : garden pea x 4 summer trails : snail x 4 summer trails : omble chevalier x 4 main course : pigeon x 1 main course : lamb x 3 meat cooking level : medium x 4 cheese : cheese bread x 4 dessert : alpine sweets x 4 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 4 Summer Trails : Garden Pea x 4 Summer Trails : Snail x 4 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 1 Main course : Lamb x 3 Meat Cooking Level : Medium x 4 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : snail x 2 main course : pigeon x 1 main course : omble chevalier x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Main course : Pigeon x 1 Main course : Omble Chevalier x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : omble chevalier x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Omble Chevalier x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 1 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 1 summer trails : garden pea x 1 summer trails : snail x 1 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 1 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : beef x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Beef x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : zucchini x 1 summer trails : garden pea x 1 summer trails : snail x 1 summer trails : omble chevalier x 1 main course : pigeon x 1 meat cooking level : medium rare x 1 cheese : cheese bread x 1 dessert : alpine sweets x 1 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Zucchini x 1 Summer Trails : Garden Pea x 1 Summer Trails : Snail x 1 Summer Trails : Omble Chevalier x 1 Main course : Pigeon x 1 Meat Cooking Level : Medium Rare x 1 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 1 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"silver needle\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Silver needle",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"singha lager - thailand\",\"alcoholic drinks\",\"(m) beers\"]",
+      "name": "Singha Lager - Thailand",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Beers",
+      "prices": [
+        160
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 1 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 1 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 1 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 1 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"sancerre j. de villebois\",\"wine bottle\",\"vallee de la loire - white\"]",
+      "name": "Sancerre J. de Villebois",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Vallee De La Loire - White",
+      "prices": [
+        3700
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu main course : pigeon x 1 main course : beef x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Main course : Pigeon x 1 Main course : Beef x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : beef x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"beaujolais villages blanc, jean-marc burgaud_2019\",\"wine bottle\",\"beaujolais\"]",
+      "name": "Beaujolais Villages Blanc, Jean-Marc Burgaud_2019",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Beaujolais",
+      "prices": [
+        3200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium x 1 meat cooking level : medium well x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium x 1 Meat Cooking Level : Medium well x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"classic wine pairing 4 glass\",\"wine pairing\",\"(m) wine pairing\"]",
+      "name": "Classic Wine Pairing 4 Glass",
+      "posGroup": "Wine Pairing",
+      "sourceCategory": "(M) Wine Pairing",
+      "prices": [
+        3800
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 3 summer trails : tomato x 3 summer trails : zucchini x 3 summer trails : garden pea x 3 summer trails : snail x 3 summer trails : omble chevalier x 3 main course : pigeon x 2 main course : beef x 1 meat cooking level : medium rare x 2 meat cooking level : medium x 1 cheese : cheese bread x 3 dessert : alpine sweets x 3\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 3 Summer Trails : Tomato x 3 Summer Trails : Zucchini x 3 Summer Trails : Garden Pea x 3 Summer Trails : Snail x 3 Summer Trails : Omble Chevalier x 3 Main course : Pigeon x 2 Main course : Beef x 1 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 3 Dessert : Alpine Sweets x 3",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"bussaba ex weiss - full moon - thailand\",\"alcoholic drinks\",\"(m) beers\"]",
+      "name": "Bussaba Ex Weiss - Full Moon - Thailand",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Beers",
+      "prices": [
+        295
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"macvin du jura (g)\",\"wine glass\",\"(m) sweet / fortified wine glass\"]",
+      "name": "Macvin du Jura (G)",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sweet / Fortified Wine Glass",
+      "prices": [
+        600
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"evian still 330ml\",\"non-alcoholic drinks\",\"(m) water\"]",
+      "name": "Evian Still 330ml",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Water",
+      "prices": [
+        180
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 1 summer trails : tomato x 1 summer trails : omble chevalier x 1 main course : lamb x 1 meat cooking level : medium rare x 1 dessert : alpine sweets x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 1 Summer Trails : Tomato x 1 Summer Trails : Omble Chevalier x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 1 Dessert : Alpine Sweets x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 1 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 1 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2 pick up : pick up x 1 pick up : brioche x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2 Pick up : Pick up x 1 Pick up : Brioche x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : lamb x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"iced latte\",\"non-alcoholic drinks\",\"(m) coffee & tea\"]",
+      "name": "Iced Latte",
+      "posGroup": "Non-Alcoholic Drinks",
+      "sourceCategory": "(M) Coffee & Tea",
+      "prices": [
+        220
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : zucchini x 2 summer trails : garden pea x 2 summer trails : snail x 2 summer trails : omble chevalier x 2 main course : lamb x 2 meat cooking level : medium rare x 1 meat cooking level : medium x 1 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : anniversary cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Zucchini x 2 Summer Trails : Garden Pea x 2 Summer Trails : Snail x 2 Summer Trails : Omble Chevalier x 2 Main course : Lamb x 2 Meat Cooking Level : Medium Rare x 1 Meat Cooking Level : Medium x 1 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Anniversary Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"côtes de nuits village, christophe jolivet\",\"wine bottle\",\"bourgogne - red\"]",
+      "name": "Côtes de Nuits Village, Christophe Jolivet",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "Bourgogne - Red",
+      "prices": [
+        4200
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 1 main course : lamb x 1 meat cooking level : medium rare x 2 cheese : cheese bread x 2 dessert : alpine sweets x 2 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 1 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Dessert : Alpine Sweets x 2 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 main course : pigeon x 1 main course : beef x 2 main course : lamb x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Main course : Pigeon x 1 Main course : Beef x 2 Main course : Lamb x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 4 summer trails : tomato x 4 summer trails : zucchini x 4 summer trails : garden pea x 4 summer trails : snail x 4 summer trails : omble chevalier x 4 main course : pigeon x 1 main course : beef x 2 main course : lamb x 1 meat cooking level : medium rare x 2 meat cooking level : well done x 2 cheese : cheese bread x 4 dessert : alpine sweets x 4 cakes : birthday cake x 1\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 4 Summer Trails : Tomato x 4 Summer Trails : Zucchini x 4 Summer Trails : Garden Pea x 4 Summer Trails : Snail x 4 Summer Trails : Omble Chevalier x 4 Main course : Pigeon x 1 Main course : Beef x 2 Main course : Lamb x 1 Meat Cooking Level : Medium Rare x 2 Meat Cooking Level : Well done x 2 Cheese : Cheese Bread x 4 Dessert : Alpine Sweets x 4 Cakes : Birthday Cake x 1",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"domaine sonnettes gros pif (pet net)\",\"wine bottle\",\"(m) champagne & sparkling\"]",
+      "name": "Domaine Sonnettes Gros Pif (Pet net)",
+      "posGroup": "Wine Bottle",
+      "sourceCategory": "(M) Champagne & Sparkling",
+      "prices": [
+        3500
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu pick up : pick up x 1 summer trails : garden pea x 2 pick up : pick up x 1 summer trails : garden pea x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Pick up : Pick up x 1 Summer Trails : Garden Pea x 2 Pick up : Pick up x 1 Summer Trails : Garden Pea x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"set menu summer trails : bricelet x 2 summer trails : tomato x 2 summer trails : garden pea x 2 summer trails : omble chevalier x 2 main course : pigeon x 2 meat cooking level : medium rare x 2 cheese : cheese bread x 2 cakes : birthday cake x 2\",\"menu\",\"(m) signatures dishes\"]",
+      "name": "Set Menu Summer Trails : Bricelet x 2 Summer Trails : Tomato x 2 Summer Trails : Garden Pea x 2 Summer Trails : Omble Chevalier x 2 Main course : Pigeon x 2 Meat Cooking Level : Medium Rare x 2 Cheese : Cheese Bread x 2 Cakes : Birthday Cake x 2",
+      "posGroup": "Menu",
+      "sourceCategory": "(M) Signatures dishes",
+      "prices": [
+        0
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"say play cold ipa - full moon - thailand\",\"alcoholic drinks\",\"(m) beers\"]",
+      "name": "Say Play Cold IPA - Full Moon - Thailand",
+      "posGroup": "Alcoholic Drinks",
+      "sourceCategory": "(M) Beers",
+      "prices": [
+        295
+      ],
+      "source": "Data Sale"
+    },
+    {
+      "id": "[\"gl granmonte ''bussaba''\",\"wine glass\",\"(m) sweet / fortified wine glass\"]",
+      "name": "GL GranMonte ''Bussaba''",
+      "posGroup": "Wine Glass",
+      "sourceCategory": "(M) Sweet / Fortified Wine Glass",
+      "prices": [
+        390
+      ],
+      "source": "Data Sale"
+    }
+  ],
+  "files": [
+    {
+      "name": "MAISON DUNAND-รายงานยอดขายแยกตามรายละเอียดบิล 1-SEP-26.csv",
+      "sha256": "101ebf748937f8fff7cf581d4ca0f6a2954584e0a567ffd29134797d31943412",
+      "text": "\"วันที่ชำระเงิน\",\"เวลาที่ชำระเงิน\",\"หมายเลขใบเสร็จ / ID\",\"INV. No\",\"รหัสถาดเก็บเงิน\",\"รหัสเมนู\",\"ชื่อเมนู\",\"ประเภทการสั่ง\",\"จำนวน\",\"ราคาต่อหน่วย\",\"ยอดก่อนลด\",\"ส่วนลดสินค้า\",\"ส่วนลดสินค้า %\",\"ราคาสุทธิ\",\"ประเภทภาษีของรายการ\",\"ช่องทาง\",\"โต๊ะ\",\"ชื่อลูกค้า\",\"เบอร์โทรศัพท์\",\"ประเภทการชำระเงิน\",\"วิธีบันทึกรายการชำระ\",\"รหัสชำระเงินแบบกำหนดเอง\",\"หมายเหตุ\",\"ประเภทโปรโมชั่น\",\"กลุ่ม\",\"หมวดสินค้า\",\"เปิดบิลโดย\",\"ปิดบิลโดย\",\"สาขา\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Wine Dinner Menu : Oyster x 2 Wine Dinner Menu : Veal Tartar x 2 Wine Dinner Menu :  Ravioli x 2 Wine Dinner Menu : Omble Chevalier x 2 Wine Dinner Menu : Lamb x 2 Cook temp : Medium rare x 2 Main course  : Beef x 2 Meat Cooking Level : Medium Rare  x 2 Dessert  : Apricot x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu :  Ravioli x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Omble Chevalier x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Lamb x 2 Cook temp : Medium rare x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Main course  : Beef x 2 Meat Cooking Level : Medium Rare  x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Dessert  : Apricot x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Wine Dinner Set Menu\",\"Dine-In\",\"2\",\"7500\",\"15,000\",\"0\",\"0%\",\"15,000\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Evian Still 750 Ml\",\"Dine-In\",\"1\",\"300\",\"300\",\"0\",\"0%\",\"300\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Non-Alcoholic Drinks\",\"(M) Water\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:15\",\"AG7JW\",\"A01/00008511\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Veal Tartar x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"7\",\"\",\"\",\"PromptPay\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Omble Chevalier x 4\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Wine Dinner Menu : Oyster x 4 Wine Dinner Menu : Veal Tartar x 4 Wine Dinner Menu :  Ravioli x 4 Wine Dinner Menu : Omble Chevalier x 4 Wine Dinner Menu : Lamb x 4 Main course  : Pigeon x 1 Main course  : Beef x 3 Dessert  : Apricot x 4\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Veal Tartar x 4\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu :  Ravioli x 4\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Evian Still 750 Ml\",\"Dine-In\",\"4\",\"300\",\"1,200\",\"0\",\"0%\",\"1,200\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Non-Alcoholic Drinks\",\"(M) Water\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Lamb x 4 Cook temp : Medium rare x 2 Cook temp : Medium x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Main course  : Pigeon x 1 Main course  : Beef x 3 Meat Cooking Level : Medium Rare  x 2 Meat Cooking Level : Medium x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Dessert  : Apricot x 4\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Evian Sparkling 750 Ml\",\"Dine-In\",\"3\",\"300\",\"900\",\"0\",\"0%\",\"900\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Non-Alcoholic Drinks\",\"(M) Water\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Rooibos Tea\",\"Dine-In\",\"1\",\"180\",\"180\",\"0\",\"0%\",\"180\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Non-Alcoholic Drinks\",\"(M) Coffee & Tea\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Dessert  : Apricot x 3\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Main course  : Beef x 3 Meat Cooking Level : Medium Rare  x 2 Meat Cooking Level : Medium x 1\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Lamb x 3 Cook temp : Medium rare x 2 Cook temp : Medium x 1\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Lamb x 2 Cook temp : Medium rare x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Omble Chevalier x 3\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"FIIMI\",\"A01/00008512\",\"V9S\",\"\",\"Set Menu Pick up : Pick up x 1 Wine Dinner Menu : Veal Tartar x 2\",\"Dine-In\",\"1\",\"0\",\"0\",\"0\",\"0%\",\"0\",\"VATable\",\"หน้าร้าน\",\"5\",\"\",\"\",\"VISA\",\"บันทึกเอง\",\"\",\"\",\"\",\"Menu\",\"(M) Signatures dishes\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"Total\",\"\",\"0.00\",\"0.00\",\"\",\"\",\"0.00\",\"0.00\",\"31.00\",\"8,580.00\",\"17,580.00\",\"0.00\",\"0.00\",\"17,580.00\",\"0.00\",\"0.00\",\"143.00\",\"0.00\",\"\",\"0.00\",\"0.00\",\"\",\"\",\"\",\"0.00\",\"0.00\",\"0.00\",\"0.00\",\"0.00\""
+    },
+    {
+      "name": "MAISON DUNAND-รายงานสรุปยอดขายแยกตามบิล 1-SEP-26.csv",
+      "sha256": "a643b381c60db586dcb39c0f5bb0a593790616989760cd8aceb30ef2ae82cdbd",
+      "text": "\"วันที่ชำระเงิน\",\"เวลาที่ชำระเงิน\",\"เวลา\",\"หมายเลขใบเสร็จ / ID\",\"POS ID\",\"INV. No\",\"ยอดก่อนลด\",\"ส่วนลดสินค้า\",\"ส่วนลดบิล\",\"ยอดรวม ยอดก่อนลด - ส่วนลดสินค้า\",\"ค่าบริการ\",\"ยอดสินค้าไม่มีภาษี\",\"ยอดสินค้ามีภาษี\",\"ยอดก่อนภาษี ยอดรวม + ค่าบริการ\",\"ภาษี\",\"มูลค่า Voucher มูลค่า Voucher มีโอกาสที่จะมากกว่ายอดรวมทั้งบิล ส่วนลดที่ใช้ได้สูงสุดจึงเป็นยอดรวมของบิล\",\"ส่วนลด Voucher\",\"ยอดปัดเศษ\",\"ค่าจัดส่ง\",\"รวมสุทธิ (ยอดก่อนภาษี + ภาษี +  \t\t\t\t\t\t\t\t\t\t\t\tยอดปัดเศษ) -  \t\t\t\t\t\t\t\t\t\t\t\tยอดขายสินค้าไม่มีภาษี\",\"ทิป\",\"คืนเงิน\",\"ประเภทการสั่ง\",\"รหัสถาดเก็บเงิน\",\"ประเภทการชำระเงิน\",\"วิธีบันทึกรายการชำระ\",\"รหัสชำระเงินแบบกำหนดเอง\",\"ช่องทาง\",\"โต๊ะ\",\"จำนวนลูกค้า\",\"ชื่อลูกค้า\",\"หมายเหตุ\",\"LINE MAN วันที่ปรับยอด\",\"LINE MAN ยอดปรับยอด\",\"ประเภทโปรโมชั่น\",\"โปรโมชั่นโค้ด\",\"เปิดบิลโดย\",\"ปิดบิลโดย\",\"สาขา\"\n\"01/09/2026\",\"22:15\",\"2 hour 47 min\",\"AG7JW\",\"E030220002A1873\",\"A01/00008511\",\"15,300\",\"0\",\"0\",\"15,300\",\"1,530\",\"0\",\"15,300\",\"16,830\",\"1,178.10\",\"0\",\"0\",\"0\",\"0\",\"18,008.10\",\"0\",\"0\",\"Dine-In\",\"V9S\",\"PromptPay\",\"บันทึกเอง\",\"\",\"หน้าร้าน\",\"7\",\"2\",\"\",\"\",\"-\",\"0\",\"\",\"\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"22:32\",\"3 hour 27 min\",\"FIIMI\",\"E030220002A1873\",\"A01/00008512\",\"69,780\",\"0\",\"0\",\"69,780\",\"6,978\",\"0\",\"69,780\",\"76,758\",\"5,373.06\",\"0\",\"0\",\"0\",\"0\",\"82,131.06\",\"0\",\"0\",\"Dine-In\",\"V9S\",\"VISA\",\"บันทึกเอง\",\"\",\"หน้าร้าน\",\"5\",\"9\",\"ชื่อบริษัท : บริษัท เอส.เค.ลิเคอร์จำกัด\",\"\",\"-\",\"0\",\"\",\"\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"23:09\",\"3 hour 55 min\",\"K1VRD\",\"E030220002A1873\",\"A01/00008513\",\"30,900\",\"0\",\"0\",\"30,900\",\"3,090\",\"0\",\"30,900\",\"33,990\",\"2,379.30\",\"0\",\"0\",\"0\",\"0\",\"36,369.30\",\"0\",\"0\",\"Dine-In\",\"V9S\",\"Entertain\",\"บันทึกเอง\",\"S.K. Liquor wine dinner\",\"หน้าร้าน\",\"3\",\"5\",\"\",\"\",\"-\",\"0\",\"\",\"\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"01/09/2026\",\"23:10\",\"3 hour 39 min\",\"2GS5S\",\"E030220002A1873\",\"A01/00008514\",\"123,700\",\"0\",\"0\",\"123,700\",\"12,370\",\"0\",\"123,700\",\"136,070\",\"9,524.90\",\"0\",\"0\",\"0\",\"0\",\"145,594.90\",\"0\",\"0\",\"Dine-In\",\"V9S\",\"City Ledger\",\"บันทึกเอง\",\"BTSC\",\"หน้าร้าน\",\"8\",\"12\",\"\",\"Void after print Inv.\",\"-\",\"0\",\"\",\"\",\"Rahman\",\"Rahman\",\"Maison Dunand and Alpea\"\n\"Total\",\"\",\"\",\"\",\"\",\"\",\"239,680.00\",\"0.00\",\"0.00\",\"239,680.00\",\"23,968.00\",\"0.00\",\"239,680.00\",\"263,648.00\",\"18,455.36\",\"0.00\",\"0.00\",\"0.00\",\"0.00\",\"282,103.36\",\"0.00\",\"0.00\",\"\",\"\",\"\",\"\",\"\",\"\",\"\",\"28.00\",\"\",\"\",\"\",\"0.00\",\"\",\"0.00\",\"\",\"\",\"\""
+    }
+  ]
+}

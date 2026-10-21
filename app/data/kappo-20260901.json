@@ -1,0 +1,611 @@
+{
+  "brandId": "kappo",
+  "branchId": null,
+  "businessDate": "2026-09-01",
+  "dateLabel": "01/09/26",
+  "periodStartTime": "06:00",
+  "periodEndTime": "23:59",
+  "sourceSystem": "Easy Restaurant",
+  "sources": {
+    "A103": {
+      "fileName": "A103-SalesTaxReport_202692.PDF",
+      "sha256": "a2dea3fea7b3cbd23a2b623645a19a1278b3d0832c3c7a70b208dc7c3c10b650",
+      "assignment": "User-selected KAPPO TAKASHI / 01 September 2026 batch; PDF period 06:00–23:59"
+    },
+    "S102": {
+      "fileName": "S102-SalesReport_202692.csv",
+      "sha256": "90b1710a98b4da769cc80d89fc375b0bde757a7359ba3f431b93ab4155f06d96",
+      "assignment": "User-selected KAPPO TAKASHI / 01 September 2026 batch; PDF period 06:00–23:59"
+    },
+    "S104": {
+      "fileName": "S104-SalesReportByItem_202692.csv",
+      "sha256": "fb37cbbb05af7a0cc411ea2894044d4d85cefc89f9e3d32ef2e2847d582b72f0",
+      "assignment": "User-selected KAPPO TAKASHI / 01 September 2026 batch; PDF period 06:00–23:59"
+    },
+    "S114": {
+      "fileName": "S114-SalesReportByItemCategoryWithDetail_202692.PDF",
+      "sha256": "36672bc8bdd73e7c864eb8e7f5dd22369267a0a64092a5882f94526a204e8bef",
+      "assignment": "User-selected KAPPO TAKASHI / 01 September 2026 batch; PDF period 06:00–23:59"
+    },
+    "S117": {
+      "fileName": "S117-SalesReportSlip_202692.PDF",
+      "sha256": "c8bf565f057bdf303f26c659b17d03c98d1551129df7320c4e3f6af639a7a221",
+      "assignment": "User-selected KAPPO TAKASHI / 01 September 2026 batch; PDF period 06:00–23:59"
+    }
+  },
+  "S102": {
+    "headers": [
+      "CategoryName",
+      "Multicode",
+      "ItemCode",
+      "ItemId",
+      "ItemDesc",
+      "UnitPrice",
+      "Qty",
+      "ExtendedPrice",
+      "Tax",
+      "ExtendedPriceTax",
+      "FullPrice",
+      "AmountDiscountWTax",
+      "AmountDiscount",
+      "UnitsInStock",
+      "Size",
+      "Color",
+      "BrandName",
+      "ItemUnitName",
+      "ItemGroupName",
+      "SVCAvg",
+      "SVCInitAvg",
+      "TerminalName",
+      "Remark"
+    ],
+    "rows": [
+      {
+        "CategoryName": "GREEN TEA",
+        "Multicode": "",
+        "ItemCode": "SOF-GRT001",
+        "ItemId": "984",
+        "ItemDesc": "Hot Green Tea",
+        "UnitPrice": 0.0,
+        "Qty": 2.0,
+        "ExtendedPrice": 0.0,
+        "Tax": 0.0,
+        "ExtendedPriceTax": 0.0,
+        "FullPrice": 0.0,
+        "AmountDiscountWTax": 0.0,
+        "AmountDiscount": 0.0,
+        "UnitsInStock": 0.0,
+        "Size": "",
+        "Color": "",
+        "BrandName": "",
+        "ItemUnitName": "ea",
+        "ItemGroupName": "SOFT DRINK",
+        "SVCAvg": 0.0,
+        "SVCInitAvg": 0.0,
+        "TerminalName": "All Terminal",
+        "Remark": ""
+      },
+      {
+        "CategoryName": "Premium-Level",
+        "Multicode": "",
+        "ItemCode": "SAK-PRM005",
+        "ItemId": "1037",
+        "ItemDesc": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+        "UnitPrice": 2354.0,
+        "Qty": 1.0,
+        "ExtendedPrice": 2200.0,
+        "Tax": 169.4,
+        "ExtendedPriceTax": 2589.4,
+        "FullPrice": 2354.0,
+        "AmountDiscountWTax": 0.0,
+        "AmountDiscount": 0.0,
+        "UnitsInStock": 0.0,
+        "Size": "",
+        "Color": "",
+        "BrandName": "",
+        "ItemUnitName": "BT",
+        "ItemGroupName": "SAKE",
+        "SVCAvg": 235.4,
+        "SVCInitAvg": 220.0,
+        "TerminalName": "All Terminal",
+        "Remark": ""
+      },
+      {
+        "CategoryName": "Premium-Level",
+        "Multicode": "",
+        "ItemCode": "SAK-PRM018",
+        "ItemId": "2180",
+        "ItemDesc": "Kakushika Junmai Daiginjo",
+        "UnitPrice": 3103.0,
+        "Qty": 1.0,
+        "ExtendedPrice": 2900.0,
+        "Tax": 223.3,
+        "ExtendedPriceTax": 3413.3,
+        "FullPrice": 3103.0,
+        "AmountDiscountWTax": 0.0,
+        "AmountDiscount": 0.0,
+        "UnitsInStock": 0.0,
+        "Size": "",
+        "Color": "",
+        "BrandName": "",
+        "ItemUnitName": "BT",
+        "ItemGroupName": "SAKE",
+        "SVCAvg": 310.3,
+        "SVCInitAvg": 290.0,
+        "TerminalName": "All Terminal",
+        "Remark": ""
+      },
+      {
+        "CategoryName": "SET",
+        "Multicode": "",
+        "ItemCode": "DIN-COU002",
+        "ItemId": "1072",
+        "ItemDesc": "DINNER COURSE B",
+        "UnitPrice": 4815.0,
+        "Qty": 6.0,
+        "ExtendedPrice": 25200.0,
+        "Tax": 1940.4,
+        "ExtendedPriceTax": 29660.4,
+        "FullPrice": 28890.0,
+        "AmountDiscountWTax": 1926.0,
+        "AmountDiscount": 1800.0,
+        "UnitsInStock": 0.0,
+        "Size": "",
+        "Color": "",
+        "BrandName": "",
+        "ItemUnitName": "ea",
+        "ItemGroupName": "",
+        "SVCAvg": 2696.4,
+        "SVCInitAvg": 2520.0,
+        "TerminalName": "All Terminal",
+        "Remark": ""
+      }
+    ],
+    "totals": {
+      "Qty": 10.0,
+      "ExtendedPrice": 30300.0,
+      "Tax": 2333.1,
+      "ExtendedPriceTax": 35663.1
+    }
+  },
+  "S104": {
+    "headers": [
+      "TranTypeId",
+      "TranTypeName",
+      "Acct",
+      "CustomerName",
+      "SaleId",
+      "SaleDate",
+      "SaleNum",
+      "ItemCode",
+      "ItemDesc",
+      "EngItemDesc",
+      "Qty",
+      "ExtendedPrice",
+      "Tax",
+      "ExtendedPriceTax",
+      "ItemUnitName"
+    ],
+    "rows": [
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "650",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:00",
+        "SaleNum": "RC690901001",
+        "ItemCode": "DIN-COU002",
+        "ItemDesc": "DINNER COURSE B",
+        "EngItemDesc": "",
+        "Qty": 2.0,
+        "ExtendedPrice": 9000.0,
+        "Tax": 630.0,
+        "ExtendedPriceTax": 9630.0,
+        "ItemUnitName": "ea"
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "649",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:48",
+        "SaleNum": "RC690901002",
+        "ItemCode": "DIN-COU002",
+        "ItemDesc": "DINNER COURSE B",
+        "EngItemDesc": "",
+        "Qty": 4.0,
+        "ExtendedPrice": 16200.0,
+        "Tax": 1134.0,
+        "ExtendedPriceTax": 17334.0,
+        "ItemUnitName": "ea"
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "650",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:00",
+        "SaleNum": "RC690901001",
+        "ItemCode": "SAK-PRM005",
+        "ItemDesc": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+        "EngItemDesc": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+        "Qty": 1.0,
+        "ExtendedPrice": 2200.0,
+        "Tax": 154.0,
+        "ExtendedPriceTax": 2354.0,
+        "ItemUnitName": "BT"
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "649",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:48",
+        "SaleNum": "RC690901002",
+        "ItemCode": "SAK-PRM018",
+        "ItemDesc": "SAKE HAKUSHIKA JUNMAI DAIGINJO 720 ML",
+        "EngItemDesc": "SAKE HAKUSHIKA JUNMAI DAIGINJO 720 ML",
+        "Qty": 1.0,
+        "ExtendedPrice": 2900.0,
+        "Tax": 203.0,
+        "ExtendedPriceTax": 3103.0,
+        "ItemUnitName": "BT"
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "650",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:00",
+        "SaleNum": "RC690901001",
+        "ItemCode": "SERVICECHARGE",
+        "ItemDesc": "Service Charge",
+        "EngItemDesc": "",
+        "Qty": 1.0,
+        "ExtendedPrice": 1120.0,
+        "Tax": 78.4,
+        "ExtendedPriceTax": 1198.4,
+        "ItemUnitName": ""
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "649",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:48",
+        "SaleNum": "RC690901002",
+        "ItemCode": "SERVICECHARGE",
+        "ItemDesc": "Service Charge",
+        "EngItemDesc": "",
+        "Qty": 1.0,
+        "ExtendedPrice": 1910.0,
+        "Tax": 133.7,
+        "ExtendedPriceTax": 2043.7,
+        "ItemUnitName": ""
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "650",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:00",
+        "SaleNum": "RC690901001",
+        "ItemCode": "SOF-GRT001",
+        "ItemDesc": "Green tea powder 40 gr",
+        "EngItemDesc": "Green tea powder 40 gr",
+        "Qty": 1.0,
+        "ExtendedPrice": 0.0,
+        "Tax": 0.0,
+        "ExtendedPriceTax": 0.0,
+        "ItemUnitName": "ea"
+      },
+      {
+        "TranTypeId": "1",
+        "TranTypeName": "Sales",
+        "Acct": "'000000000",
+        "CustomerName": "ลูกค้าทั่วไป เงินสด",
+        "SaleId": "649",
+        "SaleDate": "01 กันยายน 2569 20:59 20:59:48",
+        "SaleNum": "RC690901002",
+        "ItemCode": "SOF-GRT001",
+        "ItemDesc": "Green tea powder 40 gr",
+        "EngItemDesc": "Green tea powder 40 gr",
+        "Qty": 1.0,
+        "ExtendedPrice": 0.0,
+        "Tax": 0.0,
+        "ExtendedPriceTax": 0.0,
+        "ItemUnitName": "ea"
+      }
+    ],
+    "totals": {
+      "Qty": 12.0,
+      "ExtendedPrice": 33330.0,
+      "Tax": 2333.1,
+      "ExtendedPriceTax": 35663.1
+    }
+  },
+  "S114": {
+    "totals": {
+      "qty": 12.0,
+      "price": 35130.0,
+      "discount": 1800.0,
+      "tax": 2333.1,
+      "net": 35663.1
+    },
+    "rows": [
+      {
+        "category": "Discount / promotion",
+        "transaction": "Sales",
+        "itemCode": "SERVICECHARGE",
+        "itemDesc": "Service Charge",
+        "modifier": "",
+        "unitPrice": 1120.0,
+        "qty": 1.0,
+        "unit": "-",
+        "price": 1120.0,
+        "discount": 0.0,
+        "tax": 78.4,
+        "net": 1198.4,
+        "page": 1
+      },
+      {
+        "category": "Discount / promotion",
+        "transaction": "Sales",
+        "itemCode": "SERVICECHARGE",
+        "itemDesc": "Service Charge",
+        "modifier": "",
+        "unitPrice": 1910.0,
+        "qty": 1.0,
+        "unit": "-",
+        "price": 1910.0,
+        "discount": 0.0,
+        "tax": 133.7,
+        "net": 2043.7,
+        "page": 1
+      },
+      {
+        "category": "GREEN TEA",
+        "transaction": "Sales",
+        "itemCode": "SOF-GRT001",
+        "itemDesc": "Green tea powder 40 gr",
+        "modifier": "",
+        "unitPrice": 0.0,
+        "qty": 2.0,
+        "unit": "ea",
+        "price": 0.0,
+        "discount": 0.0,
+        "tax": 0.0,
+        "net": 0.0,
+        "page": 1
+      },
+      {
+        "category": "Premium-Level",
+        "transaction": "Sales",
+        "itemCode": "SAK-PRM005",
+        "itemDesc": "Nanbu Bijin Tokubetsu JunmaiI 720 ml",
+        "modifier": "",
+        "unitPrice": 2200.0,
+        "qty": 1.0,
+        "unit": "BT",
+        "price": 2200.0,
+        "discount": 0.0,
+        "tax": 154.0,
+        "net": 2354.0,
+        "page": 1
+      },
+      {
+        "category": "Premium-Level",
+        "transaction": "Sales",
+        "itemCode": "SAK-PRM018",
+        "itemDesc": "SAKE HAKUSHIKA JUNMAI DAIGINJO 720 ML",
+        "modifier": "",
+        "unitPrice": 2900.0,
+        "qty": 1.0,
+        "unit": "BT",
+        "price": 2900.0,
+        "discount": 0.0,
+        "tax": 203.0,
+        "net": 3103.0,
+        "page": 1
+      },
+      {
+        "category": "SET",
+        "transaction": "Sales",
+        "itemCode": "DIN-COU002",
+        "itemDesc": "DINNER COURSE B",
+        "modifier": "",
+        "unitPrice": 4500.0,
+        "qty": 6.0,
+        "unit": "ea",
+        "price": 27000.0,
+        "discount": 1800.0,
+        "tax": 1764.0,
+        "net": 26964.0,
+        "page": 1
+      }
+    ],
+    "categories": [
+      {
+        "category": "Discount / promotion",
+        "qty": 2.0,
+        "price": 3030.0,
+        "discount": 0.0,
+        "tax": 212.1,
+        "net": 3242.1
+      },
+      {
+        "category": "GREEN TEA",
+        "qty": 2.0,
+        "price": 0.0,
+        "discount": 0.0,
+        "tax": 0.0,
+        "net": 0.0
+      },
+      {
+        "category": "Premium-Level",
+        "qty": 2.0,
+        "price": 5100.0,
+        "discount": 0.0,
+        "tax": 357.0,
+        "net": 5457.0
+      },
+      {
+        "category": "SET",
+        "qty": 6.0,
+        "price": 27000.0,
+        "discount": 1800.0,
+        "tax": 1764.0,
+        "net": 26964.0
+      }
+    ],
+    "pages": 1,
+    "rowSums": {
+      "qty": 12.0,
+      "price": 35130.0,
+      "discount": 1800.0,
+      "tax": 2333.1,
+      "net": 35663.1
+    },
+    "categorySums": {
+      "qty": 12.0,
+      "price": 35130.0,
+      "discount": 1800.0,
+      "tax": 2333.1,
+      "net": 35663.1
+    }
+  },
+  "A103": {
+    "operator": "Kappo Takashi",
+    "establishment": "บริษัท เทอร์เทิล 5 จำกัด (สาขา 00001)",
+    "taxId": "0105561172718",
+    "branchAsPrinted": null,
+    "rows": [
+      {
+        "no": 1,
+        "invoice": "RC690901001",
+        "type": "ABB",
+        "customer": "ลูกค้าทั่วไป เงินสด",
+        "customerTaxId": "",
+        "customerBranch": "",
+        "eTax": "",
+        "value": 12320.0,
+        "tax": 862.4,
+        "rounding": 0.0,
+        "net": 13182.4
+      },
+      {
+        "no": 2,
+        "invoice": "RC690901002",
+        "type": "ABB",
+        "customer": "ลูกค้าทั่วไป เงินสด",
+        "customerTaxId": "",
+        "customerBranch": "",
+        "eTax": "",
+        "value": 21010.0,
+        "tax": 1470.7,
+        "rounding": 0.0,
+        "net": 22480.7
+      }
+    ],
+    "totals": {
+      "value": 33330.0,
+      "tax": 2333.1,
+      "rounding": 0.0,
+      "net": 35663.1
+    }
+  },
+  "S117": {
+    "reportStore": "Kappo Takashi",
+    "branch": null,
+    "date": "01/09/26",
+    "items": [
+      {
+        "label": "Food",
+        "value": 27000
+      },
+      {
+        "label": "Beverage",
+        "value": 0
+      },
+      {
+        "label": "Other",
+        "value": 5100
+      },
+      {
+        "label": "Discount",
+        "value": 1800
+      },
+      {
+        "label": "Service Charge",
+        "value": 3030
+      },
+      {
+        "label": "Tax",
+        "value": 2333.1
+      },
+      {
+        "label": "Total Sale",
+        "value": 35663.1
+      },
+      {
+        "label": "Sale by Pay on Account",
+        "value": 0
+      },
+      {
+        "label": "Sale by Gift Card",
+        "value": 0
+      },
+      {
+        "label": "OC",
+        "value": 0
+      },
+      {
+        "label": "Entertain",
+        "value": 0
+      },
+      {
+        "label": "Deposit",
+        "value": 0
+      },
+      {
+        "label": "Rounding",
+        "value": 0
+      }
+    ],
+    "totalSale": 35663.1,
+    "grandTotal": 35663.1,
+    "categories": [
+      {
+        "label": "Non Group",
+        "value": 30206.1
+      },
+      {
+        "label": "SOFT DRINK",
+        "value": 0
+      },
+      {
+        "label": "SAKE",
+        "value": 5457
+      }
+    ],
+    "payments": [
+      {
+        "label": "บัตรเครดิต",
+        "value": 35663.1
+      }
+    ],
+    "paymentTotal": 35663.1,
+    "payout": 0,
+    "cashDrawerTotal": 0,
+    "guests": 6,
+    "bills": 2,
+    "totalPerPerson": 5943.85
+  }
+}

@@ -1,0 +1,15 @@
+# SUSHI SARYU (local only)
+
+Reference: Kinn1_Daily_Sales_Report_260823.xlsx. Source hashes are in app/data/saryu-reference.json. Read all populated source rows to extract 57 unique name/group/category identities. The two FoodStory CSV reports for 01/09/26 contribute one additional menu, Heavensake Noguchi. Historical spreadsheet sales are not imported as current-day revenue.
+
+Type is Sale Kinn1 row 10; Sub Type is the sales column label in row 11; Category is FoodStory's category / Data Sale Z. Formula criteria in rows 8–9 connect Category to Sub Type. Blank category follows Data Sale AD's explicit Other food fallback. This includes source entries such as Deposit; no alternative accounting classification is invented. Corkage Charge goes to Alcohol per the reference, regardless of POS group Other. Saryu has no Category worksheet and no populated menu codes in the supplied CSV.
+
+Identity uses normalized original menu name + POS group + source category, serialized as a tuple. Display-name edits do not change identity. Changing source group/category creates a distinct item. Unknown categories remain Unmapped. Master prices are all distinct observed unit selling prices, not a current list price. Unit cost is never read into the application.
+
+Sales by Category uses item net (Data Sale N) after item discount and before service/tax/rounding, as the template specifies. Original FoodStory reports are retained as FoodStory reports, not fabricated S104/S117 snapshots. UI labels use Item net sales, and a displayed Discount must not be subtracted from that total a second time. Bill discounts remain separately identified and are not allocated to categories without a rule.
+
+01/09/26 control totals: Food 24,000; Non-Alcohol 280; Alcohol 69,600; Other 0; item sales 93,880; service 9,388; tax 7,228.76; rounding 1.24; final bills 110,498; 3 guests; 2 bills. Total / Person uses bill gross / guests = 31,293.33, following Guest kinn1 N, not S117's final-sale basis. No Entertain field exists: NO DATA. Monthly occupancy is NO DATA: the template's 6 × 17 denominator belongs to August, not a confirmed September schedule. Bills are not relabeled as physical tables.
+
+Verify requires two CSV types, matching branch Sushi Saryu, one business date, complete required fields, unique bill identities, numeric values, per-bill matching item sums, control totals, and final bill arithmetic. Nonzero refund, voucher, tip or delivery inputs block import until supported rules exist. Each new verification invalidates the prior result. Same-day import replaces instead of accumulating. Other brands' five-report workflow is unchanged.
+
+SARYU has an explicit separate JSON backup (Export SARYU Data / Restore SARYU Backup), containing applied master plus imported CSV source texts. Restore re-parses and validates sources and rebuilds read-only evidence before applying classification changes. Backup does not include unapplied drafts. This version does not synchronize GitHub, Google Drive or any central database. The three older restaurants retain their existing backup workflow.
